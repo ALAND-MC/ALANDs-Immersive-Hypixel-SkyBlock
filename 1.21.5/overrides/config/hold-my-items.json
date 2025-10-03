@@ -1,0 +1,15 @@
+{
+  "swingSpeed": 9,
+  "swimmingAnimation": true,
+  "climbAndCrawl": true,
+  "switch_speed": 0.018,
+  "viewmodelXOffset": 0.0,
+  "viewmodelYOffset": 0.0,
+  "viewmodelZOffset": 0.0,
+  "doorX": 0.0,
+  "doorY": 0.0,
+  "doorZ": 0.0,
+  "mb3DCompat": false,
+  "disabled": false,
+  "blacklistedItems": ""
+}
