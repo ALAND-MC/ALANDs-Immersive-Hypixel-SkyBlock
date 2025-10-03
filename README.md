@@ -221,8 +221,7 @@ I have other questions/feedback/issues...
 
 ⭐️ Credits
 
-* Huge thanks to ic22487 for creating the modpack icon! Get this man a Ko-fi on my behalf, would ya?
-  ic22487's Ko-fi: https://ko-fi.com/ic22487
+* Huge thanks to ic22487 for creating the modpack icon! Get this man a Ko-fi on my behalf, would ya? ic22487's Ko-fi: https://ko-fi.com/ic22487
 * Big thanks to TraitorAlmighty from the Furfsky Reborn team for helping out with optimization and setup.
 * Shoutout to haimcyfly and Stay True for being awesome. Check out Stay True's CurseForge page here: https://www.curseforge.com/minecraft/texture-packs/stay-true
 * All credit for the mods and resource packs goes to their original creators, I do not claim that I own any of their work. Be sure to check out and support their mods and other projects.
