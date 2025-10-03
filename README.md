@@ -191,6 +191,10 @@ Why do some player/NPC skins have broken faces?
 
 * If you're using Detailed Animations x Just Expressions like mentioned above, some skins with extra pixels in their texture will inevitably break because of the way Hypixel made them. To fix this, press ESC ➞ Mods ➞ Search for Entity Model Features and open config ➞ Models ➞ Player Settings ➞ Turn on "Only modify your player model and back out of the menu to save. This will disable player animations for all other players which isn't the best, but it's there if you want.
 
+How do I emote?
+
+* Tap the "Left Alt" key to open the emote wheel. To change this keybind, go to Settings ➞ Controls ➞ Keybinds ➞ Find the keybind for Emotecraft's emote wheel.
+
 Why is there no fog?
 
 * It's disabled due to a glitch which turns it pitch-black when entering the Matriarch. If you still want it, go to Resource Packs ➞ Click the config button over Visual Effects+ ➞ Set "Biome Fog" to "True" ➞ Close the menu.
