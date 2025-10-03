@@ -1,0 +1,10 @@
+{
+	"favorites": [
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"EGGLOCATOR\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"ANCESTRAL_SPADE\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"BAT_TALISMAN\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"FORAGING_WISDOM_BOOSTER\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}
