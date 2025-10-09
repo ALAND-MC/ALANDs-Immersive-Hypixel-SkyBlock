@@ -1,8 +1,10 @@
 {
   "2c3c97d72b1c4355b856dae991ddf5db": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "type": "FROG",
-      "exp": 2.535323E7,
+      "uuid": "e7cd9f0f-67eb-4010-a644-a1bda63e9d44",
+      "heldItem": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
+      "type": "JADE_DRAGON",
+      "exp": 2.515086893744741E8,
       "tier": "LEGENDARY"
     }
   }

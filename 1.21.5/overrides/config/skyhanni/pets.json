@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.059258269291462E7,
+              "exp": 4.061288759973971E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -41,7 +41,7 @@
               "petInternalName": "FLYING_FISH;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 3.007613095292866E8,
+              "exp": 3.0076571716048664E8,
               "uuid": "039672f1-b74a-47f4-ab53-aec5f59722ad"
             },
             {
@@ -525,7 +525,7 @@
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.46849747E8,
+              "exp": 2.515086893744741E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {

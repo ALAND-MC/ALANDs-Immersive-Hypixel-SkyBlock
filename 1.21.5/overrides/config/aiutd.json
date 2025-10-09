@@ -1,9 +1,9 @@
 {
   "menuAlert": true,
   "chatAlert": true,
-  "localVersion": "1.0.0",
+  "localVersion": "1.0.1",
   "versionAPI": "https://api.modrinth.com/v2/project/dSAe4Su8/version",
-  "changelogLink": "https://modrinth.com/modpack/https://modrinth.com/project/alands-immersive-hypixel-skyblock/changelog",
+  "changelogLink": "https://modrinth.com/modpack/alands-immersive-hypixel-skyblock/changelog",
   "maxChecks": 5,
   "multiVersion": false,
   "multiLoaderBool": false,
