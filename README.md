@@ -30,7 +30,7 @@ TIP 4: If you use the Hypixel+ resource pack, then put this inside the JVM argum
 
 TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it however you like!
 
-⚙️ Mods & Features (92)
+⚙️ Mods & Features (87)
 
 🌎 Hypixel SkyBlock Mods:
 
@@ -56,7 +56,6 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * More Culling
 * ScalableLux
 * Sodium
-* Stfu
 * Very Many Players (Fabric)
 
 ✨ Immersive Mods:
@@ -94,7 +93,6 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 
 * Better F1 Reborn: Adds an intermediate F1 state that turns off only the HUD
 * BetterF3: Makes the F3 menu more readable and customizable
-* Better Third Person: Allows you to freely rotate the camera in third person
 * Capes: Lets you use capes from OptiFine, LabyMod and other cape mods
 * Chat Patches: QoL changes and improvements to chat
 * Cubes Without Borders: Allows you to play Minecraft in a borderless fullscreen window
@@ -102,7 +100,6 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * Draggable Lists: Makes resource packs, servers, and more draggable
 * kennytvs-epic-force-close-loading-screen-mod-for-fabric: Removes the "Dirt" loading screen
 * LocalTime: Allows client-side control over time and weather
-* Client Time: Allows client-side control over time and weather, but for newer versions
 * Cursors Extended: Changes the mouse cursor to be more fancy and adaptive
 * Model Gap Fix: Fixes gaps in Block Models and Item Models
 * Mod Menu: Adds a mod menu to view and config your mods
@@ -132,9 +129,7 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * Fzzy Config
 * LibJF
 * M.R.U
-* MidnightLib
 * oωo (owo-lib)
-* Player Animation Library
 * Text Placeholder API
 * Uniform Fix
 * YetAnotherConfigLib (YACL)
