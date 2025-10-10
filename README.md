@@ -30,7 +30,7 @@ TIP 4: If you use the Hypixel+ resource pack, then put this inside the JVM argum
 
 TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it however you like!
 
-⚙️ Mods & Features (88)
+⚙️ Mods & Features (87)
 
 🌎 Hypixel SkyBlock Mods:
 
@@ -93,7 +93,6 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 
 * Better F1 Reborn: Adds an intermediate F1 state that turns off only the HUD
 * BetterF3: Makes the F3 menu more readable and customizable
-* Better Third Person: Allows you to freely rotate the camera in third person
 * Capes: Lets you use capes from OptiFine, LabyMod and other cape mods
 * Chat Patches: QoL changes and improvements to chat
 * Cubes Without Borders: Allows you to play Minecraft in a borderless fullscreen window
