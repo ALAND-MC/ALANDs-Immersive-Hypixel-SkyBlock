@@ -37,12 +37,12 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * SkyHanni: Broad list of QoL features (Garden, Chocolate Factory, Slayer, etc.)
 * Skyblocker: More QoL not in SkyHanni (Dungeons, Chat Filters, UI & Armor Customization, etc.)
 * Firmament: Small but neat QoL (Item List, Command Macros/Keybinds, NEU Textures, etc.)
+* SkyBlock Profile Viewer: Adds a /pv command to view player profiles like NEU
 
 ⚡️ Performance Mods:
 
 * Async
 * AsyncParticles
-* Audio Engine Tweaks
 * BadOptimizations
 * Better Biome Reblend
 * Dynamic FPS
@@ -134,7 +134,7 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * Uniform Fix
 * YetAnotherConfigLib (YACL)
 
-🖼️ Resource Packs (27)
+🖼️ Resource Packs (29)
 
 * Fresh Animations: Gives mobs better animations
 * Drodi's Blazes x Fresh Animations: Retextures the blaze and adds a boss variant with FA support
@@ -157,12 +157,14 @@ TIP 5: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * FurfSky Legacy: Similar to the original, but brings back older textures of Hyperion and more
 * Stay True: Retextures the whole game in a faithful vanilla+ style
 * Skyblock Dark UI: Makes every menu dark so you don't get flashbanged
+* SkyBlock Dark Mode: Makes The Mist, The End, Glacite Tunnels, and more places dark
 * ALAND's Hypixel SkyBlock Enchanted Books: Gives Hypixel SkyBlock's enchanted books unique textures
 * Cookie Clicker Click Sound: Replaces the menu clicking sound with the one from Cookie Clicker
 * Dungeon Tooltips: Makes item tooltips much better
 * Shaded Font: Adds a subtle shading effect to the default font
 * Vanilla Tweaks: Adds a 3D sun & moon, twinkling stars, menu slot highlight, and more
 * Visual Effects+: Adds tons of fancy visual effects, particles, and ambience to your world
+* The Wither, King of the Nether: Retextures the wither into a cooler design
 
 ❓ FAQ
 
