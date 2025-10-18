@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.061288759973971E7,
+              "exp": 4.0613674746939704E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -102,7 +102,7 @@
               "petInternalName": "GOLDEN_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.167271418106961E8,
+              "exp": 2.1682060201231992E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -242,14 +242,14 @@
               "petInternalName": "GRIFFIN;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
-              "exp": 3.502123701967791E7,
+              "exp": 3.5067629032291666E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
               "petInternalName": "HEDGEHOG;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 5.456291639300956E7,
+              "exp": 5.477292269098525E7,
               "uuid": "8996cd10-99d2-44eb-b90e-97542c21ab8a"
             },
             {
@@ -270,7 +270,7 @@
               "petInternalName": "JELLYFISH;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.710587458097969E7,
+              "exp": 2.710604602987269E7,
               "uuid": "7b70f630-1b48-4b1d-b59f-55e3c7875ecd"
             },
             {
@@ -394,14 +394,14 @@
               "petInternalName": "SCATHA;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
-              "exp": 3.0868025768913573E8,
+              "exp": 3.087186573511547E8,
               "uuid": "4223e26a-a341-43c6-a69e-41350d38ffc2"
             },
             {
               "petInternalName": "SHEEP;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_TEXTBOOK",
-              "exp": 1.0112404846021952E8,
+              "exp": 1.0114306083205967E8,
               "uuid": "06206ef4-12c0-4f93-932a-9693006811ae"
             },
             {
@@ -511,21 +511,21 @@
               "petInternalName": "RIFT_FERRET;3",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON",
-              "exp": 1.9542605150866404E7,
+              "exp": 1.9845499457910392E7,
               "uuid": "1c5f2b30-3d9b-43a7-ba4c-5333bcb6e902"
             },
             {
               "petInternalName": "FROG;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 2.5368399129376583E7,
+              "exp": 2.539867550350462E7,
               "uuid": "34eaceff-6df4-4f96-958e-74783cb2350c"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.515086893744741E8,
+              "exp": 2.5698284839259934E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {

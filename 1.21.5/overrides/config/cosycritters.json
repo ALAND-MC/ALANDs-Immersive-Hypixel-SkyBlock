@@ -1,5 +1,5 @@
 {
-  "configVersion": 0,
+  "configVersion": 1,
   "maxBirds": 5,
   "maxMoths": 5,
   "maxSpiders": 10,
@@ -8,6 +8,6 @@
   "spawnMoth": true,
   "spawnSpider": true,
   "birdReactionDistance": 10,
-  "birdReactionSpeed": 10,
+  "birdReactionSpeed": 20,
   "birdDespawnDistance": 64
 }

@@ -13,7 +13,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:1.0
 graphicsMode:1
 guiScale:3
@@ -52,8 +52,8 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","hold-my-items:hmi_3d_buckets","file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Dungeon Tooltips [Small].zip","continuity:default","continuity:glass_pane_culling_fix","file/Skyblock Dark UI 1.5 for 1.21.5+.zip","item_interactions_mod:example_gui_particles","file/item interactions vanilla v2.0.zip","file/FreshAnimations_v1.10.1.zip","file/AL\u0027s Boss Rush+FA 1.2.zip","file/AL\u0027s Dungeons Boss Bars.zip","file/AL\u0027s Enderman Revamped+FA 1.3.2.zip","file/AL\u0027s Zombies Revamped+FA 1.4.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/AL\u0027s Piglins Revamped+FA 1.1.3.zip","file/AL\u0027s Creepers Revamped 1.5.1.zip","file/AL\u0027s Spiders Revamped+FA 1.4.2.zip","file/§4Drodi\u0027s Blazes FA [V1.1].zip","file/BabyAnimalsRemastered_FAI_1.21.6_v2.1.1.zip","file/Ghasts Galore!.zip","file/golems-refreshed-fa-v2.1.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/ShadedFont.zip","file/§6§lVanilla Tweaks 1.21.x.zip","file/§6§lCC Click Sound §e§l1.21.5.zip","scoreboard-overhaul:round","file/Visual Effects+.zip","file/DetailedAnimationsReworked - V1.15 PATCH.zip"]
-incompatibleResourcePacks:["asyncparticles","badoptimizations","betterbiomeblend","betterclouds","cosycritters","draggable_lists","entity_model_features","entity_texture_features","fbp","minecraft-cursor","sounds","subtle_effects","yet_another_config_lib_v3","file/Dungeon Tooltips [Small].zip","file/Ghasts Galore!.zip"]
+resourcePacks:["vanilla","fabric","hold-my-items:hmi_3d_buckets","file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Dungeon Tooltips [Small].zip","continuity:default","continuity:glass_pane_culling_fix","file/Skyblock Dark UI 1.5 for 1.21.5+.zip","item_interactions_mod:example_gui_particles","file/item interactions vanilla v2.0.zip","file/FreshAnimations_v1.10.1.zip","file/AL\u0027s Boss Rush+FA 1.2.zip","file/AL\u0027s Dungeons Boss Bars.zip","file/AL\u0027s Enderman Revamped+FA 1.3.2.zip","file/AL\u0027s Zombies Revamped+FA 1.4.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/AL\u0027s Piglins Revamped+FA 1.1.3.zip","file/AL\u0027s Creepers Revamped 1.5.1.zip","file/AL\u0027s Spiders Revamped+FA 1.4.2.zip","file/§4Drodi\u0027s Blazes FA [V1.1].zip","file/BabyAnimalsRemastered_FAI_1.21.6_v2.1.1.zip","file/Ghasts Galore!.zip","file/The Wither, King of the Nether.zip","file/golems-refreshed-fa-v2.1.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/ShadedFont.zip","file/§6§lVanilla Tweaks 1.21.x.zip","file/§6§lCC Click Sound §e§l1.21.5.zip","scoreboard-overhaul:round","file/Visual Effects+.zip","file/DetailedAnimationsReworked - V1.15 PATCH.zip"]
+incompatibleResourcePacks:["asyncparticles","badoptimizations","betterbiomeblend","betterclouds","cosycritters","draggable_lists","entity_model_features","entity_texture_features","fbp","minecraft-cursor","sounds","subtle_effects","yet_another_config_lib_v3","file/Dungeon Tooltips [Small].zip","file/Ghasts Galore!.zip","file/The Wither, King of the Nether.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
