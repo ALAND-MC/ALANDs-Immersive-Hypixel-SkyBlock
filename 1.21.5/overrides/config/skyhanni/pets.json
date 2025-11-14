@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.0613674746939704E7,
+              "exp": 4.0684159421534374E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -27,7 +27,7 @@
               "petInternalName": "ENDERMAN;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
-              "exp": 2.162205905620668E8,
+              "exp": 2.1646454771970573E8,
               "uuid": "33c65214-b8cd-4207-a820-08020d5302a2"
             },
             {
@@ -102,7 +102,7 @@
               "petInternalName": "GOLDEN_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.1682060201231992E8,
+              "exp": 2.1757484741629267E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -193,7 +193,7 @@
               "petInternalName": "ENDER_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "GOLD_CLAWS",
-              "exp": 3.2622678566314567E7,
+              "exp": 3.262399277151457E7,
               "uuid": "58414333-a3d9-4016-b623-cb3bc8fb37c6"
             },
             {
@@ -214,14 +214,14 @@
               "petInternalName": "GLACITE_GOLEM;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "BEJEWELED_COLLAR",
-              "exp": 1.6682731756403014E8,
+              "exp": 1.668537445646298E8,
               "uuid": "1d20aceb-9ccf-4d16-b08d-7fa7d2fd0c65"
             },
             {
               "petInternalName": "GOBLIN;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "BEJEWELED_COLLAR",
-              "exp": 8.607196461615866E7,
+              "exp": 8.608502323458272E7,
               "uuid": "075ee25a-81ce-40f5-ba46-d60ef1e0ea80"
             },
             {
@@ -242,14 +242,14 @@
               "petInternalName": "GRIFFIN;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
-              "exp": 3.5067629032291666E7,
+              "exp": 3.529960455214064E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
               "petInternalName": "HEDGEHOG;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 5.477292269098525E7,
+              "exp": 5.88789302E7,
               "uuid": "8996cd10-99d2-44eb-b90e-97542c21ab8a"
             },
             {
@@ -270,7 +270,7 @@
               "petInternalName": "JELLYFISH;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.710604602987269E7,
+              "exp": 2.710643547708469E7,
               "uuid": "7b70f630-1b48-4b1d-b59f-55e3c7875ecd"
             },
             {
@@ -394,7 +394,7 @@
               "petInternalName": "SCATHA;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
-              "exp": 3.087186573511547E8,
+              "exp": 3.0887972160555047E8,
               "uuid": "4223e26a-a341-43c6-a69e-41350d38ffc2"
             },
             {
@@ -511,7 +511,7 @@
               "petInternalName": "RIFT_FERRET;3",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON",
-              "exp": 1.9845499457910392E7,
+              "exp": 5.67553315E7,
               "uuid": "1c5f2b30-3d9b-43a7-ba4c-5333bcb6e902"
             },
             {
@@ -525,7 +525,7 @@
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.5698284839259934E8,
+              "exp": 2.69753313E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -563,6 +563,10 @@
           "expSharePets": []
         },
         "papaya": {
+          "pets": [],
+          "expSharePets": []
+        },
+        "cucumber": {
           "pets": [],
           "expSharePets": []
         }

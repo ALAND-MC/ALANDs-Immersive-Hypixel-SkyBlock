@@ -1,0 +1,15 @@
+{
+    darkEnd: true,
+    coolEnd: true,
+    endPillars: true,
+    enderNodeTexture: false,
+    blazeFirePillarTexture: false,
+    endermanBeaconTexture: true,
+    ghostsFloorTexture: "Dark",
+    darkSnow: {
+        mistGlaciteTunnels: true,
+        mineshafts: true,
+        rift: true
+    },
+    coolSpiderDen: true
+}

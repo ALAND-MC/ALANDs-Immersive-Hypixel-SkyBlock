@@ -1,6 +1,6 @@
 {
     "isEnabled": true,
-    "isAlwaysVisible": false,
+    "isAlwaysVisible": true,
     "showOnUpdate": false,
     "showDuration": 8,
     "showVolume": 1.0,

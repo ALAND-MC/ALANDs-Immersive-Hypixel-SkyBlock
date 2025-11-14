@@ -5,7 +5,8 @@
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"EGGLOCATOR\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"FORAGING_WISDOM_BOOSTER\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"TWO_IQ_POINT\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"VINYL_SLOW_AND_GROOVY\"}},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"VINYL_SLOW_AND_GROOVY\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"SNIPER_BOW\"}},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

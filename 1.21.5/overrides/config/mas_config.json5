@@ -1,0 +1,46 @@
+{
+	// If enabled, creates a shockwave effect when slamming with the mace
+	"MaceShockwave": true,
+	// Increases the size of the mace shockwave
+	"MaceShockwaveSize": 1.0,
+	// Sets the opacity of the mace shockwave
+	"MaceShockwaveOpacity": 1.0,
+	// Creates spark particles when slamming with the mace
+	"MaceSpark": true,
+	// Creates flash upon slamming with the mace
+	"MaceFlash": true,
+	// Creates a small shockwave on a player´s shield when blocking mace attacks
+	"ShieldEffect": true,
+	// If enabled spawns armor breaking particles when using the breach enchantment
+	"ArmorParticles": true,
+	// If enabled changes the totem particle effect completely
+	"CustomTotemEffect": true,
+	// Changes the opacity of the totem effect
+	"TotemEffectOpacity": 1.0,
+	// Spawns custom death particles when a player dies
+	"PlayerDeathEffect": true,
+	// Makes ender pearls spawn a trail of particles
+	"PearlTrailParticles": true,
+	// Changes the opacity of the pearl trail
+	"PearlTrailOpacity": 0.5,
+	// Only players and ender pearls will show their hitboxes, player hitboxes will fade from afar and pearls can have different colors!
+	"CustomHitbox": false,
+	// Change the ender pearl hitbox color depending on who threw it
+	"PearlHitboxColors": false,
+	// Pearls thrown by these players will be colored green instead of red
+	"PearlWhiteList": [],
+	// Color of your own pearl hitbox
+	"SelfPearlColor": -1275068672,
+	// Color of your allies pearl hitboxes
+	"AllyPearlColor": -1291845377,
+	// Color of other player's pearl hitboxes
+	"OtherPearlColor": -1275133952,
+	// Opacity of other mob's hitboxes
+	"MobPearlHitboxOpacity": 0.30000001192092896,
+	// Opacity of player's hitboxes
+	"PlayerPearlHitboxOpacity": 0.800000011920929,
+	// Distance in blocks where the hitbox starts to fade for mobs and players
+	"HitboxFadeDistance": 15.0,
+	// Distance in blocks where the hitbox starts to appear for pearls and wind charges
+	"HitboxProjectileFadeDistance": 5.0
+}

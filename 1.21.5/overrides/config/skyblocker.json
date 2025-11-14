@@ -56,7 +56,6 @@
       "rareDyeDropEffects": true
     },
     "hitbox": {
-      "oldFarmlandHitbox": false,
       "oldLeverHitbox": false,
       "oldMushroomHitbox": false
     },
@@ -92,6 +91,7 @@
     "slotText": {
       "slotTextMode": "ENABLED",
       "textEnabled": {
+        "rancher_boots": false,
         "enchantment_level": false,
         "skyblock_guide": true,
         "power_stones_guide": false
@@ -162,14 +162,14 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
-        "❂ Fine Opal Gemstone",
-        "Smoldering I",
-        "Smoldering V"
+        "Enchanted Firework Rocket",
+        "Mythos Fragment",
+        "Fine Flour"
       ],
       "auctionHistory": [
-        "tree the f",
-        "deathr",
-        "Pyrochaos Dagger"
+        "Rabbit the Fish",
+        "Century Party Invitation",
+        "Fruit Bowl"
       ]
     },
     "bazaarQuickQuantities": {
@@ -218,7 +218,7 @@
     "enableNewYearCakesHelper": false,
     "enableBitsTooltip": false,
     "enableWardrobeHelper": true,
-    "enableDateCalculator": false,
+    "enableDateCalculator": true,
     "enableCopyUnderbidPrice": false,
     "mythologicalRitual": {
       "enableMythologicalRitualHelper": false
@@ -575,7 +575,7 @@
     "endermanSlayer": {
       "enableYangGlyphsNotification": false,
       "highlightBeacons": false,
-      "highlightNukekubiHeads": false,
+      "highlightNukekubiHeads": true,
       "lazerTimer": false
     },
     "vampireSlayer": {

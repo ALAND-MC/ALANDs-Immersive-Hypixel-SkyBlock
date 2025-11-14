@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "effect_armor": true,
+  "effect_special_item": true,
+  "armor_double_sided": false,
+  "use_original_special_item_uv": false,
+  "item_render_solid": false,
+  "armor_render_solid": false,
+  "special_item_render_solid": false,
+  "outline_color": [
+    0.8235294,
+    0.5882353,
+    0.972549
+  ],
+  "custom_uv": [
+    0.0,
+    0.0
+  ],
+  "outline_size": 0.02
+}

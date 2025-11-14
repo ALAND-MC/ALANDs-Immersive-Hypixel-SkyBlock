@@ -8,6 +8,8 @@
 	"renderOutline": true,
 	"randomQuakes": true,
 	"blacklist": [
-		"minecraft:tall_grass"
+		"minecraft:tall_grass",
+		"minecraft:grass_block",
+		"minecraft:dirt"
 	]
 }

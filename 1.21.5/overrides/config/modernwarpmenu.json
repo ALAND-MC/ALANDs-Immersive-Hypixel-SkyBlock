@@ -1,0 +1,22 @@
+{
+	"settingsVersion": 0,
+	"general": {
+		"warpMenuEnabled": true,
+		"showIslandLabels": true,
+		"hideWarpLabelsUntilIslandHovered": false,
+		"hideWarpLabelForIslandsWithOneWarp": true,
+		"suggestWarpMenuOnWarpCommand": false,
+		"addWarpCommandToChatHistory": true,
+		"showJerryIsland": true,
+		"hideUnobtainableWarps": true,
+		"enableUpdateNotification": false,
+		"showRegularWarpMenuButton": false
+	},
+	"debug": {
+		"debugModeEnabled": false,
+		"showDebugOverlay": true,
+		"drawBorders": true,
+		"skipSkyBlockCheck": false,
+		"alwaysShowJerryIsland": true
+	}
+}

@@ -5,7 +5,7 @@
     Desert_biomes_weather: true,
     Snowy_biomes_weather: true,
     Soulstorm: true,
-    Biome_fog: false,
+    Biome_fog: true,
     Colormap: false,
     Sky_colormaps: true,
     Overworld_Fog: true,

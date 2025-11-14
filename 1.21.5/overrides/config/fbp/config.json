@@ -6,8 +6,8 @@
     "freezeEffect": false,
     "cartoonMode": false,
     "infiniteDuration": false,
-    "disabledParticles": [],
-    "disabledAnimations": []
+    "particlesBlacklist": {},
+    "animationsBlacklist": []
   },
   "terrain": {
     "fancyBreakingParticles": false,
