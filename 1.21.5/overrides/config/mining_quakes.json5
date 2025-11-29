@@ -5,11 +5,7 @@
 	"horizontalOscillations": 3,
 	"verticalOscillations": 2,
 	"easingFunction": "EASE_IN_OUT",
-	"renderOutline": true,
+	"renderOutline": false,
 	"randomQuakes": true,
-	"blacklist": [
-		"minecraft:tall_grass",
-		"minecraft:grass_block",
-		"minecraft:dirt"
-	]
+	"blacklist": []
 }

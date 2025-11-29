@@ -11,5 +11,5 @@
   "doorZ": 0.0,
   "mb3DCompat": false,
   "disabled": false,
-  "blacklistedItems": ""
+  "blacklistedItems": "minecraft:lilac, minecraft:allium, minecraft:poppy, minecraft:rose_bush, minecraft:dandelion"
 }

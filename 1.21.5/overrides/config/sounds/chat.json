@@ -2,7 +2,7 @@
 	"typingSoundEffect": {
 		"shouldPlay": true,
 		"pitch": 1.6,
-		"volume": 0.4,
+		"volume": 0.1,
 		"id": "typing",
 		"soundEvent": "minecraft:block.note_block.hat"
 	},

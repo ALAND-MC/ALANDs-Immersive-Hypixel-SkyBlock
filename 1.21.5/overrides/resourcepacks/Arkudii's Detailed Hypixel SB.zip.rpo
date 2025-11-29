@@ -11,5 +11,16 @@
         mineshafts: true,
         rift: true
     },
-    coolSpiderDen: true
+    coolSpiderDen: false,
+    coolHub: false,
+    coolGalatea: false,
+    gemstonesAndMetalsCustomTextures: {
+        aDwarvenMines: true,
+        bCrystalHollows: true,
+        cGlaciteTunnels: true,
+        dMineshafts: true,
+        eMagmaFields: true,
+        fOpals: true,
+        gRift: true
+    }
 }
