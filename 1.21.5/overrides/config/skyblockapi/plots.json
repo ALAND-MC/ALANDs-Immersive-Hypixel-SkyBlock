@@ -5,8 +5,8 @@
       "Pear": [
         {
           "pest": {
-            "pest": 1,
-            "inaccurate": true
+            "pest": 0,
+            "inaccurate": false
           },
           "locked": false,
           "id": 4,
@@ -14,8 +14,8 @@
         },
         {
           "pest": {
-            "pest": 1,
-            "inaccurate": true
+            "pest": 0,
+            "inaccurate": false
           },
           "locked": false,
           "id": 8,
@@ -23,8 +23,8 @@
         },
         {
           "pest": {
-            "pest": 1,
-            "inaccurate": true
+            "pest": 0,
+            "inaccurate": false
           },
           "locked": false,
           "id": 17,
@@ -32,8 +32,8 @@
         },
         {
           "pest": {
-            "pest": 1,
-            "inaccurate": true
+            "pest": 0,
+            "inaccurate": false
           },
           "locked": false,
           "id": 18,
@@ -41,12 +41,30 @@
         },
         {
           "pest": {
-            "pest": 1,
-            "inaccurate": true
+            "pest": 0,
+            "inaccurate": false
           },
           "locked": false,
           "id": 22,
           "name": "22"
+        },
+        {
+          "pest": {
+            "pest": 0,
+            "inaccurate": false
+          },
+          "locked": false,
+          "id": 9,
+          "name": "9"
+        },
+        {
+          "pest": {
+            "pest": 0,
+            "inaccurate": false
+          },
+          "locked": false,
+          "id": 1,
+          "name": "1"
         }
       ]
     }

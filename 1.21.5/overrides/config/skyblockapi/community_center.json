@@ -2,9 +2,10 @@
   "@skyblockapi:version": 0,
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "rank": "new_player",
+      "rank": "ambassador",
+      "gems": 3000,
       "bitsAvailable": {
-        "Pear": 259735
+        "Pear": 170121
       }
     }
   }

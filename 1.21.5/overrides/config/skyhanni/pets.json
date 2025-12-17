@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.072737E7,
+              "exp": 4.0939568E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -242,14 +242,14 @@
               "petInternalName": "GRIFFIN;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
-              "exp": 3.854898207914894E7,
+              "exp": 3.855386713990951E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
               "petInternalName": "HEDGEHOG;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 5.662779511940144E7,
+              "exp": 6.0953968E7,
               "uuid": "8996cd10-99d2-44eb-b90e-97542c21ab8a"
             },
             {
@@ -401,7 +401,7 @@
               "petInternalName": "SHEEP;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_TEXTBOOK",
-              "exp": 1.0114306083205967E8,
+              "exp": 1.0114847296343882E8,
               "uuid": "06206ef4-12c0-4f93-932a-9693006811ae"
             },
             {
@@ -511,7 +511,7 @@
               "petInternalName": "RIFT_FERRET;3",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON",
-              "exp": 2.0779396784075536E7,
+              "exp": 2.082203488897509E7,
               "uuid": "1c5f2b30-3d9b-43a7-ba4c-5333bcb6e902"
             },
             {
@@ -525,7 +525,7 @@
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.7490622409958184E8,
+              "exp": 2.803446675764487E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -534,10 +534,17 @@
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
               "exp": 2.538877545495133E7,
               "uuid": "d2bcd2b4-6ae4-4db7-885e-75f1d4135d2d"
+            },
+            {
+              "petInternalName": "PRECURSOR_DRONE;0",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+              "exp": 3747429.561290896,
+              "uuid": "7fc0af79-da2b-4451-b707-b9e0faa77078"
             }
           ],
           "expSharePets": [
-            null,
+            "930271c3-85e3-474a-9635-bd943cdae1c2",
             null,
             null
           ]

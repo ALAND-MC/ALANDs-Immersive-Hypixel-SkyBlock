@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "currentSlot": 1,
+        "currentSlot": -1,
         "slots": [
           {
             "id": 1,
@@ -6576,7 +6576,7 @@
                     "extra": [
                       {
                         "text": "Mossy Fermento Helmet",
-                        "color": "light_purple"
+                        "color": "gold"
                       }
                     ],
                     "italic": false
@@ -6626,7 +6626,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+6%",
+                          "text": "+23.5%",
                           "color": "dark_green"
                         }
                       ],
@@ -6640,15 +6640,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+92 ",
+                          "text": "+83 ",
                           "color": "gold"
                         },
                         {
-                          "text": "(+30) ",
+                          "text": "(+25) ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+20)",
+                          "text": "(+16)",
                           "color": "light_purple"
                         }
                       ],
@@ -6789,8 +6789,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (3/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -6799,7 +6799,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Combines the Tiered Bonuses of",
+                          "text": "Farming Wild Rose, Sunflower, and",
                           "color": "gray"
                         }
                       ],
@@ -6809,15 +6809,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "wearing ",
+                          "text": "Moonflower have a ",
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "0.003% ",
                           "color": "green"
                         },
                         {
-                          "text": "of the Melon Armor,",
+                          "text": "chance of",
                           "color": "gray"
                         }
                       ],
@@ -6827,7 +6827,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Cropie Armor, and Squash Armor.",
+                          "text": "dropping a Helianthus. Inside the",
                           "color": "gray"
                         }
                       ],
@@ -6837,7 +6837,73 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
+                          "text": "Greenhouse gives a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "1.2%",
+                          "color": "green"
+                        },
+                        {
+                          "text": " chance to",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "drop one from any crop grown",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "inside. Also combines the Tiered",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bonuses of wearing ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "3 pieces ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "of the",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Melon Armor, Cropie Armor, and",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Squash Armor. ",
                           "color": "gray"
                         },
                         {
@@ -6845,7 +6911,17 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming Fortune",
+                          "text": "50☘ Farming",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fortune",
                           "color": "gold"
                         },
                         {
@@ -6886,7 +6962,7 @@
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         "",
                         {
@@ -6901,15 +6977,15 @@
                           "underlined": false
                         },
                         {
-                          "text": "MYTHIC HELMET ",
+                          "text": "LEGENDARY HELMET ",
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         {
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -6990,7 +7066,7 @@
                     "extra": [
                       {
                         "text": "Mossy Fermento Chestplate",
-                        "color": "light_purple"
+                        "color": "gold"
                       }
                     ],
                     "italic": false
@@ -7040,7 +7116,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+6%",
+                          "text": "+23.5%",
                           "color": "dark_green"
                         }
                       ],
@@ -7054,15 +7130,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+97 ",
+                          "text": "+88 ",
                           "color": "gold"
                         },
                         {
-                          "text": "(+30) ",
+                          "text": "(+25) ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+20)",
+                          "text": "(+16)",
                           "color": "light_purple"
                         }
                       ],
@@ -7321,8 +7397,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (3/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7331,7 +7407,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Combines the Tiered Bonuses of",
+                          "text": "Farming Wild Rose, Sunflower, and",
                           "color": "gray"
                         }
                       ],
@@ -7341,15 +7417,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "wearing ",
+                          "text": "Moonflower have a ",
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "0.003% ",
                           "color": "green"
                         },
                         {
-                          "text": "of the Melon Armor,",
+                          "text": "chance of",
                           "color": "gray"
                         }
                       ],
@@ -7359,7 +7435,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Cropie Armor, and Squash Armor.",
+                          "text": "dropping a Helianthus. Inside the",
                           "color": "gray"
                         }
                       ],
@@ -7369,7 +7445,73 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
+                          "text": "Greenhouse gives a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "1.2%",
+                          "color": "green"
+                        },
+                        {
+                          "text": " chance to",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "drop one from any crop grown",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "inside. Also combines the Tiered",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bonuses of wearing ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "3 pieces ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "of the",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Melon Armor, Cropie Armor, and",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Squash Armor. ",
                           "color": "gray"
                         },
                         {
@@ -7377,7 +7519,17 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming Fortune",
+                          "text": "50☘ Farming",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fortune",
                           "color": "gold"
                         },
                         {
@@ -7418,7 +7570,7 @@
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         "",
                         {
@@ -7433,15 +7585,15 @@
                           "underlined": false
                         },
                         {
-                          "text": "MYTHIC CHESTPLATE ",
+                          "text": "LEGENDARY CHESTPLATE ",
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         {
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7506,7 +7658,7 @@
                     "extra": [
                       {
                         "text": "Mossy Fermento Leggings",
-                        "color": "light_purple"
+                        "color": "gold"
                       }
                     ],
                     "italic": false
@@ -7556,7 +7708,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+6%",
+                          "text": "+23.5%",
                           "color": "dark_green"
                         }
                       ],
@@ -7570,15 +7722,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+97 ",
+                          "text": "+88 ",
                           "color": "gold"
                         },
                         {
-                          "text": "(+30) ",
+                          "text": "(+25) ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+20)",
+                          "text": "(+16)",
                           "color": "light_purple"
                         }
                       ],
@@ -7837,8 +7989,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (3/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7847,7 +7999,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Combines the Tiered Bonuses of",
+                          "text": "Farming Wild Rose, Sunflower, and",
                           "color": "gray"
                         }
                       ],
@@ -7857,15 +8009,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "wearing ",
+                          "text": "Moonflower have a ",
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "0.003% ",
                           "color": "green"
                         },
                         {
-                          "text": "of the Melon Armor,",
+                          "text": "chance of",
                           "color": "gray"
                         }
                       ],
@@ -7875,7 +8027,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Cropie Armor, and Squash Armor.",
+                          "text": "dropping a Helianthus. Inside the",
                           "color": "gray"
                         }
                       ],
@@ -7885,7 +8037,73 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
+                          "text": "Greenhouse gives a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "1.2%",
+                          "color": "green"
+                        },
+                        {
+                          "text": " chance to",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "drop one from any crop grown",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "inside. Also combines the Tiered",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bonuses of wearing ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "3 pieces ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "of the",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Melon Armor, Cropie Armor, and",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Squash Armor. ",
                           "color": "gray"
                         },
                         {
@@ -7893,7 +8111,17 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming Fortune",
+                          "text": "50☘ Farming",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fortune",
                           "color": "gold"
                         },
                         {
@@ -7934,7 +8162,7 @@
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         "",
                         {
@@ -7949,15 +8177,15 @@
                           "underlined": false
                         },
                         {
-                          "text": "MYTHIC LEGGINGS ",
+                          "text": "LEGENDARY LEGGINGS ",
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         {
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -8080,7 +8308,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+53 ",
+                          "text": "+113 ",
                           "color": "gold"
                         },
                         {
@@ -10773,7 +11001,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -10781,7 +11009,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],
@@ -11117,7 +11345,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -11125,7 +11353,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],
@@ -11523,7 +11751,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -11531,7 +11759,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],
@@ -11945,7 +12173,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -11953,7 +12181,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         }
                       ],

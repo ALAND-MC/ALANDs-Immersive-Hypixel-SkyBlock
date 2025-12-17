@@ -1,0 +1,19 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "copper": 206497,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 1312008,
+        "gems": 0,
+        "personalBank": 0,
+        "coopBank": 12900000000,
+        "motes": 0,
+        "purse": 1.71655123E8,
+        "purseType": "NORMAL"
+      }
+    }
+  }
+}

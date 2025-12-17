@@ -162,9 +162,9 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
-        "Enchanted Firework Rocket",
-        "Mythos Fragment",
-        "Fine Flour"
+        "egg",
+        "enchanted cake",
+        "veil"
       ],
       "auctionHistory": [
         "Flower of Truth",
@@ -838,6 +838,10 @@
         300
       ],
       "Election Booth Closes": [
+        60,
+        300
+      ],
+      "Bonus Fishing Festival": [
         60,
         300
       ]
