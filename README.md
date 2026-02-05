@@ -11,7 +11,9 @@ What sets this modpack apart from others:
 * Optional resource packs that enhance the general experience
 
 Release Trailer: https://www.youtube.com/watch?v=dFxnLV_oAAI
+
 2.0 Update Trailer: https://www.youtube.com/watch?v=G15ZBBbhdqY
+
 3.0 Update Trailer: https://www.youtube.com/watch?v=36jg0e-NCkQ
 
 💻 Installation Guide & Tips
