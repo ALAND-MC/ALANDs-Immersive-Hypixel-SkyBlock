@@ -1,17 +1,18 @@
 # ALAND's Immersive Hypixel SkyBlock
 
 What sets this modpack apart from others:
-
 * Includes all the essential optimization and QoL mods for Hypixel SkyBlock
 * Includes a ton of immersive client-side mods that enhance visuals and gameplay
 * Pre-configured mods with all the necessary features without having 20 obtrusive overlays
-* Ready-to-go command macros/keybinds for almost every warp and menu in SkyBlock
-* Fully open source with frequent updates for all relevant versions
+* Ready-to-go command macros/keybinds for essential warps and menus
+* Fully open source with frequent updates for relevant versions
 * Expressive animations for players and mobs that make the world come alive
 * 80 unique player emotes to enhance social interactions and fun moments with friends
 * Optional resource packs that enhance the general experience
 
 Release Trailer: https://www.youtube.com/watch?v=dFxnLV_oAAI
+2.0 Update Trailer: https://www.youtube.com/watch?v=G15ZBBbhdqY
+3.0 Update Trailer: https://www.youtube.com/watch?v=36jg0e-NCkQ
 
 💻 Installation Guide & Tips
 
@@ -22,9 +23,9 @@ Installation Guide:
 
 TIP 1: For Prism users, make sure you select the correct Java version and dedicate at least 4GB of RAM.
 
-TIP 2: Type /firmament macros or tap the "Delete" key on your keyboard to open the command macros/keybinds. These run commands for Hypixel SkyBlock such as warps and menus.
+TIP 2: Type /firmament macros to open the command macros/keybinds. These run commands for Hypixel SkyBlock such as warps and menus.
 
-TIP 3: Go to Control Settings to figure out how to open other menus like the weather control and emote wheel.
+TIP 3: Tap Right Ctrl to open the weather and time control menu, and tap Right Shift to open the emote wheel.
 
 TIP 4: If you use the Hypixel+ resource pack, then put this inside the JVM arguments field: -Xss4M
 
@@ -54,23 +55,19 @@ Why do some player/NPC skins have broken faces?
 
 How do I emote?
 
-* Tap the "Left Alt" key to open the emote wheel. To change this keybind, go to Settings ➞ Controls ➞ Keybinds ➞ Find the keybind for Emotecraft's emote wheel.
-
-Why is there no fog?
-
-* It's disabled due to a glitch which turns it pitch-black when entering the Matriarch. If you still want it, go to Resource Packs ➞ Click the config button over Visual Effects+ ➞ Set "Biome Fog" to "True" ➞ Close the menu.
+* Tap the "Right Shift" key to open the emote wheel. To change this keybind, go to Settings ➞ Controls ➞ Keybinds ➞ Find the keybind for Emotecraft's emote wheel.
 
 How do I inspect or spin/do tricks with my weapon?
 
-* On 1.21.5, hold down the scroll wheen or MMB button. On 1.21.8, hold the "G" key.
+* Holf "F" with a weapon in hand.
 
 How do I change time/weather?
 
-* Tap the "Right Control" key. If you can't find it, go to Settings ➞ Controls ➞ Keybinds ➞ Find the keybind for LocalTime or Client Time to open the time and gui menu.
+* Tap the "Right Control" key. If you can't find it, go to Settings ➞ Controls ➞ Keybinds ➞ Find the keybind for the Client Time mod.
 
 I don't use Prism Launcher, how do I load the modpack?
 
-* Install Prism Launcher, it's lightweight, super fast, and allows you to download mods/resource packs with ease. It's the best option for modern Minecraft.
+* You can use some other launchers like the official Modrinth launcher, NoRisk, and maybe more. However, I'd recommend you install Prism Launcher, it's lightweight, super fast, and allows you to download mods/resource packs with ease. It's the best option for modern Minecraft.
 
 Can I transfer my own config files for x mod?
 
@@ -78,7 +75,7 @@ Can I transfer my own config files for x mod?
 
 Why did I randomly warp/trigger a command by tapping a random key?
 
-* These are known as command macros/keybinds. Type /firmament macros or tap the "Delete" key to open the config menu. You can assign any key and make it run any command you want to make warping/accessing menus easier!
+* These are known as command macros/keybinds. Type /firmament macros to open the config menu. You can assign any key and make it run any command you want to make warping/accessing menus easier!
 
 I have other questions/feedback/issues...
 
@@ -88,5 +85,6 @@ I have other questions/feedback/issues...
 
 * Huge thanks to ic22487 for creating the modpack icon! Get this man a Ko-fi on my behalf, would ya? ic22487's Ko-fi: https://ko-fi.com/ic22487
 * Big thanks to TraitorAlmighty from the Furfsky Reborn team for helping out with optimization and setup.
+* Special thanks to jlhklmn for creating the new title logo!
 * Shoutout to haimcyfly and Stay True for being awesome. Check out Stay True's CurseForge page here: https://www.curseforge.com/minecraft/texture-packs/stay-true
 * All credit for the mods and resource packs goes to their original creators, I do not claim that I own any of their work. Be sure to check out and support their mods and other projects.
