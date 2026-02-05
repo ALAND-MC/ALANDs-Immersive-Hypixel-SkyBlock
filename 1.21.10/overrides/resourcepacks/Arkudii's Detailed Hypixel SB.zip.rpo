@@ -1,0 +1,35 @@
+{
+    x01CoolEnd: true,
+    x02DarkEnd: true,
+    x03EndPillars: true,
+    x04EnderNodeTexture: "Ore",
+    x05EndermanBeaconTexture: true,
+    x06CoolSpiderDen: true,
+    x07CoolHub: true,
+    x08CoolGalatea: true,
+    x09CoolRift: true,
+    x10BlazeFirePillarTexture: true,
+    x11KuudraArmorPistonSound: true,
+    x97DarkDungeons: "Dungeons",
+    x98GhostsFloorTexture: "Dark",
+    x99WorkInProgressBlock: false,
+    darkSnow: {
+        mistGlaciteTunnels: true,
+        mineshafts: true,
+        rift: true
+    },
+    gemstonesAndMetalsCustomTextures: {
+        x00OldFurfSkyPack: true,
+        x01DwarvenMines: true,
+        x02Titanium: true,
+        x03CoolDarkMonolith: true,
+        x04CrystalHollows: true,
+        x05MagmaFields: true,
+        x06GlaciteTunnels: true,
+        x07Mineshafts: true,
+        x08Opals: true,
+        x09SulphurOre: true,
+        x10Rift: true
+    },
+    x999secret: -1.0
+}

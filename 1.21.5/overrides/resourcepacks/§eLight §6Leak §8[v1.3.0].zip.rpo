@@ -1,8 +1,0 @@
-{
-    performance: {
-        renderFireSmoke: true
-    },
-    experiments: {
-        fullBlockGlow: true
-    }
-}

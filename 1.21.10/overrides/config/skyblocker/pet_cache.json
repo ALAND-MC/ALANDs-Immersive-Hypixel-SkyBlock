@@ -1,0 +1,24 @@
+{
+  "2c3c97d72b1c4355b856dae991ddf5db": {
+    "4babc446-fe9c-4420-96dd-c97e51df9e5f": {
+      "tier": "LEGENDARY",
+      "name": "[Lvl 33] Bingo",
+      "type": "BINGO",
+      "exp": 19614.250527999942
+    },
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "tier": "LEGENDARY",
+      "uuid": "875d2052-221e-469d-8fa5-26eff9dbb44a",
+      "heldItem": "GREEN_BANDANA",
+      "name": "[Lvl 100] Mooshroom Cow",
+      "type": "MOOSHROOM_COW",
+      "exp": 1.4472357147481716E8
+    },
+    "": {
+      "tier": "COMMON",
+      "name": "Precursor Drone",
+      "type": "PRECURSOR_DRONE",
+      "exp": 5624785.0
+    }
+  }
+}

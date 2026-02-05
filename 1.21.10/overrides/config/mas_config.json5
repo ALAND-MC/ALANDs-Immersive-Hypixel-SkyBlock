@@ -1,0 +1,30 @@
+{
+	// If enabled, creates a shockwave effect when slamming with the mace
+	"MaceShockwave": true,
+	// Increases the size of the mace shockwave
+	"MaceShockwaveSize": 1.0,
+	// Sets the opacity of the mace shockwave
+	"MaceShockwaveOpacity": 1.0,
+	// Creates spark particles when slamming with the mace
+	"MaceSpark": true,
+	// Creates flash upon slamming with the mace
+	"MaceFlash": true,
+	// Creates a small shockwave on a player´s shield when blocking mace attacks
+	"ShieldEffect": true,
+	// If enabled spawns armor breaking particles when using the breach enchantment
+	"ArmorParticles": true,
+	// Spawns particles when a wind charge explodes
+	"WindParticles": true,
+	// If enabled changes the totem particle effect completely
+	"CustomTotemEffect": true,
+	// Changes the opacity of the totem effect
+	"TotemEffectOpacity": 1.0,
+	// Spawns custom death particles when a player dies
+	"PlayerDeathEffect": true,
+	// Makes ender pearls spawn a trail of particles
+	"PearlTrailParticles": false,
+	// Changes the opacity of the pearl trail
+	"PearlTrailOpacity": 0.5,
+	// Enables an icon below to the crosshair that shows when you are gliding
+	"GlideIcon": false
+}

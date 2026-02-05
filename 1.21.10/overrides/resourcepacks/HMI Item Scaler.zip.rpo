@@ -1,0 +1,7 @@
+{
+    itemSize: 1.0,
+    itemSizeAll: 0.75,
+    scaleAll: true,
+    scaleSpecific: false,
+    itemsToShrink: ""
+}

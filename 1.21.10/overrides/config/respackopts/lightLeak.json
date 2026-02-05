@@ -1,0 +1,24 @@
+{
+    performance: {
+        renderFireSmoke: false
+    },
+    compatibility: {
+        environment: {
+            customLavaLakes: true,
+            customNetherPortals: true
+        },
+        blocks: {
+            customPumpkins: true,
+            customFunctionalBlocks: true,
+            customRedstoneComponents: true,
+            customFire: true,
+            customRails: false
+        },
+        misc: {
+            customPumpkinOverlay: true
+        }
+    },
+    experiments: {
+        fullBlockGlow: "advanced"
+    }
+}
