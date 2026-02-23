@@ -202,17 +202,6 @@
           }
         },
         {
-          "deskIcon": "BEDROCK",
-          "isGreenhouse": false,
-          "locked": false,
-          "id": 8,
-          "name": "8",
-          "pest": {
-            "pest": 0,
-            "inaccurate": false
-          }
-        },
-        {
           "deskIcon": "minecraft:white_stained_glass",
           "isGreenhouse": true,
           "locked": false,
@@ -268,10 +257,21 @@
           }
         },
         {
-          "deskIcon": "minecraft:air",
+          "deskIcon": "BEDROCK",
           "isGreenhouse": false,
           "locked": false,
           "id": 20,
+          "name": "20",
+          "pest": {
+            "pest": 0,
+            "inaccurate": false
+          }
+        },
+        {
+          "deskIcon": "minecraft:air",
+          "isGreenhouse": false,
+          "locked": false,
+          "id": 8,
           "name": "",
           "pest": {
             "pest": 0,

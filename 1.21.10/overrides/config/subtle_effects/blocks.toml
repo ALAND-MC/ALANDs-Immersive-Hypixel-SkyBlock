@@ -88,7 +88,7 @@ campfireSparks = true
 torchSparks = true
 lanternSparksDensity = 5
 lavaSparksDisplayType = "ON"
-lavaSparksDensity = 1.0
+lavaSparksDensity = 0.24705882352941194
 brewingStandSparks = true
 
 [updatedSmoke]

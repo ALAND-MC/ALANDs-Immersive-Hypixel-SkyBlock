@@ -1,27 +1,6 @@
 {
   "@skyblockapi:version": 0,
   "@skyblockapi:data": {
-    "players": {
-      "361532d2-acce-4c0e-8be3-670226276ee0": {
-        "name": "QWERTZ_EXE",
-        "time": 1769704543537
-      },
-      "92497db6-d07f-4cb9-9a74-e7135a456519": {
-        "name": "jeffrey321",
-        "time": 1769889412621
-      },
-      "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-        "name": "ALAND_",
-        "time": 1769889616299
-      },
-      "91e6dfb9-3b62-4ffc-84d5-c2d420dc7fad": {
-        "name": "Lyquidz",
-        "time": 1769889627414
-      },
-      "464c9203-2c50-48ca-a151-523440418069": {
-        "name": "Only_mny",
-        "time": 1769889812265
-      }
-    }
+    "players": {}
   }
 }

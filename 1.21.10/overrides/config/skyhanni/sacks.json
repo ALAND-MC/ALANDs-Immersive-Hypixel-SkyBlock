@@ -50,7 +50,7 @@
               "status": "CORRECT"
             },
             "DEAD_PLANT": {
-              "amount": 19,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -135,12 +135,12 @@
               "status": "CORRECT"
             },
             "COMPOST": {
-              "amount": 182,
+              "amount": 219,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CROPIE": {
-              "amount": 1779,
+              "amount": 1788,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -185,7 +185,7 @@
               "status": "CORRECT"
             },
             "SQUASH": {
-              "amount": 526,
+              "amount": 527,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -195,32 +195,32 @@
               "status": "CORRECT"
             },
             "BROWN_MUSHROOM": {
-              "amount": 63,
+              "amount": 11459,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CACTUS": {
-              "amount": 53783,
+              "amount": 1002,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "INK_SACK-2": {
-              "amount": 60480,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CARROT_ITEM": {
-              "amount": 45507,
+              "amount": 99442,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "INK_SACK-3": {
-              "amount": 62219,
+              "amount": 148,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "GOLDEN_CARROT": {
-              "amount": 4108,
+              "amount": 2060,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -235,12 +235,12 @@
               "status": "CORRECT"
             },
             "MELON": {
-              "amount": 139879,
+              "amount": 84020,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "MOONFLOWER": {
-              "amount": 89,
+              "amount": 30775,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -250,47 +250,47 @@
               "status": "CORRECT"
             },
             "POISONOUS_POTATO": {
-              "amount": 73,
+              "amount": 74,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "POTATO_ITEM": {
-              "amount": 62531,
+              "amount": 517,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "PUMPKIN": {
-              "amount": 51,
+              "amount": 24527,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "RED_MUSHROOM": {
-              "amount": 60,
+              "amount": 11569,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SEEDS": {
-              "amount": 71561,
+              "amount": 71603,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SUGAR_CANE": {
-              "amount": 8159,
+              "amount": 224,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "DOUBLE_PLANT": {
-              "amount": 6148,
+              "amount": 17784,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "WHEAT": {
-              "amount": 89954,
+              "amount": 89974,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "WILD_ROSE": {
-              "amount": 647,
+              "amount": 19010,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1315,7 +1315,7 @@
               "status": "CORRECT"
             },
             "PUFFERCLOUD": {
-              "amount": 0,
+              "amount": 1,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1330,7 +1330,77 @@
               "status": "CORRECT"
             },
             "TIMESTALK": {
-              "amount": 1,
+              "amount": 2,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ZOMBUD": {
+              "amount": 6,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ASHWREATH": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CREAMBLOOM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DEAD_PLANT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DO_NOT_EAT_SHROOM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DUSKBLOOM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DUSTGRAIN": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GODSEED": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "LONELILY": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MAGIC_JELLYBEAN": {
+              "amount": 6,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SHADEVINE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SOGGYBUD": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WITHERBLOOM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ZOMBUD": {
+              "amount": 4,
               "lastChange": 0,
               "status": "CORRECT"
             }

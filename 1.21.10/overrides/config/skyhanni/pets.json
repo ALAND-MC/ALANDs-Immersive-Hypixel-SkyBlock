@@ -20,7 +20,7 @@
               "petInternalName": "BLACK_CAT;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
-              "exp": 3.922921886664253E7,
+              "exp": 3.923088094119667E7,
               "uuid": "76db5d29-11eb-4b01-bb01-8aaa453dfd5e"
             },
             {
@@ -102,7 +102,7 @@
               "petInternalName": "GOLDEN_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.2000809977893895E8,
+              "exp": 2.20631067E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -249,7 +249,7 @@
               "petInternalName": "HEDGEHOG;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 1.227310965175343E8,
+              "exp": 1.2456565460926428E8,
               "uuid": "8996cd10-99d2-44eb-b90e-97542c21ab8a"
             },
             {
@@ -270,7 +270,7 @@
               "petInternalName": "JELLYFISH;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.742026404935026E7,
+              "exp": 2.7420675853262782E7,
               "uuid": "7b70f630-1b48-4b1d-b59f-55e3c7875ecd"
             },
             {
@@ -326,7 +326,7 @@
               "petInternalName": "MOOSHROOM_COW;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 1.4472357147481716E8,
+              "exp": 1.4559359314448398E8,
               "uuid": "4ef325f4-f585-4b4b-a75f-aa2f0b2296a8"
             },
             {
@@ -360,7 +360,7 @@
               "petInternalName": "PHOENIX;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "ANTIQUE_REMEDIES",
-              "exp": 2.5568528287698623E7,
+              "exp": 2.5746910517178625E7,
               "uuid": "0b6aebe5-912b-49c1-8ca6-20016946920e"
             },
             {
@@ -548,6 +548,13 @@
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
               "exp": 2.5466071595112965E7,
               "uuid": "930271c3-85e3-474a-9635-bd943cdae1c2"
+            },
+            {
+              "petInternalName": "ROSE_DRAGON;4",
+              "skinVariantIndex": -1,
+              "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
+              "exp": 3.46923350220636E7,
+              "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             }
           ],
           "expSharePets": [

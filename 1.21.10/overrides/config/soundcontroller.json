@@ -3,11 +3,19 @@
   "subtitlesEnabled": false,
   "sounds": [
     {
+      "soundId": "minecraft:block.note_block.pling",
+      "volume": 0.5
+    },
+    {
       "soundId": "minecraft:block.piston.contract",
       "volume": 0.25
     },
     {
       "soundId": "minecraft:block.piston.extend",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:block.portal.travel",
       "volume": 0.25
     },
     {
@@ -51,8 +59,12 @@
       "volume": 0.05
     },
     {
+      "soundId": "minecraft:entity.elder_guardian.ambient",
+      "volume": 0.25
+    },
+    {
       "soundId": "minecraft:entity.ender_dragon.death",
-      "volume": 0.2
+      "volume": 0.1
     },
     {
       "soundId": "minecraft:entity.enderman.death",
@@ -91,6 +103,10 @@
       "volume": 0.2
     },
     {
+      "soundId": "minecraft:entity.generic.splash",
+      "volume": 0.2
+    },
+    {
       "soundId": "minecraft:entity.ghast.hurt",
       "volume": 0.05
     },
@@ -107,6 +123,10 @@
       "volume": 0.05
     },
     {
+      "soundId": "minecraft:entity.iron_golem.attack",
+      "volume": 0.25
+    },
+    {
       "soundId": "minecraft:entity.lightning_bolt.impact",
       "volume": 0.01
     },
@@ -116,6 +136,14 @@
     },
     {
       "soundId": "minecraft:entity.phantom.ambient",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.player.burp",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.player.levelup",
       "volume": 0.25
     },
     {
@@ -140,6 +168,10 @@
     },
     {
       "soundId": "minecraft:entity.wolf.growl",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.zombie.break_wooden_door",
       "volume": 0.25
     },
     {

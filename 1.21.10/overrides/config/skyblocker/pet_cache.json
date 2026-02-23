@@ -8,11 +8,9 @@
     },
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "tier": "LEGENDARY",
-      "uuid": "875d2052-221e-469d-8fa5-26eff9dbb44a",
-      "heldItem": "GREEN_BANDANA",
-      "name": "[Lvl 100] Mooshroom Cow",
-      "type": "MOOSHROOM_COW",
-      "exp": 1.4472357147481716E8
+      "name": "Rose Dragon",
+      "type": "ROSE_DRAGON",
+      "exp": 3.2905585E7
     },
     "": {
       "tier": "COMMON",

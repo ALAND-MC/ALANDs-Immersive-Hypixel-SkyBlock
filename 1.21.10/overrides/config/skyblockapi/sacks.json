@@ -15,11 +15,6 @@
             "lastUpdated": 1765820813712
           },
           {
-            "id": "INK_SACK:2",
-            "amount": 60480,
-            "lastUpdated": 1765821638267
-          },
-          {
             "id": "HAY_BLOCK",
             "amount": 919,
             "lastUpdated": 1765821638269
@@ -1335,11 +1330,6 @@
             "lastUpdated": 1768922878377
           },
           {
-            "id": "SUGAR_CANE",
-            "amount": 8031,
-            "lastUpdated": 1768923947862
-          },
-          {
             "id": "SAND:1",
             "amount": 135228,
             "lastUpdated": 1768924044646
@@ -1395,11 +1385,6 @@
             "lastUpdated": 1769624051304
           },
           {
-            "id": "CACTUS",
-            "amount": 12,
-            "lastUpdated": 1769624051305
-          },
-          {
             "id": "SPIDER_EYE",
             "amount": 10291,
             "lastUpdated": 1769624051305
@@ -1447,16 +1432,6 @@
           {
             "id": "INK_SACK:3",
             "amount": 148,
-            "lastUpdated": 1769624051309
-          },
-          {
-            "id": "MELON",
-            "amount": 83918,
-            "lastUpdated": 1769624051309
-          },
-          {
-            "id": "PUMPKIN",
-            "amount": 24262,
             "lastUpdated": 1769624051309
           },
           {
@@ -2010,11 +1985,6 @@
             "lastUpdated": 1769857423758
           },
           {
-            "id": "POTATO_ITEM",
-            "amount": 106079,
-            "lastUpdated": 1769857423759
-          },
-          {
             "id": "MAGMA_CREAM",
             "amount": 13168,
             "lastUpdated": 1769857423759
@@ -2057,11 +2027,6 @@
           {
             "id": "SPONGE",
             "amount": 4645,
-            "lastUpdated": 1769857423761
-          },
-          {
-            "id": "CARROT_ITEM",
-            "amount": 24,
             "lastUpdated": 1769857423761
           },
           {
@@ -2125,11 +2090,6 @@
             "lastUpdated": 1769857423766
           },
           {
-            "id": "RED_MUSHROOM",
-            "amount": 9529,
-            "lastUpdated": 1769857423767
-          },
-          {
             "id": "ROUGH_SAPPHIRE_GEM",
             "amount": 94972,
             "lastUpdated": 1769857423768
@@ -2178,11 +2138,6 @@
             "id": "COMPACT_OOZE",
             "amount": 20,
             "lastUpdated": 1769857423771
-          },
-          {
-            "id": "BROWN_MUSHROOM",
-            "amount": 9378,
-            "lastUpdated": 1769857423772
           },
           {
             "id": "ENCHANTED_COCOA",
@@ -2290,11 +2245,6 @@
             "lastUpdated": 1769857423782
           },
           {
-            "id": "WILD_ROSE",
-            "amount": 347,
-            "lastUpdated": 1769857423782
-          },
-          {
             "id": "COMPACTED_SUNFLOWER",
             "amount": 36,
             "lastUpdated": 1769857423782
@@ -2308,16 +2258,6 @@
             "id": "COMPACTED_MOONFLOWER",
             "amount": 1161,
             "lastUpdated": 1769857423782
-          },
-          {
-            "id": "DOUBLE_PLANT",
-            "amount": 17772,
-            "lastUpdated": 1769857423784
-          },
-          {
-            "id": "MOONFLOWER",
-            "amount": 30763,
-            "lastUpdated": 1769857423784
           },
           {
             "id": "ENDER_PEARL",
@@ -2380,16 +2320,6 @@
             "lastUpdated": 1769885494188
           },
           {
-            "id": "COMPOST",
-            "amount": 182,
-            "lastUpdated": 1769891704630
-          },
-          {
-            "id": "CROPIE",
-            "amount": 1779,
-            "lastUpdated": 1769891704630
-          },
-          {
             "id": "DUNG",
             "amount": 189,
             "lastUpdated": 1769891704630
@@ -2410,11 +2340,6 @@
             "lastUpdated": 1769891704632
           },
           {
-            "id": "SQUASH",
-            "amount": 526,
-            "lastUpdated": 1769891704632
-          },
-          {
             "id": "JELLY",
             "amount": 0,
             "lastUpdated": 1769891705730
@@ -2428,11 +2353,6 @@
             "id": "MAGIC_JELLYBEAN",
             "amount": 6,
             "lastUpdated": 1770304673531
-          },
-          {
-            "id": "DEAD_PLANT",
-            "amount": 19,
-            "lastUpdated": 1770304673529
           },
           {
             "id": "CHORUS_FRUIT",
@@ -2455,24 +2375,109 @@
             "lastUpdated": 1770304673531
           },
           {
-            "id": "PUFFERCLOUD",
-            "amount": 0,
-            "lastUpdated": 1770304673531
-          },
-          {
             "id": "STOPLIGHT_PETAL",
             "amount": 0,
             "lastUpdated": 1770304673532
           },
           {
+            "id": "DEAD_PLANT",
+            "amount": 0,
+            "lastUpdated": 1770378203186
+          },
+          {
+            "id": "INK_SACK:2",
+            "amount": 0,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "SUGAR_CANE",
+            "amount": 224,
+            "lastUpdated": 1770378524955
+          },
+          {
+            "id": "CACTUS",
+            "amount": 1002,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "MELON",
+            "amount": 84020,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "PUMPKIN",
+            "amount": 24527,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "POTATO_ITEM",
+            "amount": 517,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "WILD_ROSE",
+            "amount": 19010,
+            "lastUpdated": 1770378524955
+          },
+          {
+            "id": "DOUBLE_PLANT",
+            "amount": 17784,
+            "lastUpdated": 1770378524955
+          },
+          {
+            "id": "MOONFLOWER",
+            "amount": 30775,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "COMPOST",
+            "amount": 219,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "CROPIE",
+            "amount": 1788,
+            "lastUpdated": 1770378524953
+          },
+          {
+            "id": "SQUASH",
+            "amount": 527,
+            "lastUpdated": 1770378524955
+          },
+          {
+            "id": "PUFFERCLOUD",
+            "amount": 1,
+            "lastUpdated": 1770378754488
+          },
+          {
             "id": "THUNDERLING",
             "amount": 0,
-            "lastUpdated": 1770304673532
+            "lastUpdated": 1770378819121
+          },
+          {
+            "id": "RED_MUSHROOM",
+            "amount": 11569,
+            "lastUpdated": 1770379030801
+          },
+          {
+            "id": "BROWN_MUSHROOM",
+            "amount": 11459,
+            "lastUpdated": 1770379030799
+          },
+          {
+            "id": "CARROT_ITEM",
+            "amount": 99378,
+            "lastUpdated": 1770379032892
+          },
+          {
+            "id": "ZOMBUD",
+            "amount": 4,
+            "lastUpdated": 1770401620994
           },
           {
             "id": "TIMESTALK",
-            "amount": 1,
-            "lastUpdated": 1770304673532
+            "amount": 0,
+            "lastUpdated": 1770401625506
           }
         ]
       }
