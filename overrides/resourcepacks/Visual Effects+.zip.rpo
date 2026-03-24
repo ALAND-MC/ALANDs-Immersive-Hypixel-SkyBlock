@@ -8,7 +8,7 @@
     Biome_fog: true,
     Colormap: false,
     Sky_colormaps: true,
-    Overworld_Fog: true,
+    Overworld_Fog: false,
     End_fog: true,
     Pale_garden_fog: true,
     Lightrays: true,

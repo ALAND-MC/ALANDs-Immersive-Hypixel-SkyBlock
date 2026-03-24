@@ -1,92 +1,93 @@
 {
 	"hotbarScrollSoundEffect": {
-		"pitch": 1.8,
-		"volume": 0.2,
-		"enabledDynamic": true,
 		"id": "hotbarScroll",
 		"soundEvent": "minecraft:block.note_block.hat",
-		"shouldPlay": true
+		"shouldPlay": true,
+		"pitch": 1.8,
+		"volume": 0.2,
+		"enabledDynamic": true
 	},
 	"hotbarPickSoundEffect": {
-		"pitch": 1.8,
-		"volume": 0.2,
-		"enabledDynamic": true,
 		"id": "hotbarPick",
 		"soundEvent": "minecraft:block.note_block.hat",
-		"shouldPlay": true
-	},
-	"inventoryOpenSoundEffect": {
-		"pitch": 2.0,
-		"volume": 0.5,
-		"enabledDynamic": true,
-		"id": "inventoryOpen",
-		"soundEvent": "minecraft:ui.toast.in",
-		"shouldPlay": true
-	},
-	"inventoryCloseSoundEffect": {
-		"pitch": 2.0,
-		"volume": 0.5,
-		"enabledDynamic": false,
-		"id": "inventoryClose",
-		"soundEvent": "minecraft:ui.toast.out",
-		"shouldPlay": true
-	},
-	"inventoryScrollSoundEffect": {
 		"shouldPlay": true,
 		"pitch": 1.8,
 		"volume": 0.2,
-		"id": "inventoryScroll",
-		"soundEvent": "minecraft:block.note_block.hat"
+		"enabledDynamic": true
 	},
-	"inventoryTypingSoundEffect": {
+	"inventoryOpenSoundEffect": {
+		"id": "inventoryOpen",
+		"soundEvent": "minecraft:ui.toast.in",
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.5,
+		"enabledDynamic": true
+	},
+	"inventoryCloseSoundEffect": {
+		"id": "inventoryClose",
+		"soundEvent": "minecraft:ui.toast.out",
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.5,
+		"enabledDynamic": false
+	},
+	"inventoryScrollSoundEffect": {
+		"id": "inventoryScroll",
+		"soundEvent": "minecraft:block.note_block.hat",
+		"shouldPlay": true,
+		"pitch": 1.8,
+		"volume": 0.2
+	},
+	"typingSoundEffect": {
+		"id": "typing",
+		"soundEvent": "minecraft:block.note_block.hat",
 		"shouldPlay": true,
 		"pitch": 1.6,
-		"volume": 0.4,
-		"id": "inventoryTyping",
-		"soundEvent": "minecraft:block.note_block.hat"
+		"volume": 0.4
 	},
 	"ignoreEmptyInventorySlots": false,
 	"itemDropSoundEffect": {
-		"pitch": 1.5,
-		"volume": 0.4,
-		"enabledDynamic": true,
 		"id": "itemDrop",
 		"soundEvent": "minecraft:block.dispenser.launch",
-		"shouldPlay": true
+		"shouldPlay": true,
+		"pitch": 1.5,
+		"volume": 0.4,
+		"enabledDynamic": true
 	},
 	"itemCopySoundEffect": {
-		"pitch": 2.0,
-		"volume": 0.2,
-		"enabledDynamic": true,
 		"id": "itemCopy",
 		"soundEvent": "minecraft:block.fire.extinguish",
-		"shouldPlay": true
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.2,
+		"enabledDynamic": true
 	},
 	"itemDeleteSoundEffect": {
-		"pitch": 1.6,
-		"volume": 0.2,
-		"enabledDynamic": true,
 		"id": "itemDelete",
 		"soundEvent": "minecraft:block.fire.extinguish",
-		"shouldPlay": true
+		"shouldPlay": true,
+		"pitch": 1.6,
+		"volume": 0.2,
+		"enabledDynamic": true
 	},
 	"itemDragSoundEffect": {
-		"pitch": 1.6,
-		"volume": 0.4,
-		"enabledDynamic": true,
 		"id": "itemDrag",
 		"soundEvent": "minecraft:block.stone.hit",
-		"shouldPlay": true
+		"shouldPlay": true,
+		"pitch": 1.6,
+		"volume": 0.4,
+		"enabledDynamic": true
 	},
 	"itemClickSoundEffect": {
-		"pitch": 2.0,
-		"volume": 0.4,
-		"enabledDynamic": true,
 		"id": "itemPick",
 		"soundEvent": "minecraft:block.stone.hit",
-		"shouldPlay": true
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.4,
+		"enabledDynamic": true
 	},
 	"ignoreEmptyHotbarSlots": false,
 	"itemSoundCooldown": 0.05,
-	"enableItemSoundCooldown": true
+	"enableItemSoundCooldown": true,
+	"enableDynamicItemSounds": true
 }

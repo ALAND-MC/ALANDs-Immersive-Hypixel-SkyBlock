@@ -142,6 +142,7 @@
     "enabled": true,
     "settings": {
       "Sorting": "Odin Sorting",
+      "On Key Release": false,
       "Only Classes": false,
       "Color Style": false,
       "Background Color": "#262626BF",
@@ -199,7 +200,8 @@
       "Storage": "key.keyboard.unknown",
       "Wardrobe": "key.keyboard.unknown",
       "Equipment": "key.keyboard.unknown",
-      "Dungeon Hub": "key.keyboard.unknown"
+      "Dungeon Hub": "key.keyboard.unknown",
+      "Potion Bag": "key.keyboard.unknown"
     }
   },
   {
@@ -248,6 +250,7 @@
       "Second Color": "#FFAA007F",
       "Third Color": "#FF55557F",
       "Style": "Outline",
+      "Announce Progress": true,
       "Block Wrong Clicks": false,
       "Block Wrong on Start": false,
       "Max Start Clicks": 4.0,
@@ -343,11 +346,10 @@
       "Floor": "F7",
       "Master Mode": true,
       "Inform Kicked": false,
-      "Maximum Seconds": 400.0,
+      "Minimum PB": 400.0,
       "Minimum Secrets": 0.0,
-      "Api Off Kick": true,
       "Magical Power": 1300.0,
-      "Spirit Pet": false,
+      "Api Off Kick": true,
       "Kick Cache": true,
       "Keybind": "key.keyboard.unknown"
     }
@@ -404,14 +406,16 @@
     "enabled": false,
     "settings": {
       "Allow Edits": false,
-      "Allow Midair": false,
-      "Reach Color": "#00FFD56D",
       "Allow Text Edit": true,
-      "Render Title": true,
       "Title Scale": 1.0000000149011612,
       "Global Depth": false,
+      "Editor HUD": {
+        "x": 10,
+        "y": 10,
+        "scale": 2.0,
+        "enabled": false
+      },
       "Waypoint Type": "None",
-      "Color pallet": "None",
       "Color": "#55FF55FF",
       "Filled": false,
       "Depth check": false,
@@ -419,6 +423,15 @@
       "Size X": 1.0,
       "Size Y": 1.0,
       "Size Z": 1.0,
+      "None Color": "#55FF55FF",
+      "Normal Color": "#FF5555FF",
+      "Secret Color": "#5555FFFF",
+      "Etherwarp Color": "#FFAA00FF",
+      "Cycle Waypoint": "key.keyboard.unknown",
+      "Selected Waypoint Packs": [
+        "dungeon-waypoint-config"
+      ],
+      "Edit Waypoint Pack": "dungeon-waypoint-config",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -985,6 +998,7 @@
     "enabled": false,
     "settings": {
       "Hide Claimed": true,
+      "Use Salvaged": false,
       "Croesus Chest HUD": {
         "x": 10,
         "y": 10,

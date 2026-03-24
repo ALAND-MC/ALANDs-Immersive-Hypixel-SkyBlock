@@ -4,9 +4,3 @@
 	reconnectionDelay = 15
 	replaceMessages = false
 	debug = false
-
-[netty]
-	useEpoll = false
-	# Default: 256
-	# Range: > 256
-	compressionThreshold = 256
