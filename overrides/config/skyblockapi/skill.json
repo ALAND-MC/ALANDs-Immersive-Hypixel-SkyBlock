@@ -5,13 +5,13 @@
       "Pear": {
         "exp": {
           "FORAGING": 1.281083E8,
-          "FARMING": 6.816878E8,
+          "FARMING": 6.8196666E8,
           "CARPENTRY": 2.5258587E8,
-          "HUNTING": 4322945.0,
+          "HUNTING": 4388172.0,
           "SOCIAL": 275324.0,
-          "COMBAT": 8.441691E8,
-          "FISHING": 2.1427378E8,
-          "ENCHANTING": 6.1547704E9,
+          "COMBAT": 8.4428544E8,
+          "FISHING": 2.1441706E8,
+          "ENCHANTING": 6.219923E9,
           "MINING": 4.0241267E8
         }
       },

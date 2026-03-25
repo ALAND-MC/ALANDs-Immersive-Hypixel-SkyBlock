@@ -6,164 +6,140 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "skinVariantIndex": -1,
-              "exp": 4.351300496386298E7,
+              "exp": 4.457816612761763E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
               "petInternalName": "BAT;5",
-              "skinVariantIndex": -1,
               "exp": 3.446051994556043E7,
               "uuid": "827305ae-771f-461a-b903-495e71a3b652"
             },
             {
               "petInternalName": "BLACK_CAT;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
-              "exp": 3.923088094119667E7,
+              "exp": 3.9897589805166826E7,
               "uuid": "76db5d29-11eb-4b01-bb01-8aaa453dfd5e"
             },
             {
               "petInternalName": "ENDERMAN;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
               "exp": 2.1661270016450885E8,
               "uuid": "33c65214-b8cd-4207-a820-08020d5302a2"
             },
             {
               "petInternalName": "ENDERMITE;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
               "exp": 2.555605635807878E7,
               "uuid": "83e78964-2c5e-4a3d-b9a7-bc0ec9c456fe"
             },
             {
               "petInternalName": "FLYING_FISH;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 3.007668327937508E8,
+              "exp": 3.0079846382650423E8,
               "uuid": "039672f1-b74a-47f4-ab53-aec5f59722ad"
             },
             {
               "petInternalName": "GUARDIAN;5",
-              "skinVariantIndex": -1,
-              "exp": 1.3349212529148476E8,
+              "exp": 2.2355985703635484E8,
               "uuid": "4663392f-0639-48f6-b82d-cd83e20c068e"
             },
             {
               "petInternalName": "HERMIT_CRAB;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
               "exp": 2.5354501889893726E7,
               "uuid": "915be399-5570-4982-8a87-c51d3f61eb16"
             },
             {
               "petInternalName": "JERRY;5",
-              "skinVariantIndex": -1,
               "exp": 2.5556310893355384E7,
               "uuid": "378b2033-a13a-440d-9c6d-a9ff01b056e5"
             },
             {
               "petInternalName": "MITHRIL_GOLEM;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
               "exp": 2.602125986919023E7,
               "uuid": "809a9561-f585-4805-af42-90fe6e4100ff"
             },
             {
               "petInternalName": "RAT;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
               "exp": 2.5556487957014848E7,
               "uuid": "8c539e2d-9316-495e-ad90-3dd8adb76508"
             },
             {
               "petInternalName": "SNOWMAN;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
               "exp": 2.5613753010697734E7,
               "uuid": "b9a79114-be6d-4880-9794-1466edeedfe3"
             },
             {
               "petInternalName": "SPIDER;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
               "exp": 2.5650114771872737E7,
               "uuid": "eee15557-9762-49db-8f7a-3e68b76e3ea3"
             },
             {
               "petInternalName": "TARANTULA;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
               "exp": 2.80898254642077E7,
               "uuid": "6eb88dc0-0667-4c76-aaf5-d992fe30396b"
             },
             {
               "petInternalName": "GOLDEN_DRAGON;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.20631067E8,
+              "exp": 2.206940297061355E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
               "petInternalName": "AMMONITE;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "WASHED_UP_SOUVENIR",
               "exp": 1.6438779106436753E8,
               "uuid": "29105f0d-7343-4896-b39d-a6541a8d656b"
             },
             {
               "petInternalName": "ANKYLOSAURUS;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
               "exp": 2.54937066351915E7,
               "uuid": "bf4a82fb-27e4-4104-b671-a331d711b77a"
             },
             {
-              "petInternalName": "ARMADILLO;4",
-              "skinVariantIndex": -1,
+              "petInternalName": "ARMADILLO;5",
               "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
               "exp": 3.1147587104228888E7,
               "uuid": "fe0f7cf3-4093-4cbc-ae5c-697400e75590"
             },
             {
               "petInternalName": "BABY_YETI;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
               "exp": 2.6993806845487278E7,
               "uuid": "2de4d7c8-2b52-4840-b1f0-09ecb0a6702e"
             },
             {
               "petInternalName": "BAL;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
               "exp": 4.389329609377172E7,
               "uuid": "dc2dbdd9-6a60-4f20-8e70-5925913c24dc"
             },
             {
               "petInternalName": "BEE;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
               "exp": 2.5799567090205986E7,
               "uuid": "8a0cf338-90c2-4c41-9615-dd98a898bdad"
             },
             {
               "petInternalName": "BLAZE;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
               "exp": 2.6640861768492166E7,
               "uuid": "77b23008-de17-4f4f-867a-b851b5d2e6d8"
             },
             {
               "petInternalName": "BLUE_WHALE;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
               "exp": 3.917949372636511E7,
               "uuid": "abcc1ac6-db6a-4b8a-86fe-fff83ca7ff40"
             },
             {
               "petInternalName": "CHICKEN;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
               "exp": 2.5670848337271903E7,
               "uuid": "174e6eed-5e35-4347-a065-6fa1dd84454e"
@@ -240,9 +216,8 @@
             },
             {
               "petInternalName": "GRIFFIN;5",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "FOUR_EYED_FISH",
-              "exp": 5.524775700929006E7,
+              "exp": 5.526783030656492E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
@@ -523,9 +498,8 @@
             },
             {
               "petInternalName": "JADE_DRAGON;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.931212610079412E8,
+              "exp": 2.967846501228115E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -544,7 +518,6 @@
             },
             {
               "petInternalName": "CROW;4",
-              "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
               "exp": 2.5466071595112965E7,
               "uuid": "930271c3-85e3-474a-9635-bd943cdae1c2"
@@ -552,7 +525,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
-              "exp": 7.981656727979511E7,
+              "exp": 9.468775244950065E7,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             }
           ],

@@ -9,7 +9,7 @@
           "rarity": "COMMON"
         },
         "attribute:c14": {
-          "owned": 1,
+          "owned": 3,
           "syphoned": 96,
           "rarity": "COMMON"
         },
@@ -29,7 +29,7 @@
           "rarity": "COMMON"
         },
         "attribute:u10": {
-          "owned": 292,
+          "owned": 294,
           "syphoned": 64,
           "rarity": "UNCOMMON"
         },
@@ -69,7 +69,7 @@
           "rarity": "UNCOMMON"
         },
         "attribute:u33": {
-          "owned": 14,
+          "owned": 23,
           "syphoned": 64,
           "rarity": "UNCOMMON"
         },
@@ -184,7 +184,7 @@
           "rarity": "EPIC"
         },
         "attribute:e27": {
-          "owned": 1,
+          "owned": 3,
           "syphoned": 32,
           "rarity": "EPIC"
         },
