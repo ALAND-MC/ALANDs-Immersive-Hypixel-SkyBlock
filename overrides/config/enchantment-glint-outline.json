@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "outline_size": 20.0,
+  "render_solid": false,
+  "render_solid_outline_color_rgb": [
+    210,
+    150,
+    248
+  ],
+  "render_equipment": false,
+  "equipment_outline_size": 20.0,
+  "render_equipment_solid": false,
+  "item_overrides": {},
+  "equipment_overrides": {}
+}

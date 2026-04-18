@@ -220,7 +220,7 @@
     "cave": 1,
     "suspense": 1,
     "weather": 1,
-    "wind": 1
+    "wind": 0.8006042242050171
   },
   "fade-volume": 0.005,
   "fade-pitch": 0.005,

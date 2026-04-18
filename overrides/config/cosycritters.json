@@ -3,11 +3,28 @@
   "maxBirds": 16,
   "maxMoths": 4,
   "maxSpiders": 8,
-  "spawnHatman": true,
-  "spawnBird": true,
+  "spawnHatman": false,
+  "spawnBird": false,
   "spawnMoth": true,
   "spawnSpider": true,
   "bird": {
+    "biomeList": {
+      "entries": [
+        "#c:is_forest",
+        "#c:is_taiga",
+        "#c:is_jungle",
+        "#minecraft:is_forest",
+        "#minecraft:is_taiga",
+        "#minecraft:is_jungle"
+      ],
+      "isWhitelist": true
+    },
+    "blockList": {
+      "entries": [
+        "#minecraft:leaves"
+      ],
+      "isWhitelist": true
+    },
     "reactionDistance": 10,
     "reactionSpeed": 20,
     "despawnDistance": 128,

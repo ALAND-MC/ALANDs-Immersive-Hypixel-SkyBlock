@@ -1,0 +1,127 @@
+{
+  "players": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "profiles": {
+        "pear": {
+          "sackContents": {
+            "BROWN_MUSHROOM": {
+              "amount": 13598,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CACTUS": {
+              "amount": 23450,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "INK_SACK-2": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CARROT_ITEM": {
+              "amount": 61736,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "INK_SACK-3": {
+              "amount": 148,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "COMPOST": {
+              "amount": 332,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CROPIE": {
+              "amount": 1772,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GOLDEN_CARROT": {
+              "amount": 12,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HAY_BLOCK": {
+              "amount": 920,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "JACK_O_LANTERN": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MELON": {
+              "amount": 84020,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MOONFLOWER": {
+              "amount": 53559,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "NETHER_STALK": {
+              "amount": 130121,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "POISONOUS_POTATO": {
+              "amount": 161,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "POTATO_ITEM": {
+              "amount": 167,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "PUMPKIN": {
+              "amount": 28223,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "RED_MUSHROOM": {
+              "amount": 24287,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SEEDS": {
+              "amount": 2851,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SQUASH": {
+              "amount": 522,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SUGAR_CANE": {
+              "amount": 63436,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DOUBLE_PLANT": {
+              "amount": 18741,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WHEAT": {
+              "amount": 92708,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WILD_ROSE": {
+              "amount": 45118,
+              "lastChange": 0,
+              "status": "CORRECT"
+            }
+          }
+        }
+      }
+    }
+  }
+}
