@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "doorEnabled": true,
-  "trapdoorEnabled": true,
-  "fenceGateEnabled": true,
-  "durationMs": 240,
-  "revealLeadMs": 25,
-  "debugLogs": false
-}

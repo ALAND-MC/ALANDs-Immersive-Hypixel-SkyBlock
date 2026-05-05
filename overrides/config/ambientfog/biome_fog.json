@@ -1,6 +1,5 @@
 {
-  "version": 28,
-  "lastSeenModVersion": "2.6",
+  "version": 31,
   "resourcePackPromptSeenFingerprint": "",
   "firstWorldHintShown": true,
   "sodiumFogOcclusionAutoDisabled": true,
@@ -8,6 +7,71 @@
   "masterEnabled": true,
   "disableTwilightRing": false,
   "removeSkyInVoid": false,
+  "twilightColor": 16751360,
+  "twilightFogColor": 16751360,
+  "twilightHazeColor": 16751360,
+  "twilightSkyColor": -9402664,
+  "violetSkyColor": 6892687,
+  "violetFogColor": 6892687,
+  "violetHazeColor": 6892687,
+  "sunTextureScale": 1.0,
+  "moonTextureScale": 1.0,
+  "sunBloomScale": 5.0,
+  "sunBloomBrightness": 0.10144927,
+  "moonBloomScale": 5.0,
+  "moonBloomBrightness": 0.10144927,
+  "fogTime": {
+    "start": 0,
+    "end": 24000
+  },
+  "nightFogTime": {
+    "start": 11700,
+    "end": 24000
+  },
+  "hazeTime": {
+    "start": 0,
+    "end": 24000
+  },
+  "nightHazeTime": {
+    "start": 11700,
+    "end": 23100
+  },
+  "skyTime": {
+    "start": 0,
+    "end": 24000
+  },
+  "twilightSunsetTime": {
+    "start": 11500,
+    "end": 13600
+  },
+  "twilightSunriseTime": {
+    "start": 22750,
+    "end": 1000
+  },
+  "violetSunsetTime": {
+    "start": 11000,
+    "end": 15500
+  },
+  "violetSunriseTime": {
+    "start": 22000,
+    "end": 24000
+  },
+  "violetFogSunsetTime": {
+    "start": 11000,
+    "end": 15500
+  },
+  "violetFogSunriseTime": {
+    "start": 22000,
+    "end": 24000
+  },
+  "violetHazeSunsetTime": {
+    "start": 11000,
+    "end": 15500
+  },
+  "violetHazeSunriseTime": {
+    "start": 22000,
+    "end": 24000
+  },
   "fogDensity": 0.3,
   "transitionColorTau": 0.6538788,
   "transitionDistanceTau": 0.6538788,
@@ -49,6 +113,8 @@
     "storeModeCloudSpeed": 1.0021701,
     "storeModeCloudWidth": 0.9954427,
     "storeModeCloudLength": 0.99869514,
+    "storeModeCloudFade": 0.0,
+    "storeModeCloudTopFade": 0.0,
     "renderDistanceScale": 0.49474934,
     "tintStrength": 1.0,
     "fogColorMixStrength": 0.0,
@@ -72,28 +138,39 @@
     "enabled": true,
     "maxConcurrent": 2,
     "spawnRate": 0.99646646,
-    "speed": 1.0,
+    "speed": 0.6982332,
     "size": 0.45,
     "tailLength": 1.6013141,
     "brightness": 1.0,
     "colorPreset": 3
   },
   "weather": {
+    "rainFogColor": 4343681,
+    "rainSkyColor": 16777215,
+    "rainCloudColor": 16777215,
+    "rainHazeColor": 16777215,
+    "thunderFogColor": 1378642,
+    "thunderSkyColor": 16777215,
+    "thunderCloudColor": 16777215,
+    "thunderHazeColor": 16777215,
+    "fogNightColorDarkening": 0.7544085,
+    "hazeNightColorDarkening": 0.7655134,
+    "cloudNightColorDarkening": 0.89916295,
     "rain": {
-      "fog": 0.50417954,
-      "sky": 0.5607608,
-      "clouds": 0.6491691,
-      "haze": 0.95093584,
-      "fogStart": 150.55,
-      "fogEnd": 0.0
+      "fog": 0.0,
+      "sky": 0.0,
+      "clouds": 0.0,
+      "haze": 0.0,
+      "fogStart": 101.03799,
+      "fogEnd": 150.5466
     },
     "thunder": {
-      "fog": 0.18,
-      "sky": 0.18,
-      "clouds": 0.2,
-      "haze": 0.18,
-      "fogStart": 124.85277,
-      "fogEnd": 1.0
+      "fog": 0.0,
+      "sky": 0.0,
+      "clouds": 0.0,
+      "haze": 0.0,
+      "fogStart": 150.5466,
+      "fogEnd": 0.0
     }
   },
   "savedColors": [
@@ -445,7 +522,7 @@
       "fogColor": 2360607,
       "skyColor": 4201532,
       "cloudColor": 16777215,
-      "nightFogColor": 5046348,
+      "nightFogColor": 4457539,
       "intensity": 1.0,
       "fogDensity": 1.0,
       "startDistance": 15.282321,
@@ -456,7 +533,7 @@
       "haze": {
         "enabled": true,
         "color": 16749053,
-        "nightColor": 11862191,
+        "nightColor": 1245715,
         "strength": 3.0,
         "bottomY": -64.0,
         "middleY": -5.0,
@@ -503,7 +580,7 @@
       "fogColor": 15375932,
       "skyColor": 16747111,
       "cloudColor": 16770957,
-      "nightFogColor": 5119232,
+      "nightFogColor": 4726019,
       "intensity": 1.0,
       "fogDensity": 1.0,
       "startDistance": 0.17512147,
@@ -514,7 +591,7 @@
       "haze": {
         "enabled": true,
         "color": 16770943,
-        "nightColor": 7944704,
+        "nightColor": 7814666,
         "strength": 3.0,
         "bottomY": -64.0,
         "middleY": -5.0,
@@ -790,8 +867,8 @@
     },
     "minecraft:nether_wastes": {
       "enabled": true,
-      "fogColor": 10092544,
-      "skyColor": 9881850,
+      "fogColor": 8847360,
+      "skyColor": 35839,
       "cloudColor": 16777215,
       "nightFogColor": 10092544,
       "intensity": 1.0,
@@ -1123,7 +1200,7 @@
       "haze": {
         "enabled": true,
         "color": 16758583,
-        "nightColor": 1114112,
+        "nightColor": 1049347,
         "strength": 3.0,
         "bottomY": -64.0,
         "middleY": -5.0,
@@ -1518,7 +1595,7 @@
       "fogColor": 3331467,
       "skyColor": 1892829,
       "cloudColor": 13434855,
-      "nightFogColor": 15872,
+      "nightFogColor": 343045,
       "intensity": 1.0,
       "fogDensity": 1.0,
       "startDistance": 15.282321,
@@ -1529,7 +1606,7 @@
       "haze": {
         "enabled": true,
         "color": 4633964,
-        "nightColor": 11526,
+        "nightColor": 406540,
         "strength": 3.0,
         "bottomY": -64.0,
         "middleY": -5.0,
@@ -2098,7 +2175,7 @@
       "fogColor": 10353302,
       "skyColor": 11861937,
       "cloudColor": 16777215,
-      "nightFogColor": 26368,
+      "nightFogColor": 216323,
       "intensity": 1.0,
       "fogDensity": 1.0,
       "startDistance": 2.0,
@@ -2109,7 +2186,7 @@
       "haze": {
         "enabled": true,
         "color": 11796366,
-        "nightColor": 3586859,
+        "nightColor": 669958,
         "strength": 2.0,
         "bottomY": -64.0,
         "middleY": -5.0,
@@ -2156,7 +2233,7 @@
       "fogColor": 16774730,
       "skyColor": 16776392,
       "cloudColor": 16777215,
-      "nightFogColor": 6704896,
+      "nightFogColor": 4535811,
       "intensity": 1.0,
       "fogDensity": 1.0,
       "startDistance": 2.0,
@@ -2167,7 +2244,7 @@
       "haze": {
         "enabled": true,
         "color": 16776872,
-        "nightColor": 12104704,
+        "nightColor": 1644548,
         "strength": 2.0,
         "bottomY": -64.0,
         "middleY": -5.0,
@@ -2185,7 +2262,7 @@
       "fogColor": 16777215,
       "skyColor": 12637933,
       "cloudColor": 16777215,
-      "nightFogColor": 34697,
+      "nightFogColor": 294014,
       "intensity": 1.0,
       "fogDensity": 1.0,
       "startDistance": 2.0,
@@ -2196,7 +2273,7 @@
       "haze": {
         "enabled": true,
         "color": 14803425,
-        "nightColor": 13364,
+        "nightColor": 3759196,
         "strength": 2.0,
         "bottomY": -64.0,
         "middleY": -5.0,
@@ -2243,7 +2320,7 @@
       "fogColor": 16758711,
       "skyColor": 16756452,
       "cloudColor": 16777215,
-      "nightFogColor": 2031686,
+      "nightFogColor": 2097734,
       "intensity": 1.0,
       "fogDensity": 1.0,
       "startDistance": 2.0,
@@ -2254,7 +2331,7 @@
       "haze": {
         "enabled": true,
         "color": 15503841,
-        "nightColor": 4718773,
+        "nightColor": 4916916,
         "strength": 2.0,
         "bottomY": -64.0,
         "middleY": -5.0,

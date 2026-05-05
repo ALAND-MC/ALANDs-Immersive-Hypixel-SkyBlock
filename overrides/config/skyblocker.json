@@ -24,6 +24,7 @@
     },
     "itemTooltip": {
       "enableNPCPrice": false,
+      "enableGeorgePrice": false,
       "enableMotesPrice": false,
       "enableAvgBIN": false,
       "avg": "THREE_DAY",
@@ -32,7 +33,7 @@
       "enableCraftingCost": "OFF",
       "enableObtainedDate": false,
       "enableMuseumInfo": false,
-      "enableExoticTooltip": false,
+      "enableExoticTooltip": true,
       "enableAccessoriesHelper": true,
       "dungeonQuality": true,
       "showEssenceCost": false,
@@ -76,7 +77,7 @@
     "swingOnAbilities": false,
     "nightVisionStrength": 100,
     "compactorDeletorPreview": false,
-    "dontStripSkinAlphaValues": false,
+    "dontStripSkinAlphaValues": true,
     "backpackPreviewWithoutShift": false,
     "hideEmptyTooltips": true,
     "fancyCraftingTable": true,
@@ -98,6 +99,7 @@
     "slotText": {
       "slotTextMode": "ENABLED",
       "textEnabled": {
+        "hunting_toolkit_indicator": true,
         "rancher_boots": false,
         "enchantment_abbreviation": false,
         "enchantment_level": true,
@@ -194,19 +196,19 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
-        "Chloronite",
-        "Titanic Experience Bottle",
-        "Do-not-eat-shroom"
+        "feast",
+        "historic",
+        "wasp"
       ],
       "auctionHistory": [
-        "cake soul",
-        "Green Bandana",
-        "rabbit the f"
+        "armadillo",
+        "Giant\u0027s Sword",
+        "claymore"
       ],
       "museumHistory": [
-        "Giant\u0027s Sword",
-        "Gemstone Gauntlet",
-        "Zombie Commander Whip"
+        "toolkit",
+        "hunt",
+        "chisel"
       ]
     },
     "bazaarQuickQuantities": {
@@ -260,7 +262,7 @@
     "enableBitsTooltip": false,
     "enableWardrobeHelper": true,
     "enableDateCalculator": true,
-    "enableCopyUnderbidPrice": false,
+    "enableCopyUnderbidPrice": true,
     "enableAnvilHelper": true,
     "enableAccessoriesHelperWidget": true,
     "buildersWand": {
@@ -342,7 +344,7 @@
       "enableOrderTracker": true
     },
     "itemPrice": {
-      "enableItemPriceLookup": false,
+      "enableItemPriceLookup": true,
       "enableItemPriceRefresh": false
     },
     "greatSpookEvent": {
@@ -596,7 +598,7 @@
       "hideEmissaryOnPigeon": true
     },
     "glacite": {
-      "coldOverlay": true,
+      "coldOverlay": false,
       "fossilSolver": false,
       "enableCorpseFinder": false,
       "enableParsingChatCorpseFinder": false,
@@ -612,11 +614,14 @@
   "farming": {
     "farmingHud": {
       "enabled": false,
-      "type": "BOTH"
+      "counter": true,
+      "coins": true,
+      "type": "BOTH",
+      "experience": true
     },
     "pestHighlighter": {
       "enabled": true,
-      "vinylHighlighter": true,
+      "vinylHighlighter": false,
       "enableStereoHarmonyHelperForContest": false
     },
     "mouseLock": {
@@ -663,7 +668,8 @@
       "blobbercystGlow": false,
       "enigmaSoulWaypoints": false,
       "highlightFoundEnigmaSouls": false,
-      "mcGrubberStacks": 0
+      "autoDetectMcGrubber": true,
+      "mcGrubberStacks": 3
     },
     "end": {
       "enableEnderNodeHelper": false,
@@ -742,6 +748,7 @@
     "hideHeal": "PASS",
     "hideAOTE": "PASS",
     "hideImplosion": "PASS",
+    "hideSpiritSceptre": "PASS",
     "hideMoltenWave": "PASS",
     "hideAds": "PASS",
     "hideTeleportPad": "PASS",
@@ -759,7 +766,7 @@
     }
   },
   "quickNav": {
-    "enableQuickNav": true,
+    "enableQuickNav": false,
     "button1": {
       "render": true,
       "doubleClick": false,
@@ -933,7 +940,14 @@
     "criterion": "NONE",
     "reminderSound": "NONE",
     "events": {
-      "Cult": {
+      "Hoppity\u0027s Hunt Begins": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Bonus Mining Fiesta": {
         "enabled": true,
         "reminderTimes": [
           60,
@@ -954,14 +968,7 @@
           300
         ]
       },
-      "Hoppity\u0027s Hunt Begins": {
-        "enabled": true,
-        "reminderTimes": [
-          60,
-          300
-        ]
-      },
-      "Jerry\u0027s Workshop Opens": {
+      "Cult": {
         "enabled": true,
         "reminderTimes": [
           60,
@@ -975,14 +982,7 @@
           300
         ]
       },
-      "Bonus Mining Fiesta": {
-        "enabled": true,
-        "reminderTimes": [
-          60,
-          300
-        ]
-      },
-      "Bonus Fishing Festival": {
+      "Jacob\u0027s Farming Contest": {
         "enabled": true,
         "reminderTimes": [
           60,
@@ -996,7 +996,14 @@
           300
         ]
       },
-      "Year of the Pig Begins": {
+      "Election Booth Opens": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Cult of the Fallen Star": {
         "enabled": true,
         "reminderTimes": [
           60,
@@ -1017,28 +1024,28 @@
           300
         ]
       },
-      "Election Booth Opens": {
-        "enabled": true,
-        "reminderTimes": [
-          60,
-          300
-        ]
-      },
-      "Jacob\u0027s Farming Contest": {
-        "enabled": true,
-        "reminderTimes": [
-          60,
-          300
-        ]
-      },
-      "Cult of the Fallen Star": {
-        "enabled": true,
-        "reminderTimes": [
-          60,
-          300
-        ]
-      },
       "Election Booth Closes": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Bonus Fishing Festival": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Jerry\u0027s Workshop Opens": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Year of the Pig Begins": {
         "enabled": true,
         "reminderTimes": [
           60,

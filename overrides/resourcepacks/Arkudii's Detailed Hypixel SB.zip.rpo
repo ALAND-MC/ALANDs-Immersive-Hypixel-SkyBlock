@@ -9,7 +9,7 @@
     x08CoolGalatea: true,
     x09CoolRift: true,
     x10BlazeFirePillarTexture: true,
-    x11KuudraArmorPistonSound: true,
+    x11KuudraArmorPistonSound: false,
     x97DarkDungeons: "Dungeons",
     x98GhostsFloorTexture: "Dark",
     x99WorkInProgressBlock: false,
@@ -19,17 +19,17 @@
         rift: true
     },
     gemstonesAndMetalsCustomTextures: {
-        x00OldFurfSkyPack: true,
-        x01DwarvenMines: true,
+        x00OldFurfSkyPack: false,
+        x01DwarvenMines: false,
         x02Titanium: true,
         x03CoolDarkMonolith: true,
-        x04CrystalHollows: true,
+        x04CrystalHollows: false,
         x05MagmaFields: true,
-        x06GlaciteTunnels: true,
-        x07Mineshafts: true,
-        x08Opals: true,
+        x06GlaciteTunnels: false,
+        x07Mineshafts: false,
+        x08Opals: false,
         x09SulphurOre: true,
-        x10Rift: true
+        x10Rift: false
     },
     x999secret: -1.0
 }

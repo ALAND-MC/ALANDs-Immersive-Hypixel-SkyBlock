@@ -3466,7 +3466,7 @@
     "waypointType": "outline"
   },
   {
-    "name": "Cobble",
+    "name": "Cobblestone",
     "island": "mining_3",
     "waypoints": [
       {

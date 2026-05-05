@@ -64,7 +64,7 @@
     },
     {
       "soundId": "minecraft:entity.ender_dragon.death",
-      "volume": 0.1
+      "volume": 0.2
     },
     {
       "soundId": "minecraft:entity.enderman.death",
@@ -137,10 +137,6 @@
     {
       "soundId": "minecraft:entity.phantom.ambient",
       "volume": 0.25
-    },
-    {
-      "soundId": "minecraft:entity.player.burp",
-      "volume": 0.5
     },
     {
       "soundId": "minecraft:entity.player.levelup",

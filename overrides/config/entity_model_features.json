@@ -20,7 +20,7 @@
   "retainDetailOnLargerMobs": true,
   "animationFrameSkipDuringIrisShadowPass": true,
   "preventFirstPersonHandAnimating": true,
-  "onlyClientPlayerModel": true,
+  "onlyClientPlayerModel": false,
   "doubleChestAnimFix": true,
   "enforceOptifineVariationRequiresDefaultModel": false,
   "enforceOptifineVariationRequiresDefaultModel_v2": false,
@@ -32,5 +32,7 @@
   "allowOptifineFallbackProperties": true,
   "showReloadErrorToast": true,
   "armorCopiesAnimationsHack": true,
-  "exportRotations": false
+  "exportRotations": false,
+  "asmMaths": true,
+  "logASM": false
 }

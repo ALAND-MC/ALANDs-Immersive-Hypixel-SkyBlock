@@ -8,7 +8,7 @@
 	disableWidgetFade: true,
 	disableFade: false,
 	disableSplash: false,
-	disableLoadingTerrain: false,
+	disableLoadingTerrain: true,
 	disableWorldAdvice: false,
 	nightVisionFlicker: false,
 	disableParticles: false,

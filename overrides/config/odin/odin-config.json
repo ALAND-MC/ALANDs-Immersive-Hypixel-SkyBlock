@@ -51,7 +51,15 @@
       "Send Splits": true,
       "Show Tick Time": false,
       "Split Location": "Both",
-      "KuudraT5": {},
+      "KuudraT5": {
+        "§2Supplies": 40.219,
+        "§bBuild": 22.496,
+        "§dEaten": 6.623,
+        "§cStun": 0.367,
+        "§4DPS": 7.71,
+        "§4Cleared": 31.304,
+        "Total": 126.729
+      },
       "KuudraT4": {},
       "KuudraT3": {},
       "KuudraT2": {},
@@ -59,13 +67,21 @@
       "DungeonE": {},
       "DungeonF1": {
         "§2Blood Open": 30.503,
-        "§bBlood Clear": 83.577,
-        "§dPortal Entry": 333.973,
-        "§1Total": 475.297
+        "§bBlood Clear": 62.202,
+        "§dPortal Entry": 4.552,
+        "§1Total": 134.461,
+        "§cBonzo\u0027s Sike": 12.489,
+        "§4Cleared": 18.502
       },
       "DungeonF2": {},
       "DungeonF3": {},
-      "DungeonF4": {},
+      "DungeonF4": {
+        "§2Blood Open": 48.962,
+        "§bBlood Clear": 67.923,
+        "§dPortal Entry": 4.269,
+        "§4Cleared": 650.885,
+        "§1Total": 821.058
+      },
       "DungeonF5": {
         "§2Blood Open": 33.547,
         "§bBlood Clear": 136.248,
@@ -85,7 +101,7 @@
       "DungeonF7": {
         "§2Blood Open": 40.142,
         "§bBlood Clear": 65.696,
-        "§dPortal Entry": 4.155,
+        "§dPortal Entry": 4.099,
         "§5Maxor": 34.755,
         "§3Storm": 79.041,
         "§6Terminals": 133.841,
@@ -1005,7 +1021,7 @@
           "extended": true
         }
       },
-      "Keybind": "key.keyboard.right.shift"
+      "Keybind": "key.keyboard.unknown"
     }
   },
   {

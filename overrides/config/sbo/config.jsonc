@@ -16,20 +16,20 @@
     },
     "Diana": {
         // Guess the burrow location. Needs Driping Lava Partciles and set /particlequality to Extreme for more accuracy
-        "dianaBurrowGuess": false,
+        "dianaBurrowGuess": true,
         /*
          * Guesses the burrow location from the arrow direction after digging a burrow 
          * §bNOTE!: This replaces the old Multi guess system!
          * §cHave Dust Particles enabled!!!
          * §aDo every burrow you see for doing diana the fastest way!
          */
-        "arrowGuess": false,
+        "arrowGuess": true,
         // Shows a title to guess normally when the arrow guess is inaccurate
         "showTitleWhenInaccurate": false,
         // If enabled, the arrow guess waypoints will not be cleared when changing worlds/lobby
-        "dontClearArrowGuess": false,
+        "dontClearArrowGuess": true,
         // Detects Diana burrows | to reset waypoints /sboclearburrows
-        "dianaBurrowDetect": false,
+        "dianaBurrowDetect": true,
         /*
          * Select the warps you want to be able to warp to with the guess and inquisitor warp keys.
          * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, Museum
@@ -58,7 +58,7 @@
          * Hovering over some lines may display additional information
          * Valid Values: OFF, TOTAL, EVENT, SESSION
          */
-        "mobTracker": "EVENT",
+        "mobTracker": "OFF",
         /*
          * Shows your Diana loot, /sboguis to move the overlay
          * §bNOTE!: You can interact with the tracker in the inventory!!!§r
@@ -66,17 +66,17 @@
          * Hovering over some lines may display additional information
          * Valid Values: OFF, TOTAL, EVENT, SESSION
          */
-        "lootTracker": "EVENT",
+        "lootTracker": "OFF",
         // Hides any loot or mob lines that have not been tracked yet (value is 0) to reduce clutter in the overlays.
         "hideUnobtainedItems": true,
         // Combines the base item and the Loot Share (LS) variant into a single line. The individual LS count is shown on hover.
-        "combineLootLines": true,
+        "combineLootLines": false,
         // Shows stats like Mobs since Inquisitor, Inquisitors since Chimera, /sboguis to move the overlay
         "statsTracker": false,
         // Shows your highest magic find for sticks and chimeras (only after you dropped it once), /sboguis to move the overlay
         "magicFindTracker": false,
         // Set if you have a Four-Eyed Fish on your griffin pet
-        "fourEyedFish": true,
+        "fourEyedFish": false,
         // Sends the chat Message with stat: [SBO] Took 120 Mobs to get a Inquis!
         "sendSinceMessage": true,
         /*
@@ -87,7 +87,7 @@
         // Announces relic/shelmet/plushie/remedies in chat
         "lootAnnouncerChat": true,
         // Announces chimera/stick/relic on screen
-        "lootAnnouncerScreen": true,
+        "lootAnnouncerScreen": false,
         // Shows chimera/stick/relic price as a subtitle on screen
         "lootAnnouncerPrice": true,
         // Announces chimera/stick/relic and Shelmet/Plushie/Remedies (only when dropped from Inquisitor) in party chat
@@ -96,7 +96,7 @@
         "chimMessageBool": false,
         // use: {mf} for MagicFind, {amount} for drop Amount this event and {percentage} for chimera/inquis ratio.
         "customChimMessage": [
-            "&6[SBO] &6&lRARE DROP! &d&lChimera! &b{mf} &b#{amount}"
+            "&6[SBO] &6&lRARE DROP! &dChimera! &b+{mf} ✯ Magic Find &b#{amount}"
         ],
         // Enables custom Manti-Core message (core/manti)
         "coreMessageBool": false,
@@ -123,11 +123,11 @@
             "&6[SBO] &6&lRARE DROP! &6Shimmering Wool! &b+{mf} ✯ Magic Find &b#{amount}"
         ],
         // Draws line for guess, Disable View Bobbing in controls if its buggy
-        "guessLine": false,
+        "guessLine": true,
         // Draws line to rare mob waypoints, Disable View Bobbing in controls if its buggy
-        "inqLine": false,
+        "inqLine": true,
         // Draws line for burrow, Disable View Bobbing in controls if its buggy
-        "burrowLine": false,
+        "burrowLine": true,
         /*
          * The width of the lines drawn for Diana waypoints
          * Range: 1 - 20
@@ -144,17 +144,18 @@
          * Removes the rare mob waypoint beam when you are within this distance of it (0 to disable)
          * Range: 0 - 20
          */
-        "removeBeam": 20,
+        "removeBeam": 8,
         // Sends the coordinates of rare mobs(King, Manti, Sphinx, Inq)to your party
-        "shareRareMob": false,
+        "shareRareMob": true,
         /*
          * Select which mobs to share
          * Valid Values: INQ, MANTICORE, KING, SPHINX
          */
         "ShareMobs": [
-            "KING",
             "INQ",
-            "MANTICORE"
+            "MANTICORE",
+            "KING",
+            "SPHINX"
         ],
         // Create a waypoint when someone in your party shares a rare mob(King, Manti, Sphinx, Inq)
         "receiveRareMob": true,
@@ -171,7 +172,7 @@
             "OTHER"
         ],
         // Highlights rare mobs(King, Manti, Sphinx, Inq) with a glowing effect
-        "HighlightRareMobs": false,
+        "HighlightRareMobs": true,
         /*
          * Color for the rare mob highlight effect
          * [Color Format: RGBA]
@@ -196,9 +197,9 @@
             ""
         ],
         // Sends a text on cocoon
-        "announceCocoon": true,
+        "announceCocoon": false,
         // Shows a title on cocoon
-        "cocoonTitle": true,
+        "cocoonTitle": false,
         /*
          * Sends a title alert when a Rare Mob is below the set HP value in Million (0 to disable)
          * Type: Double
@@ -217,7 +218,7 @@
             "SPHINX"
         ],
         // Displays HP of mythological mobs near you. /sboguis to move it
-        "mythosMobHp": false,
+        "mythosMobHp": true,
         // Helps you solve the sphinx riddle by showing you the answer choices in chat and it automatically clicks the correct one for you when you click anywehre while the chat is open.
         "sphinxSolver": true
     },
@@ -235,7 +236,7 @@
         // Sends your time in party chat (!time)
         "timeCommand": false,
         // Sends the server tps in party chat (!tps)
-        "tpsCommand": true,
+        "tpsCommand": false,
         // Enable Diana party commands (!chim, !inq, !relic, !stick, !since, !burrow, !mob) (note: you need to have Diana tracker enabled)
         "dianaPartyCommands": true
     },
@@ -283,7 +284,7 @@
         "rareMobVolume": 1.0,
         // Set the sound that plays when an Inquisitor Spawn. (enter filename)
         "inqSound": [
-            "exporb"
+            ""
         ],
         /*
          * Set the volume of the Inquisitor spawn sound
@@ -412,7 +413,7 @@
         // Auto invites players that send you a join request and meet the party requirements
         "autoInvite": true,
         // Automatically requeues the party after a member leaves
-        "autoRequeue": true,
+        "autoRequeue": false,
         /*
          * Change the size of the text
          * Range: -2 - 2

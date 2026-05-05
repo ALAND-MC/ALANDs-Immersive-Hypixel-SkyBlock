@@ -4,15 +4,15 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "exp": {
-          "FORAGING": 1.281083E8,
-          "FARMING": 6.948618E8,
+          "FORAGING": 1.3183595E8,
+          "FARMING": 7.095982E8,
           "CARPENTRY": 3.009519E8,
-          "HUNTING": 4403866.0,
+          "HUNTING": 4499767.0,
           "SOCIAL": 275324.0,
-          "COMBAT": 8.466298E8,
+          "COMBAT": 8.467789E8,
           "FISHING": 2.1831701E8,
           "ENCHANTING": 6.2313083E9,
-          "MINING": 4.0241267E8
+          "MINING": 4.026021E8
         }
       },
       "Cucumber": {

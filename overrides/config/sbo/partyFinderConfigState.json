@@ -12,13 +12,13 @@
     "custom": {
       "lvl": 0,
       "mp": 0,
-      "partySize": 6,
-      "note": "Mythic Griffin"
+      "partySize": 0,
+      "note": "..."
     },
     "diana": {
-      "kills": 5000,
-      "lvl": 1,
-      "note": "Mythic Griffin - Share Sphinx"
+      "kills": 0,
+      "lvl": 0,
+      "note": "..."
     }
   },
   "filters": {
