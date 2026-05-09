@@ -164,12 +164,12 @@
           "rarity": "LEGENDARY"
         },
         "attribute:r49": {
-          "owned": 6,
+          "owned": 8,
           "syphoned": 48,
           "rarity": "RARE"
         },
         "attribute:c7": {
-          "owned": 16,
+          "owned": 21,
           "syphoned": 96,
           "rarity": "COMMON"
         },
@@ -192,6 +192,11 @@
           "owned": 1,
           "syphoned": 24,
           "rarity": "LEGENDARY"
+        },
+        "attribute:c27": {
+          "owned": 2,
+          "syphoned": 0,
+          "rarity": "COMMON"
         }
       }
     }

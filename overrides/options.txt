@@ -62,8 +62,8 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Stay True 1.21.5.zip","file/FurfSky Reborn.cats.zip","file/Dungeon Tooltips [Small].zip","cursors_extended:default","continuity:glass_pane_culling_fix","continuity:default","file/Skyblock Dark UI 1.13 for 1.21.10+.zip","file/FreshAnimations_v1.10.4.zip","file/AL\u0027s Zombies Revamped+FA 1.4.1.zip","file/AL\u0027s Boss Rush+FA 2.0.zip","file/§c§lHaxR\u0027s Wither Lords.zip","file/NEVEREND.zip","file/AL\u0027s Enderman Revamped+FA 1.3.4.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/AL\u0027s Piglins Revamped+FA 1.2.zip","file/Creepers Reforged x FA v1.1.3.zip","file/AL\u0027s Spiders Revamped+FA 1.5.zip","file/§4Drodi\u0027s Slimes FA [V1.1].zip","file/§4Drodi\u0027s Blazes FA [V1.2].zip","file/Ghasts Galore!.zip","file/golems-refreshed-fa-v2.1.zip","file/§a§lVocal Villagers §r§71.2.zip","file/Simple Grass Flowers v1.9.6.zip","file/SaturatedGrass!(1.2v).zip","file/ShadedFont.zip","file/Animated+.zip","file/Animated Items 22.2.zip","file/animated-items 1.21.x-26.1.x - v1.6.2.zip","file/§6§lCC Click Sound §e§l1.21.11.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/Arkudii\u0027s Detailed Hypixel SB.zip","file/§eLight §6Leak §8[v1.4.0].zip","file/ReShaded [v.1.4] 1.21.11.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
-incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/Dungeon Tooltips [Small].zip","file/NEVEREND.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/Creepers Reforged x FA v1.1.3.zip","file/§4Drodi\u0027s Slimes FA [V1.1].zip","file/§4Drodi\u0027s Blazes FA [V1.2].zip","file/Ghasts Galore!.zip","file/golems-refreshed-fa-v2.1.zip","file/§a§lVocal Villagers §r§71.2.zip","file/AnimatedNature1.21+.zip","file/SaturatedGrass!(1.2v).zip","file/ShadedFont.zip","file/Animated+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/Arkudii\u0027s Detailed Hypixel SB.zip","file/ReShaded [v.1.4] 1.21.11.zip"]
+resourcePacks:["vanilla","file/Stay True 1.21.5.zip","file/FurfSky Reborn.cats.zip","file/Dungeon Tooltips [Small].zip","cursors_extended:default","continuity:glass_pane_culling_fix","continuity:default","file/Skyblock Dark UI 1.13 for 1.21.10+.zip","file/FreshAnimations_v1.10.4.zip","file/AL\u0027s Zombies Revamped+FA 1.4.1.zip","file/AL\u0027s Boss Rush+FA 2.0.zip","file/§c§lHaxR\u0027s Wither Lords.zip","file/NEVEREND.zip","file/AL\u0027s Enderman Revamped+FA 1.3.4.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/AL\u0027s Piglins Revamped+FA 1.2.zip","file/Creepers Reforged x FA v1.1.3.zip","file/AL\u0027s Spiders Revamped+FA 1.5.zip","file/§4Drodi\u0027s Slimes FA [V1.1].zip","file/§4Drodi\u0027s Blazes FA [V1.2].zip","file/Ghasts Galore!.zip","file/golems-refreshed-fa-v2.1.zip","file/§a§lVocal Villagers §r§71.2.zip","file/Simple Grass Flowers v1.9.6.zip","file/SaturatedGrass!(1.2v).zip","file/ShadedFont.zip","file/Animated+.zip","file/Animated Items 22.2.zip","file/animated-items 1.21.x-26.1.x - v1.6.2.zip","file/§6§lCC Click Sound §e§l1.21.11.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/Arkudii\u0027s Detailed Hypixel SB.zip","file/§eLight §6Leak §8[v1.4.0].zip","file/ReShaded [v.1.4] 1.21.11.zip","file/sunbathing.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
+incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/Dungeon Tooltips [Small].zip","file/NEVEREND.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/Creepers Reforged x FA v1.1.3.zip","file/§4Drodi\u0027s Slimes FA [V1.1].zip","file/§4Drodi\u0027s Blazes FA [V1.2].zip","file/Ghasts Galore!.zip","file/golems-refreshed-fa-v2.1.zip","file/§a§lVocal Villagers §r§71.2.zip","file/SaturatedGrass!(1.2v).zip","file/ShadedFont.zip","file/Animated+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/Arkudii\u0027s Detailed Hypixel SB.zip","file/ReShaded [v.1.4] 1.21.11.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -243,17 +243,17 @@ key_key.sbo-kotlin.send_coords:key.keyboard.unknown
 key_key.scaleme.sword_block:key.mouse.right
 key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown
 key_key.skyblocker.itemPriceLookup:key.keyboard.g
-key_key.skyblocker.itemProtection:key.keyboard.unknown
+key_key.skyblocker.itemProtection:key.keyboard.l
 key_key.skyblocker.valueBreadownPopup:key.keyboard.unknown
 key_key.skyblocker.slottext:key.keyboard.unknown
 key_key.skyblocker.wikiLookup.official:key.keyboard.unknown
 key_key.skyblocker.wikiLookup.independent:key.keyboard.unknown
 key_key.skyblocker.toggleA:key.keyboard.unknown
 key_key.skyblocker.defaultTgl:key.keyboard.unknown
-key_skyocean.keybind.crafthelper:key.keyboard.v
-key_skyocean.keybind.item_value:key.keyboard.j
-key_skyocean.keybind.item_highlight:key.keyboard.unknown
 key_skyocean.keybind.item_search:key.keyboard.o
+key_skyocean.keybind.item_highlight:key.keyboard.unknown
+key_skyocean.keybind.item_value:key.keyboard.j
+key_skyocean.keybind.crafthelper:key.keyboard.v
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 soundCategory_master:0.5022075055187638

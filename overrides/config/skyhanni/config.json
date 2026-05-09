@@ -8392,14 +8392,14 @@
             "skillData": {
               "COMBAT": {
                 "level": 60,
-                "totalXp": 846778884,
-                "currentXp": 735106459,
+                "totalXp": 846782685,
+                "currentXp": 735110260,
                 "currentXpMax": 0,
                 "overflowLevel": 91,
-                "overflowCurrentXp": 28506459,
-                "overflowTotalXp": 735106459,
+                "overflowCurrentXp": 28510260,
+                "overflowTotalXp": 735110260,
                 "overflowCurrentXpMax": 54400000,
-                "lastGain": "108.2",
+                "lastGain": "125.6",
                 "customGoalLevel": 0
               },
               "FARMING": {
@@ -8440,14 +8440,14 @@
               },
               "FORAGING": {
                 "level": 54,
-                "totalXp": 131835953,
-                "currentXp": 57663528,
+                "totalXp": 132122496,
+                "currentXp": 57950071,
                 "currentXpMax": 0,
                 "overflowLevel": 62,
-                "overflowCurrentXp": 5563528,
-                "overflowTotalXp": 57663528,
+                "overflowCurrentXp": 5850071,
+                "overflowTotalXp": 57950071,
                 "overflowCurrentXpMax": 8800000,
-                "lastGain": "377.9",
+                "lastGain": "701.2",
                 "customGoalLevel": 0
               },
               "ENCHANTING": {
@@ -8500,18 +8500,18 @@
               },
               "HUNTING": {
                 "level": 25,
-                "totalXp": 4503949,
-                "currentXp": 1481524,
+                "totalXp": 4515106,
+                "currentXp": 1492681,
                 "currentXpMax": 0,
                 "overflowLevel": 26,
-                "overflowCurrentXp": 581524,
-                "overflowTotalXp": 1481524,
+                "overflowCurrentXp": 592681,
+                "overflowTotalXp": 1492681,
                 "overflowCurrentXpMax": 1000000,
-                "lastGain": "204",
+                "lastGain": "605.2",
                 "customGoalLevel": 0
               }
             },
-            "totalSkyBlockXP": 54849,
+            "totalSkyBlockXP": 54910,
             "crimsonIsleFaction": "MAGE",
             "ghostStorage": {
               "ghostTracker": {
@@ -9634,26 +9634,26 @@
             "chocolateFactory": {
               "currentRabbits": 512,
               "maxRabbits": 512,
-              "currentChocolate": 21943646801,
+              "currentChocolate": 42463003348,
               "maxChocolate": 60000000000,
-              "chocolateThisPrestige": 3201789182095,
-              "chocolateAllTime": 3248233535807,
+              "chocolateThisPrestige": 3222308538642,
+              "chocolateAllTime": 3268752892354,
               "rawChocPerSecond": 7741,
               "chocolateMultiplier": 7.248,
               "rawChocolateMultiplier": 5.748,
               "timeTowerLevel": 15,
-              "currentTimeTowerEnds": 1777979671164,
-              "nextTimeTower": 1777994402164,
-              "currentTimeTowerUses": 0,
+              "currentTimeTowerEnds": 1778320244416,
+              "nextTimeTower": 1778338167416,
+              "currentTimeTowerUses": 1,
               "timeTowerCooldown": 8,
               "maxTimeTowerUses": 3,
               "bestUpgradeAvailableAt": 0,
               "bestUpgradeCost": 0,
-              "lastDataSave": 1777976072164,
+              "lastDataSave": 1778317334416,
               "positionChange": {
-                "lastTime": 1777976071182,
-                "lastPosition": 74,
-                "lastLeaderboard": "#74 §7Top §a0.001%"
+                "lastTime": 1778316643945,
+                "lastPosition": 77,
+                "lastLeaderboard": "#77 §7Top §a0.001%"
               },
               "rabbitCounts": {
                 "Ellie": 17,
@@ -13721,6 +13721,34 @@
                   "dupes": 4857,
                   "strays": 20
                 }
+              },
+              "489": {
+                "mealsFound": {},
+                "rabbitsFound": {},
+                "dupeChocolateGained": 0,
+                "strayChocolateGained": 0,
+                "rabbitTheFishFinds": 0,
+                "millisInCf": 0,
+                "initialLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "finalLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "lastLbUpdate": 0,
+                "summarized": true,
+                "typeCountSnapshot": {
+                  "uniques": 454,
+                  "dupes": 4857,
+                  "strays": 20
+                },
+                "typeCountsSince": {
+                  "uniques": 0,
+                  "dupes": 0,
+                  "strays": 0
+                }
               }
             },
             "hoppityStatLiveDisplayToggledOff": false,
@@ -15899,6 +15927,40 @@
                           "0"
                         ]
                       ]
+                    },
+                    "2026-05-09": {
+                      "blocksBroken": 0,
+                      "migrated": false,
+                      "sessionUptime": [
+                        [
+                          {
+                            "type": "garden",
+                            "session": "PEST"
+                          },
+                          "0"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "VISITOR"
+                          },
+                          "0"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "CROP"
+                          },
+                          "0"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "UNKNOWN"
+                          },
+                          "0"
+                        ]
+                      ]
                     }
                   },
                   "WEEK": {
@@ -17121,11 +17183,11 @@
               },
               "trackerData": {
                 "treesCut": {
-                  "FIG": 2918,
+                  "FIG": 2921,
                   "MANGROVE": 3409
                 },
                 "wholeTreesCut": {
-                  "FIG": 2784.344000000002,
+                  "FIG": 2787.344000000002,
                   "MANGROVE": 3288.019000000001
                 },
                 "hotfExperience": {
@@ -17133,18 +17195,18 @@
                   "MANGROVE": 107550
                 },
                 "foragingExperience": {
-                  "FIG": 9584000,
+                  "FIG": 9594000,
                   "MANGROVE": 17131250
                 },
                 "forestWhispers": {
-                  "FIG": 227780,
+                  "FIG": 228140,
                   "MANGROVE": 332700
                 },
                 "bucketedItems": {
                   "FIG": {
                     "ESSENCE_FOREST": {
-                      "timesGained": 1758,
-                      "totalAmount": 11972,
+                      "timesGained": 1761,
+                      "totalAmount": 11990,
                       "hidden": false
                     },
                     "ULTIMATE_FIRST_IMPRESSION;1": {
@@ -17153,8 +17215,8 @@
                       "hidden": false
                     },
                     "STRETCHING_STICKS": {
-                      "timesGained": 40,
-                      "totalAmount": 40,
+                      "timesGained": 41,
+                      "totalAmount": 41,
                       "hidden": false
                     },
                     "SWEEP_BOOSTER": {
@@ -17183,8 +17245,8 @@
                       "hidden": false
                     },
                     "SIGNAL_ENHANCER": {
-                      "timesGained": 20,
-                      "totalAmount": 20,
+                      "timesGained": 21,
+                      "totalAmount": 21,
                       "hidden": false
                     },
                     "ATTRIBUTE_SHARD_CHOP;1": {
@@ -17193,8 +17255,8 @@
                       "hidden": false
                     },
                     "TENDER_WOOD": {
-                      "timesGained": 265,
-                      "totalAmount": 971,
+                      "timesGained": 268,
+                      "totalAmount": 980,
                       "hidden": false
                     }
                   },
@@ -17269,7 +17331,7 @@
                       "type": "normal",
                       "session": "NORMAL"
                     },
-                    "451870"
+                    "472556"
                   ]
                 ]
               }
@@ -17593,8 +17655,8 @@
                   "total": 24816096
                 },
                 "GEMSTONE": {
-                  "available": 20937190,
-                  "total": 46566882
+                  "available": 20939405,
+                  "total": 46569097
                 },
                 "GLACITE": {
                   "available": 4569971,
@@ -18306,12 +18368,12 @@
                 "itemGoal": "?"
               }
             },
-            "currentPetUuid": "c2911091-0dac-41fa-8876-b676c669b039",
+            "currentPetUuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7",
             "stats": {
-              "health": 5497.0,
-              "defense": 628.32,
-              "strength": 1175.58,
-              "intelligence": 1168.02,
+              "health": 6371.25,
+              "defense": 601.38,
+              "strength": 1589.78,
+              "intelligence": 1460.03,
               "magic_find": 167.0,
               "pet_luck": 107.0,
               "fishing_speed": 76.5,
@@ -18319,10 +18381,10 @@
               "treasure_chance": 5.2,
               "heat_resistance": 31.0,
               "ferocity": 52.0,
-              "mining_speed": 3415.0,
+              "mining_speed": 3465.0,
               "mining_spread": 300.0,
               "pristine": 2.0,
-              "mining_fortune": 558.0,
+              "mining_fortune": 598.0,
               "foraging_fortune": 1336.0,
               "farming_fortune": 1470.0,
               "health_regen": 309.5,
@@ -18396,9 +18458,9 @@
               }
             },
             "bits": {
-              "bits": 1530121,
+              "bits": 1528171,
               "bitsAvailable": 0,
-              "boosterCookieExpiryTime": 1791418394672,
+              "boosterCookieExpiryTime": 1791418391630,
               "museumMilestone": 34
             },
             "godPotExpiry": 1777832096126,
@@ -18498,7 +18560,7 @@
               },
               "SHARD_PHANFLARE": {
                 "amountSyphoned": 96,
-                "amountInBox": 88,
+                "amountInBox": 93,
                 "enabled": true
               },
               "SHARD_NIGHT_SQUID": {
@@ -18563,7 +18625,7 @@
               },
               "SHARD_GOLDEN_GHOUL": {
                 "amountSyphoned": 96,
-                "amountInBox": 6,
+                "amountInBox": 8,
                 "enabled": true
               },
               "SHARD_BEZAL": {
@@ -18978,7 +19040,7 @@
               },
               "SHARD_DREADWING": {
                 "amountSyphoned": 48,
-                "amountInBox": 12,
+                "amountInBox": 14,
                 "enabled": true
               },
               "SHARD_JOYDIVE": {
@@ -19355,8 +19417,8 @@
             "hunting": {
               "trackedAttributeShards": {},
               "huntingProfitTracker": {
-                "totalMobsCaught": 834,
-                "totalShardsGained": 1848,
+                "totalMobsCaught": 838,
+                "totalShardsGained": 1857,
                 "items": {
                   "ATTRIBUTE_SHARD_FOREST_FISHING;1": {
                     "timesGained": 1,
@@ -19464,8 +19526,8 @@
                     "hidden": false
                   },
                   "ATTRIBUTE_SHARD_MOONGLADE_MASTERY;1": {
-                    "timesGained": 34,
-                    "totalAmount": 72,
+                    "timesGained": 36,
+                    "totalAmount": 77,
                     "hidden": false
                   },
                   "ATTRIBUTE_SHARD_MOSSY_BOX;1": {
@@ -19484,8 +19546,8 @@
                     "hidden": false
                   },
                   "ATTRIBUTE_SHARD_FOREST_ESSENCE;1": {
-                    "timesGained": 3,
-                    "totalAmount": 6,
+                    "timesGained": 4,
+                    "totalAmount": 8,
                     "hidden": false
                   },
                   "ATTRIBUTE_SHARD_ARACHNO_RESISTANCE;1": {
@@ -19499,8 +19561,8 @@
                     "hidden": false
                   },
                   "ATTRIBUTE_SHARD_MIDAS_TOUCH;1": {
-                    "timesGained": 2,
-                    "totalAmount": 5,
+                    "timesGained": 3,
+                    "totalAmount": 7,
                     "hidden": false
                   },
                   "ATTRIBUTE_SHARD_BLAZING_RESISTANCE;1": {
@@ -19576,7 +19638,7 @@
                       "type": "normal",
                       "session": "NORMAL"
                     },
-                    "711374"
+                    "725751"
                   ]
                 ]
               }

@@ -244,7 +244,8 @@
       "drksc_s_particles:shimmer_torch": true,
       "drksc_s_particles:portal_glow": true,
       "drksc_s_particles:warm_glow": true,
-      "drksc_s_particles:small_warm_glow_cut": true
+      "drksc_s_particles:small_warm_glow_cut": true,
+      "drksc_s_particles:small_shimmer": true
     }
   },
   "detail_settings": {

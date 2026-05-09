@@ -1051,6 +1051,10 @@
           60,
           300
         ]
+      },
+      "Harvest Feast Begins": {
+        "enabled": true,
+        "reminderTimes": []
       }
     }
   },
