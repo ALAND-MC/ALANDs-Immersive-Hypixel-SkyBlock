@@ -1247,9 +1247,10 @@
       },
       "zorroCapeProtection": false
     },
-    "armorDropTracker": {
+    "rareCropTracker": {
       "enabled": false,
       "hideChat": false,
+      "maxDisplayLines": 5,
       "perTrackerConfig": {
         "trackerConfig": {
           "defaultDisplayMode": "REMEMBER_LAST",
@@ -5733,6 +5734,7 @@
       "hideAlphaAchievements": false,
       "parkour": false,
       "teleportPads": true,
+      "masterChef": false,
       "others": false
     },
     "playerMessage": {
@@ -8404,14 +8406,14 @@
               },
               "FARMING": {
                 "level": 60,
-                "totalXp": 709598236,
-                "currentXp": 597925811,
+                "totalXp": 723727734,
+                "currentXp": 612055309,
                 "currentXpMax": 0,
-                "overflowLevel": 88,
-                "overflowCurrentXp": 32925811,
-                "overflowTotalXp": 597925811,
-                "overflowCurrentXpMax": 44800000,
-                "lastGain": "2,835",
+                "overflowLevel": 89,
+                "overflowCurrentXp": 2255309,
+                "overflowTotalXp": 612055309,
+                "overflowCurrentXpMax": 47200000,
+                "lastGain": "2,820",
                 "customGoalLevel": 0
               },
               "FISHING": {
@@ -8476,14 +8478,14 @@
               },
               "CARPENTRY": {
                 "level": 50,
-                "totalXp": 346762182,
-                "currentXp": 291589757,
+                "totalXp": 368242193,
+                "currentXp": 313069768,
                 "currentXpMax": 0,
-                "overflowLevel": 77,
-                "overflowCurrentXp": 11689757,
-                "overflowTotalXp": 291589757,
-                "overflowCurrentXpMax": 22000000,
-                "lastGain": "206,023.7",
+                "overflowLevel": 78,
+                "overflowCurrentXp": 11169768,
+                "overflowTotalXp": 313069768,
+                "overflowCurrentXpMax": 23200000,
+                "lastGain": "58,171.4",
                 "customGoalLevel": 0
               },
               "TAMING": {
@@ -9642,9 +9644,9 @@
               "chocolateMultiplier": 7.248,
               "rawChocolateMultiplier": 5.748,
               "timeTowerLevel": 15,
-              "currentTimeTowerEnds": 1778320244416,
+              "currentTimeTowerEnds": 0,
               "nextTimeTower": 1778338167416,
-              "currentTimeTowerUses": 1,
+              "currentTimeTowerUses": 3,
               "timeTowerCooldown": 8,
               "maxTimeTowerUses": 3,
               "bestUpgradeAvailableAt": 0,
@@ -13749,6 +13751,34 @@
                   "dupes": 0,
                   "strays": 0
                 }
+              },
+              "490": {
+                "mealsFound": {},
+                "rabbitsFound": {},
+                "dupeChocolateGained": 0,
+                "strayChocolateGained": 0,
+                "rabbitTheFishFinds": 0,
+                "millisInCf": 0,
+                "initialLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "finalLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "lastLbUpdate": 0,
+                "summarized": true,
+                "typeCountSnapshot": {
+                  "uniques": 454,
+                  "dupes": 4857,
+                  "strays": 20
+                },
+                "typeCountsSince": {
+                  "uniques": 0,
+                  "dupes": 0,
+                  "strays": 0
+                }
               }
             },
             "hoppityStatLiveDisplayToggledOff": false,
@@ -13958,23 +13988,23 @@
               }
             },
             "garden": {
-              "experience": 369224,
+              "experience": 369884,
               "lastMilestoneFix": 1777798990207,
-              "lastGainedCrop": "WHEAT",
+              "lastGainedCrop": "COCOA_BEANS",
               "lastGainedCropCollectionTime": 0,
               "cropCollectionCounter": {
                 "WHEAT": {
                   "cropCollectionType": {
-                    "UNKNOWN": 84293859,
-                    "PEST_BASE": 3543360,
+                    "UNKNOWN": 84591217,
+                    "PEST_BASE": 3553920,
                     "PEST_RNG": 460800,
                     "BREAKING_CROPS": 531982
                   }
                 },
                 "CARROT": {
                   "cropCollectionType": {
-                    "PEST_BASE": 15622400,
-                    "UNKNOWN": 51517357,
+                    "PEST_BASE": 15668960,
+                    "UNKNOWN": 56731148,
                     "BREAKING_CROPS": 11602228,
                     "PEST_RNG": 2560000,
                     "CROP_FEVER": 56640
@@ -13982,15 +14012,15 @@
                 },
                 "POTATO": {
                   "cropCollectionType": {
-                    "PEST_BASE": 19502560,
-                    "UNKNOWN": 86440148,
+                    "PEST_BASE": 19525600,
+                    "UNKNOWN": 88770388,
                     "BREAKING_CROPS": 18527452,
                     "PEST_RNG": 3584000
                   }
                 },
                 "NETHER_WART": {
                   "cropCollectionType": {
-                    "UNKNOWN": 339279615,
+                    "UNKNOWN": 404673988,
                     "PEST_BASE": 13164320,
                     "BREAKING_CROPS": 67016998,
                     "PEST_RNG": 1843200,
@@ -14000,7 +14030,7 @@
                 "PUMPKIN": {
                   "cropCollectionType": {
                     "PEST_BASE": 8010400,
-                    "UNKNOWN": 42636976,
+                    "UNKNOWN": 47219258,
                     "PEST_RNG": 1459200,
                     "BREAKING_CROPS": 4175735,
                     "CROP_FEVER": 175040
@@ -14009,23 +14039,23 @@
                 "MELON": {
                   "cropCollectionType": {
                     "BREAKING_CROPS": 45832,
-                    "PEST_BASE": 12185600,
-                    "UNKNOWN": 514680441,
+                    "PEST_BASE": 12220320,
+                    "UNKNOWN": 518607161,
                     "PEST_RNG": 768000
                   }
                 },
                 "COCOA_BEANS": {
                   "cropCollectionType": {
-                    "UNKNOWN": 81588936,
-                    "PEST_BASE": 9841440,
+                    "UNKNOWN": 103323072,
+                    "PEST_BASE": 9944480,
                     "PEST_RNG": 1843200,
                     "BREAKING_CROPS": 576936
                   }
                 },
                 "SUGAR_CANE": {
                   "cropCollectionType": {
-                    "UNKNOWN": 149236508,
-                    "PEST_BASE": 4734880,
+                    "UNKNOWN": 150898128,
+                    "PEST_BASE": 4755680,
                     "BREAKING_CROPS": 303738,
                     "PEST_RNG": 460800,
                     "CROP_FEVER": 69760
@@ -14033,7 +14063,7 @@
                 },
                 "CACTUS": {
                   "cropCollectionType": {
-                    "UNKNOWN": 60096349,
+                    "UNKNOWN": 62072586,
                     "PEST_BASE": 15894880,
                     "PEST_RNG": 2611200,
                     "BREAKING_CROPS": 632
@@ -14042,8 +14072,8 @@
                 "MUSHROOM": {
                   "cropCollectionType": {
                     "MOOSHROOM_COW": 6286,
-                    "PEST_BASE": 4085280,
-                    "UNKNOWN": 28611744,
+                    "PEST_BASE": 4092160,
+                    "UNKNOWN": 30235264,
                     "PEST_RNG": 537600,
                     "BREAKING_CROPS": 1009734,
                     "CROP_FEVER": 5760
@@ -14052,7 +14082,7 @@
                 "SUNFLOWER": {
                   "cropCollectionType": {
                     "PEST_BASE": 6466720,
-                    "UNKNOWN": 13501734,
+                    "UNKNOWN": 23121772,
                     "BREAKING_CROPS": 1236943,
                     "PEST_RNG": 1228800,
                     "CROP_FEVER": 180480
@@ -14060,7 +14090,7 @@
                 },
                 "MOONFLOWER": {
                   "cropCollectionType": {
-                    "UNKNOWN": 12953490,
+                    "UNKNOWN": 24116798,
                     "PEST_BASE": 8078560,
                     "PEST_RNG": 1536000,
                     "BREAKING_CROPS": 9438964,
@@ -14070,22 +14100,22 @@
                 "WILD_ROSE": {
                   "cropCollectionType": {
                     "PEST_BASE": 13203840,
-                    "UNKNOWN": 24185707,
+                    "UNKNOWN": 25915627,
                     "BREAKING_CROPS": 2441805,
                     "PEST_RNG": 2764800
                   }
                 }
               },
               "cropMilestoneCounter": {
-                "WHEAT": 80073169,
-                "CARROT": 73426389,
-                "POTATO": 72507591,
+                "WHEAT": 80083729,
+                "CARROT": 73472949,
+                "POTATO": 72530631,
                 "PUMPKIN": 51827839,
-                "SUGAR_CANE": 152417904,
-                "MELON": 117860967,
+                "SUGAR_CANE": 152438704,
+                "MELON": 117895687,
                 "CACTUS": 76580990,
-                "COCOA_BEANS": 86956042,
-                "MUSHROOM": 31475765,
+                "COCOA_BEANS": 87059082,
+                "MUSHROOM": 31482645,
                 "NETHER_WART": 270213798,
                 "MOONFLOWER": 32193084,
                 "SUNFLOWER": 22246572,
@@ -14096,7 +14126,7 @@
                 "4977fe21-d8f7-447a-bb91-f45134ae8842": 8660189,
                 "216e4b00-812f-47db-82f2-88dd566f1b6e": 322626302,
                 "22c58266-7bfe-4d36-ad6b-d8178a28aded": 162459621,
-                "1079a74a-6ee0-459d-a4b9-9b86e322a5b9": 219449269,
+                "1079a74a-6ee0-459d-a4b9-9b86e322a5b9": 226374418,
                 "ca7044c4-fc9b-4df1-941e-998151bbdb23": 6261038,
                 "be0bedbe-6d6d-45c2-8719-ad7e96465122": 6070625,
                 "d15e5625-6faa-4227-9177-3d986f37dda3": 53364562,
@@ -14171,12 +14201,13 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 286000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {
                   "CROPIE": 475,
                   "SQUASH": 373,
                   "FERMENTO": 282,
-                  "HELIANTHUS": 162
+                  "HELIANTHUS": 162,
+                  "DESIGNER_COFFEE_BEANS": 5
                 },
                 "migrated": false,
                 "sessionUptime": [
@@ -14185,14 +14216,14 @@
                       "type": "garden",
                       "session": "PEST"
                     },
-                    "14778114"
+                    "14898162"
                   ],
                   [
                     {
                       "type": "garden",
                       "session": "VISITOR"
                     },
-                    "9508708"
+                    "9515541"
                   ],
                   [
                     {
@@ -14225,7 +14256,7 @@
               "uniqueVisitors": 128,
               "visitorDrops": {
                 "acceptedVisitors": 286,
-                "deniedVisitors": 3352,
+                "deniedVisitors": 3356,
                 "acceptedRarities": {
                   "UNCOMMON": 140,
                   "RARE": 36,
@@ -14317,7 +14348,7 @@
                 "15": {
                   "id": 15,
                   "name": "15",
-                  "pests": 1,
+                  "pests": 0,
                   "sprayHasNotified": false,
                   "isBeingPasted": false,
                   "isPestCountInaccurate": false,
@@ -14535,7 +14566,7 @@
                   "greenhouse": false
                 }
               },
-              "scoreboardPests": 1,
+              "scoreboardPests": 0,
               "cropStartLocations": {},
               "cropLastFarmedLocations": {},
               "farmingLanes": {},
@@ -14561,7 +14592,7 @@
                       "crop": "POTATO",
                       "mode": "MONTHLY"
                     },
-                    4.1638492E7
+                    4.1661532E7
                   ],
                   [
                     {
@@ -14569,7 +14600,7 @@
                       "pest": "LOCUST",
                       "mode": "ALL_TIME"
                     },
-                    505.0
+                    506.0
                   ],
                   [
                     {
@@ -14577,21 +14608,21 @@
                       "pest": "LOCUST",
                       "mode": "MONTHLY"
                     },
-                    505.0
+                    506.0
                   ],
                   [
                     {
                       "type": "pest",
                       "mode": "MONTHLY"
                     },
-                    5780.0
+                    5792.0
                   ],
                   [
                     {
                       "type": "pest",
                       "mode": "ALL_TIME"
                     },
-                    5780.0
+                    5792.0
                   ],
                   [
                     {
@@ -14623,7 +14654,7 @@
                       "crop": "MELON",
                       "mode": "MONTHLY"
                     },
-                    1.3045352E7
+                    1.3080072E7
                   ],
                   [
                     {
@@ -14631,7 +14662,7 @@
                       "pest": "EARTHWORM",
                       "mode": "ALL_TIME"
                     },
-                    197.0
+                    198.0
                   ],
                   [
                     {
@@ -14639,7 +14670,7 @@
                       "pest": "EARTHWORM",
                       "mode": "MONTHLY"
                     },
-                    197.0
+                    198.0
                   ],
                   [
                     {
@@ -14647,7 +14678,7 @@
                       "crop": "MUSHROOM",
                       "mode": "MONTHLY"
                     },
-                    5656660.0
+                    5663540.0
                   ],
                   [
                     {
@@ -14655,7 +14686,7 @@
                       "pest": "SLUG",
                       "mode": "ALL_TIME"
                     },
-                    271.0
+                    272.0
                   ],
                   [
                     {
@@ -14663,7 +14694,7 @@
                       "pest": "SLUG",
                       "mode": "MONTHLY"
                     },
-                    271.0
+                    272.0
                   ],
                   [
                     {
@@ -14719,7 +14750,7 @@
                       "crop": "CARROT",
                       "mode": "MONTHLY"
                     },
-                    2.9881588E7
+                    2.9928148E7
                   ],
                   [
                     {
@@ -14727,7 +14758,7 @@
                       "pest": "CRICKET",
                       "mode": "ALL_TIME"
                     },
-                    413.0
+                    415.0
                   ],
                   [
                     {
@@ -14735,7 +14766,7 @@
                       "pest": "CRICKET",
                       "mode": "MONTHLY"
                     },
-                    413.0
+                    415.0
                   ],
                   [
                     {
@@ -14743,7 +14774,7 @@
                       "pest": "FIELD_MOUSE",
                       "mode": "ALL_TIME"
                     },
-                    373.0
+                    375.0
                   ],
                   [
                     {
@@ -14751,7 +14782,7 @@
                       "pest": "FIELD_MOUSE",
                       "mode": "MONTHLY"
                     },
-                    373.0
+                    375.0
                   ],
                   [
                     {
@@ -14783,7 +14814,7 @@
                       "crop": "SUGAR_CANE",
                       "mode": "MONTHLY"
                     },
-                    5588378.0
+                    5609178.0
                   ],
                   [
                     {
@@ -14855,7 +14886,7 @@
                       "crop": "COCOA_BEANS",
                       "mode": "MONTHLY"
                     },
-                    1.2298856E7
+                    1.2401896E7
                   ],
                   [
                     {
@@ -14863,7 +14894,7 @@
                       "pest": "MOTH",
                       "mode": "ALL_TIME"
                     },
-                    287.0
+                    292.0
                   ],
                   [
                     {
@@ -14871,7 +14902,7 @@
                       "pest": "MOTH",
                       "mode": "MONTHLY"
                     },
-                    287.0
+                    292.0
                   ],
                   [
                     {
@@ -14879,7 +14910,7 @@
                       "crop": "WHEAT",
                       "mode": "MONTHLY"
                     },
-                    4546062.0
+                    4556622.0
                   ],
                   [
                     {
@@ -14918,17 +14949,17 @@
               "pestProfitTracker": {
                 "totalPestsKills": 0,
                 "pestKills": {
-                  "LOCUST": 620,
-                  "FIELD_MOUSE": 671,
+                  "LOCUST": 621,
+                  "FIELD_MOUSE": 673,
                   "RAT": 1195,
-                  "SLUG": 383,
+                  "SLUG": 384,
                   "FLY": 401,
                   "MOSQUITO": 249,
                   "BEETLE": 538,
                   "MITE": 1201,
-                  "MOTH": 414,
-                  "CRICKET": 520,
-                  "EARTHWORM": 278,
+                  "MOTH": 419,
+                  "CRICKET": 522,
+                  "EARTHWORM": 279,
                   "PRAYING_MANTIS": 806,
                   "FIREFLY": 599,
                   "DRAGONFLY": 566
@@ -14937,8 +14968,8 @@
                 "bucketedItems": {
                   "LOCUST": {
                     "ENCHANTED_POTATO": {
-                      "timesGained": 606,
-                      "totalAmount": 130695,
+                      "timesGained": 607,
+                      "totalAmount": 130839,
                       "hidden": false
                     },
                     "VINYL_CICADA_SYMPHONY": {
@@ -14974,18 +15005,18 @@
                   },
                   "FIELD_MOUSE": {
                     "COMPOST": {
-                      "timesGained": 452,
-                      "totalAmount": 452,
+                      "timesGained": 454,
+                      "totalAmount": 456,
                       "hidden": false
                     },
                     "HONEY_JAR": {
-                      "timesGained": 675,
-                      "totalAmount": 675,
+                      "timesGained": 677,
+                      "totalAmount": 680,
                       "hidden": false
                     },
                     "DUNG": {
-                      "timesGained": 452,
-                      "totalAmount": 452,
+                      "timesGained": 454,
+                      "totalAmount": 457,
                       "hidden": false
                     },
                     "ENCHANTED_NETHER_STALK": {
@@ -14994,13 +15025,13 @@
                       "hidden": false
                     },
                     "CHEESE_FUEL": {
-                      "timesGained": 675,
-                      "totalAmount": 675,
+                      "timesGained": 677,
+                      "totalAmount": 680,
                       "hidden": false
                     },
                     "PLANT_MATTER": {
-                      "timesGained": 675,
-                      "totalAmount": 675,
+                      "timesGained": 677,
+                      "totalAmount": 680,
                       "hidden": false
                     },
                     "SQUEAKY_TOY": {
@@ -15034,13 +15065,13 @@
                       "hidden": false
                     },
                     "ENCHANTED_SUGAR": {
-                      "timesGained": 73,
-                      "totalAmount": 13796,
+                      "timesGained": 74,
+                      "totalAmount": 13926,
                       "hidden": false
                     },
                     "ENCHANTED_WHEAT": {
-                      "timesGained": 62,
-                      "totalAmount": 5798,
+                      "timesGained": 63,
+                      "totalAmount": 5864,
                       "hidden": false
                     },
                     "ENCHANTED_MELON": {
@@ -15054,8 +15085,8 @@
                       "hidden": false
                     },
                     "JELLY": {
-                      "timesGained": 649,
-                      "totalAmount": 649,
+                      "timesGained": 651,
+                      "totalAmount": 655,
                       "hidden": false
                     },
                     "OVERCLOCKER_3000": {
@@ -15128,8 +15159,8 @@
                       "hidden": false
                     },
                     "ENCHANTED_RED_MUSHROOM": {
-                      "timesGained": 143,
-                      "totalAmount": 9415,
+                      "timesGained": 144,
+                      "totalAmount": 9458,
                       "hidden": false
                     },
                     "ENCHANTED_BROWN_MUSHROOM": {
@@ -15318,8 +15349,8 @@
                   },
                   "MOTH": {
                     "ENCHANTED_COCOA": {
-                      "timesGained": 412,
-                      "totalAmount": 77035,
+                      "timesGained": 417,
+                      "totalAmount": 77679,
                       "hidden": false
                     },
                     "ENCHANTED_COOKIE": {
@@ -15355,8 +15386,8 @@
                   },
                   "CRICKET": {
                     "ENCHANTED_CARROT": {
-                      "timesGained": 519,
-                      "totalAmount": 108687,
+                      "timesGained": 521,
+                      "totalAmount": 108978,
                       "hidden": false
                     },
                     "SKYBLOCK_COIN": {
@@ -15397,8 +15428,8 @@
                       "hidden": false
                     },
                     "ENCHANTED_MELON": {
-                      "timesGained": 276,
-                      "totalAmount": 86414,
+                      "timesGained": 277,
+                      "totalAmount": 86631,
                       "hidden": false
                     },
                     "VINYL_EARTHWORM_ENSEMBLE": {
@@ -15554,14 +15585,14 @@
                       "type": "garden",
                       "session": "PEST"
                     },
-                    "9148724"
+                    "9159838"
                   ],
                   [
                     {
                       "type": "garden",
                       "session": "VISITOR"
                     },
-                    "13813926"
+                    "13929693"
                   ],
                   [
                     {
@@ -15579,7 +15610,7 @@
                   ]
                 ]
               },
-              "activeVinyl": "IMAGINE_DRAGONFLIES",
+              "activeVinyl": "SLOW_AND_GROOVY",
               "gardenBpsTracker": {
                 "currentDisplays": {},
                 "sessions": {
@@ -15593,14 +15624,14 @@
                             "type": "garden",
                             "session": "PEST"
                           },
-                          "14600233"
+                          "14720282"
                         ],
                         [
                           {
                             "type": "garden",
                             "session": "VISITOR"
                           },
-                          "9501622"
+                          "9508454"
                         ],
                         [
                           {
@@ -15629,14 +15660,14 @@
                             "type": "garden",
                             "session": "PEST"
                           },
-                          "14600234"
+                          "14720283"
                         ],
                         [
                           {
                             "type": "garden",
                             "session": "VISITOR"
                           },
-                          "9501624"
+                          "9508456"
                         ],
                         [
                           {
@@ -15656,40 +15687,6 @@
                     }
                   },
                   "DAY": {
-                    "2026-04-28": {
-                      "blocksBroken": 15443,
-                      "migrated": false,
-                      "sessionUptime": [
-                        [
-                          {
-                            "type": "garden",
-                            "session": "PEST"
-                          },
-                          "1170453"
-                        ],
-                        [
-                          {
-                            "type": "garden",
-                            "session": "VISITOR"
-                          },
-                          "313225"
-                        ],
-                        [
-                          {
-                            "type": "garden",
-                            "session": "CROP"
-                          },
-                          "1812748"
-                        ],
-                        [
-                          {
-                            "type": "garden",
-                            "session": "UNKNOWN"
-                          },
-                          "0"
-                        ]
-                      ]
-                    },
                     "2026-04-29": {
                       "blocksBroken": 66268,
                       "migrated": false,
@@ -15961,6 +15958,40 @@
                           "0"
                         ]
                       ]
+                    },
+                    "2026-05-15": {
+                      "blocksBroken": 0,
+                      "migrated": false,
+                      "sessionUptime": [
+                        [
+                          {
+                            "type": "garden",
+                            "session": "PEST"
+                          },
+                          "120049"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "VISITOR"
+                          },
+                          "6832"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "CROP"
+                          },
+                          "0"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "UNKNOWN"
+                          },
+                          "0"
+                        ]
+                      ]
                     }
                   },
                   "WEEK": {
@@ -16133,6 +16164,40 @@
                           "0"
                         ]
                       ]
+                    },
+                    "2026-20": {
+                      "blocksBroken": 0,
+                      "migrated": false,
+                      "sessionUptime": [
+                        [
+                          {
+                            "type": "garden",
+                            "session": "PEST"
+                          },
+                          "120049"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "VISITOR"
+                          },
+                          "6832"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "CROP"
+                          },
+                          "0"
+                        ],
+                        [
+                          {
+                            "type": "garden",
+                            "session": "UNKNOWN"
+                          },
+                          "0"
+                        ]
+                      ]
                     }
                   },
                   "MONTH": {
@@ -16213,14 +16278,14 @@
                             "type": "garden",
                             "session": "PEST"
                           },
-                          "2776695"
+                          "2896744"
                         ],
                         [
                           {
                             "type": "garden",
                             "session": "VISITOR"
                           },
-                          "1754124"
+                          "1760956"
                         ],
                         [
                           {
@@ -16249,14 +16314,14 @@
                             "type": "garden",
                             "session": "PEST"
                           },
-                          "14600230"
+                          "14720279"
                         ],
                         [
                           {
                             "type": "garden",
                             "session": "VISITOR"
                           },
-                          "9501630"
+                          "9508462"
                         ],
                         [
                           {
@@ -16486,14 +16551,14 @@
                       "type": "garden",
                       "session": "PEST"
                     },
-                    "14595733"
+                    "14715782"
                   ],
                   [
                     {
                       "type": "garden",
                       "session": "VISITOR"
                     },
-                    "9501351"
+                    "9508184"
                   ],
                   [
                     {
@@ -17013,10 +17078,10 @@
             },
             "equipment": {
               "slots": [
-                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIE5lY2tsYWNlIiwibmJ0dGFnIjp7IkhpZGVGbGFncyI6MjU0LCJVbmJyZWFrYWJsZSI6IjBiIiwiU2t1bGxPd25lciI6eyJJZCI6ImJiZWQyMDdhLWIwZTktMzIxNy1hMGEyLWE5ZmU1NDliN2M1OSIsIlByb3BlcnRpZXMiOnsidGV4dHVyZXMiOlt7IlZhbHVlIjoiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRjMk1UWTVOVEF4T1RFMk1Td0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSTJZV1ZtTWpNM1kyUmhORFkwWTJRellUZGlaRGN4WWpnM1l6RmxNREV3TlNJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSkNiMjVyYVdsNklpd0tJQ0FpYzJsbmJtRjBkWEpsVW1WeGRXbHlaV1FpSURvZ2RISjFaU3dLSUNBaWRHVjRkSFZ5WlhNaUlEb2dld29nSUNBZ0lsTkxTVTRpSURvZ2V3b2dJQ0FnSUNBaWRYSnNJaUE2SUNKb2RIUndPaTh2ZEdWNGRIVnlaWE11YldsdVpXTnlZV1owTG01bGRDOTBaWGgwZFhKbEx6VmxPR1V5TUdZeE5UTTBZekpoT1dRNU5EQmlZV001TjJNMFl6UmlNamxpTmpoa1lqWmhNamcyWVdRNVl6a3lZV1U0TldGbFpUYzRaVEEwT0RZd05ETWlMQW9nSUNBZ0lDQWliV1YwWVdSaGRHRWlJRG9nZXdvZ0lDQWdJQ0FnSUNKdGIyUmxiQ0lnT2lBaWMyeHBiU0lLSUNBZ0lDQWdmUW9nSUNBZ2ZRb2dJSDBLZlE9PSIsIlNpZ25hdHVyZSI6Im9DeGpxMVppZWNBQmdmZ3pJNUlvdi91allCRkZBM2pvb0lSaGh4OXNDNDlxTVdlN0lrdXF0Y0RWQk1Pa2Zoalo5UEM3dDlXQ1A1cHFTM2FvVm93YnRFVUtrZmUrMW5XdmJHYmRxWHkvWklqK250WVBRdVdlL0J0NzZVZGc3TU9VRm9ZMjhkak1Na3c4VkFQUGNJVldCU3ZKc0NmZEhIeHlRRWcrUTIyUEpQTDNkcXZzWlVwcjEwNnNVSUdQOXZzRGtWMFc5OWh2dzBORDk3L0lHNTY2TDJCcGtDM0liUGpRb2w4T0FuK2VOY04ycmNCTGp4cVBMa1g3d3FUN0MzQTdFTXRpUFIxeXVmQm01RWJ5U3YzTndaU09scG01ZDc3RVl4VFJBRkdMdEo0bmdXSEh5RkRqUTUwUDRMSDNGYmk3anN3aEpQeTdDTk90WmV6Ukg0RHRNZVo3WUxzekdGZ0R1emhWY1hVTWQrTWRqTDlaNzdjNWMrUWFHcFF1YUF0aGZrc1NFc0prSzZ2b01wRzNSeFJydWl5dWZXNk9mbm5nbTRGVVdkcGFhajhOUVhERWdGNUZoaFRodHVPMWpjUVlvb2FlLzd0ZWFmYWhNQm9yN3hya09BRWo5Umo4c1czSkNjRHBhWUUwOFQvaW1XY29hblJ2OFZUU3JyOEFtNW1VVlJ5ajh5NU5vWjRCaitjYzBYN053NGpQcmplRmhuZGlNR0wrVkc4ZUprbFZrVzFpSDVmUFJ4VXUvTTZPVThqR3lvejV1UU5aTlc0SEVFenBJQzg4WktVblBRVmRSQzFBYy9qOHNjT1dodUlmZWdXbjRtS0ZhQy9LZ3J1UWJ6UXhyRVBaT2lqc29wMlpQMU1HVHNXdE5RVG9LZTNOSlJURiswOGprVlVQY0ZZPSJ9XX0sImh5cGl4ZWxQb3B1bGF0ZWQiOiIxYiIsIk5hbWUiOiJoYW5uaWJhbDIifSwiZGlzcGxheSI6eyJOYW1lIjoiwqc2Um9vdGVkIEJsb3Nzb20gTmVja2xhY2UiLCJMb3JlIjpbIsKnN0hlYWx0aDogwqdjKzI5IMKnOSgrMTQpIiwiwqc3Vml0YWxpdHk6IMKnNCs0Iiwiwqc3RmFybWluZyBGb3J0dW5lOiDCpzYrNTkgwqc5KCsxOCkiLCIiLCLCpzlHcmVlbiBUaHVtYiBWIiwiwqc3R3JhbnRzIMKnNjAuMjXimJggRmFybWluZyBGb3J0dW5lIMKnN3BlciIsIsKnN3VuaXF1ZSB2aXNpdG9yIHNlcnZlZC4iLCLCpzlRdWFudHVtIFYiLCLCpzdHcmFudHMgwqc0KzTimaggVml0YWxpdHkgwqc3b24gd2Vla2RheXMgYW5kIiwiwqc3wqczKzLimK8gwqc3b2YgYSByYW5kb20gwqczV2lzZG9tIMKnN3N0YXQgb24iLCLCpzd3ZWVrZW5kcy4iLCIiLCLCpzZQaWVjZSBCb251czogRmxvcmlzdCIsIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0byIsIsKnN2dhaW4gwqc24piYIEZhcm1pbmcgRm9ydHVuZcKnNy4iLCIiLCLCpzdQaWVjZSBCb251czogwqc2KzIyLjXimJgiLCLCp2HCp2xNQVhFRCBPVVQhIE5JQ0UhIiwiIiwiwqc3R2FyZGVuIFZpc2l0b3JzIFNlcnZlZDogwqdjMTEsMDYzIiwiIiwiwqc4wqdsKiDCpzhDby1vcCBTb3VsYm91bmQgwqc4wqdsKiIsIsKnNsKnbMKna2HCp3Igwqc2wqdsTEVHRU5EQVJZIE5FQ0tMQUNFIMKnNsKnbMKna2EiXX0sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsicXVhbnR1bSI6NSwiZ3JlZW5fdGh1bWIiOjV9LCJ0aW1lc3RhbXAiOjE2NzY0MDUyMjAwMDAsIm1vZGlmaWVyIjoicm9vdGVkIiwidXVpZCI6IjczMWU3M2M3LWU2ZDQtNGUzYi04MmYzLWIxNzU1NjQ5YWQzNiIsInJhcml0eV91cGdyYWRlcyI6MSwiZG9uYXRlZF9tdXNldW0iOjEsImlkIjoiQkxPU1NPTV9ORUNLTEFDRSJ9LCJlbmNoIjpbe31dLCJvdmVycmlkZU1ldGEiOiIxYiJ9LCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
-                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnZFJvb3RlZCBab3JybydzIENhcGUiLCJuYnR0YWciOnsiSGlkZUZsYWdzIjoyNTQsIlVuYnJlYWthYmxlIjoiMGIiLCJTa3VsbE93bmVyIjp7IklkIjoiY2YwOTg0OTEtZDkyOC0zNmU3LThjNzctOTNkOThhZTBlMGY2IiwiUHJvcGVydGllcyI6eyJ0ZXh0dXJlcyI6W3siVmFsdWUiOiJld29nSUNKMGFXMWxjM1JoYlhBaUlEb2dNVGN4TWpBeU5EWTFNemMwTVN3S0lDQWljSEp2Wm1sc1pVbGtJaUE2SUNJME1ETmxZbUV6WWpoa09EZzBNRFZsWWpoak1EbGtOVFE0Tm1Gall6ZGlaU0lzQ2lBZ0luQnliMlpwYkdWT1lXMWxJaUE2SUNKV2IzSjBaWGgwZEhZaUxBb2dJQ0p6YVdkdVlYUjFjbVZTWlhGMWFYSmxaQ0lnT2lCMGNuVmxMQW9nSUNKMFpYaDBkWEpsY3lJZ09pQjdDaUFnSUNBaVUwdEpUaUlnT2lCN0NpQWdJQ0FnSUNKMWNtd2lJRG9nSW1oMGRIQTZMeTkwWlhoMGRYSmxjeTV0YVc1bFkzSmhablF1Ym1WMEwzUmxlSFIxY21Vdk9ERm1Oekl5Tm1FNU1qYzFOVGhrTURZNVlUWmhaVE0wTTJJMFpUQTRPV1ppWkRZd1ptTTJNRE0zTVRrd01EazNZemMzTVRNeU1EaGxPVGc0Wm1GaFpTSXNDaUFnSUNBZ0lDSnRaWFJoWkdGMFlTSWdPaUI3Q2lBZ0lDQWdJQ0FnSW0xdlpHVnNJaUE2SUNKemJHbHRJZ29nSUNBZ0lDQjlDaUFnSUNCOUNpQWdmUXA5IiwiU2lnbmF0dXJlIjoibkdWaUNjbFhZMG5IZEFGSlloWEZ2R1I2d1hOTzRCcUJHRS9RWmpxRHpGVmxKdVYwbEJvWlJYdEZuUU5jVTFDU2VxclNiR2tsWGFDTkNkUTVYcHFPaGN5SW1VdEJ0bWhycFEyd3o1ckhFQW5tSys0aDFxeHhmNUZUcXlkYnE1a1FneDVSUU5UNmdwYXVTMmx0UGNodGh2S0w1SWdDSHRSdE1XK2JSL3J4ZXV2YlNoVGxsQkRSeGxOYkt1WHJhREhydUJiVlZ2V3ZKcWFjV05rMlQwWGtEUnNJZWY3WXU1YXVHNkFBMmpWRnhtbFFSaDdQVXdoNGFYZ0NBb0ptMlZIMVVVblhhNTdHeFFLUEZvVDRnS3owVlVrRE84c3ZjWWgyNGRoNnk4SU1uWjVpVW4xVlNLaGYvTmxxbis2MkFPMUxIa1FhKzdJV0ZSRXBGU1oxVzcvbDJNdVQrN0dtSnNOaGxXcmdTWkMrR3Q2RGh2YWxSb2tFTTNtTUdSOFE1US91MzlsQThhWmRlbG9sT1l6c21QYndnUGZFUWpIQnlwWmNZY21PdUZEVUd3R1EvVFk2S2JWS1lQUGVzMys4TlZ3MVBZVkxQM0d6KzcwUUU3QWlZKzB4UmNQYjg4czdlaG5SV216emk0TDZVc1VzU1R1WE94T1cwbHVIRWp2NnlLYm5PQjhyQmJqZGFaVUszWjdPREdqRFpRRTV0RDZ4SVJsQmtHb0QzWjY2d2VhY1FPVHMrSFFxTmlBNys5YjJjWFlDRk9xTCt4a2NwQ1UrRmt5VHpaQjR0NDNaamNCRFlsbkhnd3JxbXBJaXVpVm9Yb1ovdGJEVTJ4aER6MXV5RGtyTm85M3ZmdnVOcGp0eUhKTjhMWFc4cnZzMmVBRXZaSE9SK0wrSzhnTW5wdlU9In1dfSwiaHlwaXhlbFBvcHVsYXRlZCI6IjFiIiwiTmFtZSI6Imhhbm5pYmFsMiJ9LCJkaXNwbGF5Ijp7Ik5hbWUiOiLCp2RSb290ZWQgWm9ycm8ncyBDYXBlIiwiTG9yZSI6WyLCpzdIZWFsdGg6IMKnYyszNCDCpzkoKzE3KSIsIsKnN1N0cmVuZ3RoOiDCp2MrMjAiLCLCpzdGZXJvY2l0eTogwqdjKzQiLCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnNisxMzAgwqc5KCsyMSkiLCLCpzdGYXJtaW5nIFdpc2RvbTogwqczKzIiLCIiLCLCpzlHcmVlbiBUaHVtYiBWIiwiwqc3R3JhbnRzIMKnNjAuMjXimJggRmFybWluZyBGb3J0dW5lIMKnN3BlciIsIsKnN3VuaXF1ZSB2aXNpdG9yIHNlcnZlZC4iLCIiLCLCpzdUaGUgc3RhdHMgb2YgdGhpcyBDYXBlIMKnYWRvdWJsZSDCpzciLCLCpzfCpzdkdXJpbmcgwqdlSmFjb2IncyBGYXJtaW5nIENvbnRlc3TCpzcuIiwiwqc3QWRkaXRpb25hbGx5LCB5b3UgaGF2ZSBhIMKnYTIwJSDCpzdjaGFuY2UiLCLCpzd0byBvYnRhaW4gYW4gZXh0cmEgbWVkYWwgZnJvbSIsIsKnN2NvbnRlc3RzLiIsIiIsIsKnN8KnOMKnb05vdCBhbGwgUmFiYml0cyB3ZWFyIGNhcGVzLiIsIiIsIsKnOMKnbCogwqc4Q28tb3AgU291bGJvdW5kIMKnOMKnbCoiLCLCp2TCp2zCp2thwqdyIMKnZMKnbE1ZVEhJQyBDTE9BSyDCp2TCp2zCp2thIl19LCJFeHRyYUF0dHJpYnV0ZXMiOnsiZW5jaGFudG1lbnRzIjp7ImdyZWVuX3RodW1iIjo1fSwidGltZXN0YW1wIjoxNzI3NjQ1MTIyNDE4LCJtb2RpZmllciI6InJvb3RlZCIsInV1aWQiOiJjNWE5YTM0YS1iZDZiLTQxZDAtOGVkMC04ZTUzYWM5YjFkNzAiLCJyYXJpdHlfdXBncmFkZXMiOjEsImRvbmF0ZWRfbXVzZXVtIjoxLCJpZCI6IlpPUlJPU19DQVBFIn0sImVuY2giOlt7fV0sIm92ZXJyaWRlTWV0YSI6IjFiIn0sImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
-                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIEJlbHQiLCJuYnR0YWciOnsiSGlkZUZsYWdzIjoyNTQsIlVuYnJlYWthYmxlIjoiMGIiLCJTa3VsbE93bmVyIjp7IklkIjoiMzYxNTg1MjMtMWNiMS0zZjc2LWFmYjgtYjVkMzYyNDIyYWRhIiwiUHJvcGVydGllcyI6eyJ0ZXh0dXJlcyI6W3siVmFsdWUiOiJld29nSUNKMGFXMWxjM1JoYlhBaUlEb2dNVGMyTVRZNU5UQXlNakF3T0N3S0lDQWljSEp2Wm1sc1pVbGtJaUE2SUNJMU9ETTFNbU5sT0RGbU0ySTBZalF4T0RGak9XTmlZek0zTVRZNE5HWXpOU0lzQ2lBZ0luQnliMlpwYkdWT1lXMWxJaUE2SUNKVWRtOUpYMU5sVFZCaFNWOGlMQW9nSUNKemFXZHVZWFIxY21WU1pYRjFhWEpsWkNJZ09pQjBjblZsTEFvZ0lDSjBaWGgwZFhKbGN5SWdPaUI3Q2lBZ0lDQWlVMHRKVGlJZ09pQjdDaUFnSUNBZ0lDSjFjbXdpSURvZ0ltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZOekU0WXpRNFkySm1NemN4WXpKa1lXWTBNV1pqTWpKbE5XRTVaamhoTXpWbFpUWmhOR0ppTW1VNFltTTJNV1EyWWpJME56QXdPV0psTkRsa1pESTFZaUlzQ2lBZ0lDQWdJQ0p0WlhSaFpHRjBZU0lnT2lCN0NpQWdJQ0FnSUNBZ0ltMXZaR1ZzSWlBNklDSnpiR2x0SWdvZ0lDQWdJQ0I5Q2lBZ0lDQjlDaUFnZlFwOSIsIlNpZ25hdHVyZSI6IlV2c2x4Sm0weWR1bCt1MDVJangyK2N5S1BLMkFXd1dCNjhORnNQYzE0NWsvVWJCNkFwblQ0c3g3VDk0TFJFRHFnVXJYN0Fsd29qWC9heWs2NVgrMjdYNU9ieVBKcE8zeVNIY05wbFloMm1xajF1aTdlc3ZXNlIwZjRMdEhNaUV5WlljQ1dtNzVzSkF3dEJISFFGVzg2d3dDeVliZWRXQWhKRUxKL0ZkbmIvYXh6enl0UXJCRnB4eGd1SFBGWVd0VUxoeTdEbmlTWkw5U1c0NDFmc1ByWnZqbHprTlg4aEJMYzRNODJ2eGhGQ3ZqN0VoSnh5eUo0N2o0WWJLVFlaRS95N0JJcWdBRXNkNE11QmJ3NmhoUTdiTDBCWjdzSmFvcmJzOFM0a3BaU2lUTXV1emxYYTRFV0lWcDVSanR0dk8yeEs1TFhqR3VCdmZUVER1clhvWWJOL0hvNWJxYVBhaXFJVXk2TlVFTjdvQzJQUFdKWTNUcEEzdngrQUxBMnoxQ1Z1UlVpRk1IOHE3dk5oZC9WOUZLK0VUcG45VUF3bkxKaWlDZUN3RjRwcDRLUWZVRzNHck5oL0ZucTBTQUFhYVZRZEdkMVlRbkNSVXZBaEI0WUROQ2pXYjZlWXhHY1BTTGl3cURxcGdvRE54Ni82bUtiNEc1bzZOd0JRUnBXdm9haHR1alg4cW9GOXZOeUxKT2hySUJKQ3hKdHpPd0xpWDZtSFRPcTN2TjVpbm5SL05LcHU3TVBFcW8yVGlvMW10cVJZOEpwV2J4eFBpQUNTd0UyaU10RFZhKzVELy9OS0piMkgzYWlpVjBnRTg3NWZ5M0pwSXdQNjhnclM5d0FkaHA0RXIwcjBKaG9aV2MrWjVVRVR1RUhuNStxQkZTZzlNVkZmSngyVkVVTFZZPSJ9XX0sImh5cGl4ZWxQb3B1bGF0ZWQiOiIxYiIsIk5hbWUiOiJoYW5uaWJhbDIifSwiZGlzcGxheSI6eyJOYW1lIjoiwqc2Um9vdGVkIEJsb3Nzb20gQmVsdCIsIkxvcmUiOlsiwqc3SGVhbHRoOiDCp2MrMjkgwqc5KCsxNCkiLCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnNis1OSDCpzkoKzE4KSIsIiIsIsKnOUdyZWVuIFRodW1iIFYiLCLCpzdHcmFudHMgwqc2MC4yNeKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3cGVyIiwiwqc3dW5pcXVlIHZpc2l0b3Igc2VydmVkLiIsIiIsIsKnNlBpZWNlIEJvbnVzOiBGbG9yaXN0Iiwiwqc3Q29tcGxldGUgwqdhR2FyZGVuIFZpc2l0b3IgT2ZmZXJzIMKnN3RvIiwiwqc3Z2FpbiDCpzbimJggRmFybWluZyBGb3J0dW5lwqc3LiIsIiIsIsKnN1BpZWNlIEJvbnVzOiDCpzYrMjIuNeKYmCIsIsKnYcKnbE1BWEVEIE9VVCEgTklDRSEiLCIiLCLCpzdHYXJkZW4gVmlzaXRvcnMgU2VydmVkOiDCp2MxMSwwNjMiLCIiLCLCpzjCp2wqIMKnOENvLW9wIFNvdWxib3VuZCDCpzjCp2wqIiwiwqc2wqdswqdrYcKnciDCpzbCp2xMRUdFTkRBUlkgQkVMVCDCpzbCp2zCp2thIl19LCJFeHRyYUF0dHJpYnV0ZXMiOnsiZW5jaGFudG1lbnRzIjp7ImdyZWVuX3RodW1iIjo1fSwidGltZXN0YW1wIjoxNjc2NDA1MjgwMDAwLCJtb2RpZmllciI6InJvb3RlZCIsInV1aWQiOiIxMjMyMmVhZi01NWYwLTQyNjYtOTIwOS1kODY2ZmQ0NmNkMGIiLCJyYXJpdHlfdXBncmFkZXMiOjEsImRvbmF0ZWRfbXVzZXVtIjoxLCJpZCI6IkJMT1NTT01fQkVMVCJ9LCJlbmNoIjpbe31dLCJvdmVycmlkZU1ldGEiOiIxYiJ9LCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
-                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIEJyYWNlbGV0IiwibmJ0dGFnIjp7IkhpZGVGbGFncyI6MjU0LCJVbmJyZWFrYWJsZSI6IjBiIiwiU2t1bGxPd25lciI6eyJJZCI6IjI2N2FkMGMwLTVhODMtM2NiYy1hNTQzLTQyM2FkYjNkNzVkMyIsIlByb3BlcnRpZXMiOnsidGV4dHVyZXMiOlt7IlZhbHVlIjoiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRjMk1UWTVOVEF5TlRFd015d0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSTBZVFExWm1ZM05ETTJOamswWVROaVlUYzNPVGRoWVRneU4ySXdORE0xTmlJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSnpjR2xtWm5SdmNHbGhOU0lzQ2lBZ0luTnBaMjVoZEhWeVpWSmxjWFZwY21Wa0lpQTZJSFJ5ZFdVc0NpQWdJblJsZUhSMWNtVnpJaUE2SUhzS0lDQWdJQ0pUUzBsT0lpQTZJSHNLSUNBZ0lDQWdJblZ5YkNJZ09pQWlhSFIwY0RvdkwzUmxlSFIxY21WekxtMXBibVZqY21GbWRDNXVaWFF2ZEdWNGRIVnlaUzloWWpGa09HWm1PR1kwTmpFek5EQmpaRGN6WXpreE1HRmhObVJtTWprNU16azFaalZsT0RCaFpHRTBPV1UwTXpCbFptRTVZelUzWmpWaVpqYzFOV1kwSWl3S0lDQWdJQ0FnSW0xbGRHRmtZWFJoSWlBNklIc0tJQ0FnSUNBZ0lDQWliVzlrWld3aUlEb2dJbk5zYVcwaUNpQWdJQ0FnSUgwS0lDQWdJSDBLSUNCOUNuMD0iLCJTaWduYXR1cmUiOiJYc282bzdvWGhsWEJKNW45SDR3UE5uR0t6SnZuczJOYlJZRjE3MlgyekMreHFvRmJRL25BczRoK1JSbDBRcGxEMVVpVmtLMkNDcU5NcytMN1dtc0VDSTZIZU9vSVFLN0l4Y1hycUlnMGd6ajFNei8rSkxYRWFGOFpCQXY3a3I1U3A4MXZFeG5lK3RZejE5dDZzOUgvN1BaeDQ4WUhBeXA4WmtaSmdrVElYbDVhR0NQdGMybldTSGIxcEVPUGltdDlqWXFMQ2R5YkZkVmt2aCtOcmhpdDRBSkVPVXQzcUh2ZStaaHRsaEZTc0RpQWtFZHF4MGpsNXhBTC9Ea2hQUCtMQUZSeThBQlppOVRlYW8wSFFXZERaY2JEMXJObzZCOUNDeFFWQ1NudXFMMWZmcGh3a0hhQStMdU5GUTNEUDNBSG12T0RiakJMTUF6MHNFY2ltaWlaeThlR2trRWhpckFXK0Vlblg0NkNFVmdyU1BVWVJDMTRsUk12dDR1TTR0c1NOZHVPNCtXUHlvSHhlL3RZcVZuL3A0bnVPRXFSVFA0TTVzNjkyUnRnT3BVSEdiTEFSM3U3K2t5RUZDOHZWdGtJZFNLTlBYL0FhZWs5MnBhdHpwNExEbDdNWFBtSGpkeG92bkRacjVDU0RXNVZ5TGNBQThlZUgzRkhXcGY4VVBoc2hld2xCYlBVM3MySXQxTkVwdEczTWpnNjMrZkFta1JGVCtMV1pDd3RyTElLa3hpYkJqTHZ1dmRraG9yZzhuRFp6dURnYjFRZHRwbDRMcGFweENUTTgvRUZzRTZWZVV3a1EzSytFRW84MndrNXlrbEM5QVJDZGsvWlZxME1vandscmRWSmZoSCtGbUhKZ3FiZWR2ZWJHOTczU3pOYTRBWjU3VzRiR2ltZ3BxWT0ifV19LCJoeXBpeGVsUG9wdWxhdGVkIjoiMWIiLCJOYW1lIjoiaGFubmliYWwyIn0sImRpc3BsYXkiOnsiTmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIEJyYWNlbGV0IiwiTG9yZSI6WyLCpzdIZWFsdGg6IMKnYysyOSDCpzkoKzE0KSIsIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqc2KzU5IMKnOSgrMTgpIiwiIiwiwqc5R3JlZW4gVGh1bWIgViIsIsKnN0dyYW50cyDCpzYwLjI14piYIEZhcm1pbmcgRm9ydHVuZSDCpzdwZXIiLCLCpzd1bmlxdWUgdmlzaXRvciBzZXJ2ZWQuIiwiIiwiwqc2UGllY2UgQm9udXM6IEZsb3Jpc3QiLCLCpzdDb21wbGV0ZSDCp2FHYXJkZW4gVmlzaXRvciBPZmZlcnMgwqc3dG8iLCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuIiwiIiwiwqc3UGllY2UgQm9udXM6IMKnNisyMi414piYIiwiwqdhwqdsTUFYRUQgT1VUISBOSUNFISIsIiIsIsKnN0dhcmRlbiBWaXNpdG9ycyBTZXJ2ZWQ6IMKnYzExLDA2MyIsIiIsIsKnOMKnbCogwqc4Q28tb3AgU291bGJvdW5kIMKnOMKnbCoiLCLCpzbCp2zCp2thwqdyIMKnNsKnbExFR0VOREFSWSBCUkFDRUxFVCDCpzbCp2zCp2thIl19LCJFeHRyYUF0dHJpYnV0ZXMiOnsiZW5jaGFudG1lbnRzIjp7ImdyZWVuX3RodW1iIjo1fSwidGltZXN0YW1wIjoxNjc2NDA0NTYwMDAwLCJtb2RpZmllciI6InJvb3RlZCIsInV1aWQiOiIyYzhhZTdlNi1mNDJkLTQ1YWUtYjlmNS0xYTBiN2ViMjhhMjEiLCJyYXJpdHlfdXBncmFkZXMiOjEsImRvbmF0ZWRfbXVzZXVtIjoxLCJpZCI6IkJMT1NTT01fQlJBQ0VMRVQifSwiZW5jaCI6W3t9XSwib3ZlcnJpZGVNZXRhIjoiMWIifSwiaW50ZXJuYWxuYW1lIjoiXyJ9"
+                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIE5lY2tsYWNlIiwibmJ0dGFnIjp7IkhpZGVGbGFncyI6MjU0LCJVbmJyZWFrYWJsZSI6IjBiIiwiU2t1bGxPd25lciI6eyJJZCI6ImJiZWQyMDdhLWIwZTktMzIxNy1hMGEyLWE5ZmU1NDliN2M1OSIsIlByb3BlcnRpZXMiOnsidGV4dHVyZXMiOlt7IlZhbHVlIjoiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRjMk1UWTVOVEF4T1RFMk1Td0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSTJZV1ZtTWpNM1kyUmhORFkwWTJRellUZGlaRGN4WWpnM1l6RmxNREV3TlNJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSkNiMjVyYVdsNklpd0tJQ0FpYzJsbmJtRjBkWEpsVW1WeGRXbHlaV1FpSURvZ2RISjFaU3dLSUNBaWRHVjRkSFZ5WlhNaUlEb2dld29nSUNBZ0lsTkxTVTRpSURvZ2V3b2dJQ0FnSUNBaWRYSnNJaUE2SUNKb2RIUndPaTh2ZEdWNGRIVnlaWE11YldsdVpXTnlZV1owTG01bGRDOTBaWGgwZFhKbEx6VmxPR1V5TUdZeE5UTTBZekpoT1dRNU5EQmlZV001TjJNMFl6UmlNamxpTmpoa1lqWmhNamcyWVdRNVl6a3lZV1U0TldGbFpUYzRaVEEwT0RZd05ETWlMQW9nSUNBZ0lDQWliV1YwWVdSaGRHRWlJRG9nZXdvZ0lDQWdJQ0FnSUNKdGIyUmxiQ0lnT2lBaWMyeHBiU0lLSUNBZ0lDQWdmUW9nSUNBZ2ZRb2dJSDBLZlE9PSIsIlNpZ25hdHVyZSI6Im9DeGpxMVppZWNBQmdmZ3pJNUlvdi91allCRkZBM2pvb0lSaGh4OXNDNDlxTVdlN0lrdXF0Y0RWQk1Pa2Zoalo5UEM3dDlXQ1A1cHFTM2FvVm93YnRFVUtrZmUrMW5XdmJHYmRxWHkvWklqK250WVBRdVdlL0J0NzZVZGc3TU9VRm9ZMjhkak1Na3c4VkFQUGNJVldCU3ZKc0NmZEhIeHlRRWcrUTIyUEpQTDNkcXZzWlVwcjEwNnNVSUdQOXZzRGtWMFc5OWh2dzBORDk3L0lHNTY2TDJCcGtDM0liUGpRb2w4T0FuK2VOY04ycmNCTGp4cVBMa1g3d3FUN0MzQTdFTXRpUFIxeXVmQm01RWJ5U3YzTndaU09scG01ZDc3RVl4VFJBRkdMdEo0bmdXSEh5RkRqUTUwUDRMSDNGYmk3anN3aEpQeTdDTk90WmV6Ukg0RHRNZVo3WUxzekdGZ0R1emhWY1hVTWQrTWRqTDlaNzdjNWMrUWFHcFF1YUF0aGZrc1NFc0prSzZ2b01wRzNSeFJydWl5dWZXNk9mbm5nbTRGVVdkcGFhajhOUVhERWdGNUZoaFRodHVPMWpjUVlvb2FlLzd0ZWFmYWhNQm9yN3hya09BRWo5Umo4c1czSkNjRHBhWUUwOFQvaW1XY29hblJ2OFZUU3JyOEFtNW1VVlJ5ajh5NU5vWjRCaitjYzBYN053NGpQcmplRmhuZGlNR0wrVkc4ZUprbFZrVzFpSDVmUFJ4VXUvTTZPVThqR3lvejV1UU5aTlc0SEVFenBJQzg4WktVblBRVmRSQzFBYy9qOHNjT1dodUlmZWdXbjRtS0ZhQy9LZ3J1UWJ6UXhyRVBaT2lqc29wMlpQMU1HVHNXdE5RVG9LZTNOSlJURiswOGprVlVQY0ZZPSJ9XX0sImh5cGl4ZWxQb3B1bGF0ZWQiOiIxYiJ9LCJkaXNwbGF5Ijp7Ik5hbWUiOiLCpzZSb290ZWQgQmxvc3NvbSBOZWNrbGFjZSIsIkxvcmUiOlsiwqc3SGVhbHRoOiDCp2MrMjkgwqc5KCsxNCkiLCLCpzdWaXRhbGl0eTogwqc0KzQiLCLCpzdGYXJtaW5nIEZvcnR1bmU6IMKnNis1OS4yNSDCpzkoKzE4KSIsIiIsIsKnOUdyZWVuIFRodW1iIFYiLCLCpzdHcmFudHMgwqc2MC4yNeKYmCBGYXJtaW5nIEZvcnR1bmUgwqc3cGVyIiwiwqc3dW5pcXVlIHZpc2l0b3Igc2VydmVkLiIsIsKnOVF1YW50dW0gViIsIsKnN0dyYW50cyDCpzQrNOKZqCBWaXRhbGl0eSDCpzdvbiB3ZWVrZGF5cyBhbmQiLCLCpzfCpzMrMuKYryDCpzdvZiBhIHJhbmRvbSDCpzNXaXNkb20gwqc3c3RhdCBvbiIsIsKnN3dlZWtlbmRzLiIsIiIsIsKnNlBpZWNlIEJvbnVzOiBGbG9yaXN0Iiwiwqc3Q29tcGxldGUgwqdhR2FyZGVuIFZpc2l0b3IgT2ZmZXJzIMKnN3RvIiwiwqc3Z2FpbiDCpzbimJggRmFybWluZyBGb3J0dW5lwqc3LiIsIiIsIsKnN1BpZWNlIEJvbnVzOiDCpzYrMjIuNeKYmCIsIsKnYcKnbE1BWEVEIE9VVCEgTklDRSEiLCIiLCLCpzdHYXJkZW4gVmlzaXRvcnMgU2VydmVkOiDCp2MxMSwwODYiLCIiLCLCpzjCp2wqIMKnOENvLW9wIFNvdWxib3VuZCDCpzjCp2wqIiwiwqc2wqdswqdrYcKnciDCpzbCp2xMRUdFTkRBUlkgTkVDS0xBQ0Ugwqc2wqdswqdrYSJdfSwiRXh0cmFBdHRyaWJ1dGVzIjp7ImVuY2hhbnRtZW50cyI6eyJxdWFudHVtIjo1LCJncmVlbl90aHVtYiI6NX0sInRpbWVzdGFtcCI6MTY3NjQwNTIyMDAwMCwibW9kaWZpZXIiOiJyb290ZWQiLCJ1dWlkIjoiNzMxZTczYzctZTZkNC00ZTNiLTgyZjMtYjE3NTU2NDlhZDM2IiwicmFyaXR5X3VwZ3JhZGVzIjoxLCJkb25hdGVkX211c2V1bSI6MSwiaWQiOiJCTE9TU09NX05FQ0tMQUNFIn0sImVuY2giOlt7fV0sIm92ZXJyaWRlTWV0YSI6IjFiIn0sImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
+                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIENsb2FrIiwibmJ0dGFnIjp7IkhpZGVGbGFncyI6MjU0LCJVbmJyZWFrYWJsZSI6IjBiIiwiU2t1bGxPd25lciI6eyJJZCI6Ijk5ODk5M2ZjLTEyYmItM2IxNS05OGY3LWQ3Njc2YzFjOWU2MSIsIlByb3BlcnRpZXMiOnsidGV4dHVyZXMiOlt7IlZhbHVlIjoiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRjMk1UWTVOVEF5TURNMU15d0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSXlZamN5WldZeVlXVXpNbVEwWmpjMU9HRXlNVGhsTURJNE1UVmlZbU5qWlNJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSjJiMnhyYjJSaFpsODJNeUlzQ2lBZ0luTnBaMjVoZEhWeVpWSmxjWFZwY21Wa0lpQTZJSFJ5ZFdVc0NpQWdJblJsZUhSMWNtVnpJaUE2SUhzS0lDQWdJQ0pUUzBsT0lpQTZJSHNLSUNBZ0lDQWdJblZ5YkNJZ09pQWlhSFIwY0RvdkwzUmxlSFIxY21WekxtMXBibVZqY21GbWRDNXVaWFF2ZEdWNGRIVnlaUzg0TkRVellUZ3dPRFJpTnpjM00yTXhZakppWWpZeU1UTTVNREZrWVRoalptSTFNR1JsTldVMVpEQmpPR00xTWpSbVpqUm1ZV1F3WlRFNE1tVmhOamhpSWl3S0lDQWdJQ0FnSW0xbGRHRmtZWFJoSWlBNklIc0tJQ0FnSUNBZ0lDQWliVzlrWld3aUlEb2dJbk5zYVcwaUNpQWdJQ0FnSUgwS0lDQWdJSDBLSUNCOUNuMD0iLCJTaWduYXR1cmUiOiJoMnZocExhUHA2b0V4MlJiMHpIbVVoMG1xWm13YkFxeGpHUlBhOHZqTHV1Y28rRmlrVk1JQjJQM3hKZzQ1SHlFSmVXT3hTc3lCaEpuaGJpS2RybHpLTmtvM3dzaDV5SExHeWlqaitnVGZmeEJuQmg2dXV4TWlyL1llYmduY09yTytMSlk5Tm5JdmVRbGw4SmRLT0Q4bEN3YTZsaXc1QktpMDBNQm5uYThGd2dISVp0SlhwYk9jOHRpYTdlOG1xL3ZhMjRKSzJERkRyWTBmZDJaQW5sRHREMUdFdk9ZZy9jK2dJYTlwcGFHZFJwVkk0UStkUmZLMEVJRGJOMDZSYmxsWDVSNFgzRkpFVHdtMUZpa3dUcm1iUlYxYmwweXJpTFF5YXJNU2U0WUhBYXA4TGpkZytmM1VveHVWc3RnU1RxTUs0RmNSeWhHRWg3WUFaYVNRZDRRN00zQnRTOUtDb0NPbkp4UFM0MnJycGJxZVZhVW9UcUFXSURhWHlBRHc5SXBXaFZOQ0NJQnk2cFc0NnNXaDFDbXFIMllhbWh0RTlpazRUU0VWenluQTY5UGNodTVkYmVaendUd1c1dlgwVDJVODBHS2NBaDh0TGNDM2FPVm9RRmdQbzZhV0h6WjFzaG9SN0ZKenBPYW9uZnlwL0FmSHd5Mm1WamZ5K1FYVHFBK1FqYkRWVTJURzliRDdqVVpnNnNNS0xsSmJ1R1pReWJJVnZDMU5NSTNkQVoxMWxwMm1sQlRnV3pNUU1vSTlFVEdEUkRadG1XUGkvZ3Nmai9TbDcrUm9tdEZ6NnBEUkYySUc4WEFSSS9jaEQ1emhDZHRUbGtOQkFnYTVteGkzTTBQQU5weFhpbzVaNFJNbndkZlhMTk9OS2I2SERqRlZDWUNDcWZhTVZxWmVQND0ifV19LCJoeXBpeGVsUG9wdWxhdGVkIjoiMWIifSwiZGlzcGxheSI6eyJOYW1lIjoiwqc2Um9vdGVkIEJsb3Nzb20gQ2xvYWsiLCJMb3JlIjpbIsKnN0hlYWx0aDogwqdjKzI5IMKnOSgrMTQpIiwiwqc3RmFybWluZyBGb3J0dW5lOiDCpzYrNTkuMjUgwqc5KCsxOCkiLCIiLCLCpzlHcmVlbiBUaHVtYiBWIiwiwqc3R3JhbnRzIMKnNjAuMjXimJggRmFybWluZyBGb3J0dW5lIMKnN3BlciIsIsKnN3VuaXF1ZSB2aXNpdG9yIHNlcnZlZC4iLCIiLCLCpzZQaWVjZSBCb251czogRmxvcmlzdCIsIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0byIsIsKnN2dhaW4gwqc24piYIEZhcm1pbmcgRm9ydHVuZcKnNy4iLCIiLCLCpzdQaWVjZSBCb251czogwqc2KzIyLjXimJgiLCLCp2HCp2xNQVhFRCBPVVQhIE5JQ0UhIiwiIiwiwqc3R2FyZGVuIFZpc2l0b3JzIFNlcnZlZDogwqdjMTEsMDg2IiwiIiwiwqc4wqdsKiDCpzhDby1vcCBTb3VsYm91bmQgwqc4wqdsKiIsIsKnNsKnbMKna2HCp3Igwqc2wqdsTEVHRU5EQVJZIENMT0FLIMKnNsKnbMKna2EiXX0sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsiZ3JlZW5fdGh1bWIiOjV9LCJ0aW1lc3RhbXAiOjE2NzY0MDU0MDAwMDAsIm1vZGlmaWVyIjoicm9vdGVkIiwidXVpZCI6IjI3NDgxMGNkLTVmM2YtNDVkNS1iYjI5LTMwZDczZWNjMzE4ZiIsInJhcml0eV91cGdyYWRlcyI6MSwiZG9uYXRlZF9tdXNldW0iOjEsImlkIjoiQkxPU1NPTV9DTE9BSyJ9LCJlbmNoIjpbe31dLCJvdmVycmlkZU1ldGEiOiIxYiJ9LCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d",
+                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIEJlbHQiLCJuYnR0YWciOnsiSGlkZUZsYWdzIjoyNTQsIlVuYnJlYWthYmxlIjoiMGIiLCJTa3VsbE93bmVyIjp7IklkIjoiMzYxNTg1MjMtMWNiMS0zZjc2LWFmYjgtYjVkMzYyNDIyYWRhIiwiUHJvcGVydGllcyI6eyJ0ZXh0dXJlcyI6W3siVmFsdWUiOiJld29nSUNKMGFXMWxjM1JoYlhBaUlEb2dNVGMyTVRZNU5UQXlNakF3T0N3S0lDQWljSEp2Wm1sc1pVbGtJaUE2SUNJMU9ETTFNbU5sT0RGbU0ySTBZalF4T0RGak9XTmlZek0zTVRZNE5HWXpOU0lzQ2lBZ0luQnliMlpwYkdWT1lXMWxJaUE2SUNKVWRtOUpYMU5sVFZCaFNWOGlMQW9nSUNKemFXZHVZWFIxY21WU1pYRjFhWEpsWkNJZ09pQjBjblZsTEFvZ0lDSjBaWGgwZFhKbGN5SWdPaUI3Q2lBZ0lDQWlVMHRKVGlJZ09pQjdDaUFnSUNBZ0lDSjFjbXdpSURvZ0ltaDBkSEE2THk5MFpYaDBkWEpsY3k1dGFXNWxZM0poWm5RdWJtVjBMM1JsZUhSMWNtVXZOekU0WXpRNFkySm1NemN4WXpKa1lXWTBNV1pqTWpKbE5XRTVaamhoTXpWbFpUWmhOR0ppTW1VNFltTTJNV1EyWWpJME56QXdPV0psTkRsa1pESTFZaUlzQ2lBZ0lDQWdJQ0p0WlhSaFpHRjBZU0lnT2lCN0NpQWdJQ0FnSUNBZ0ltMXZaR1ZzSWlBNklDSnpiR2x0SWdvZ0lDQWdJQ0I5Q2lBZ0lDQjlDaUFnZlFwOSIsIlNpZ25hdHVyZSI6IlV2c2x4Sm0weWR1bCt1MDVJangyK2N5S1BLMkFXd1dCNjhORnNQYzE0NWsvVWJCNkFwblQ0c3g3VDk0TFJFRHFnVXJYN0Fsd29qWC9heWs2NVgrMjdYNU9ieVBKcE8zeVNIY05wbFloMm1xajF1aTdlc3ZXNlIwZjRMdEhNaUV5WlljQ1dtNzVzSkF3dEJISFFGVzg2d3dDeVliZWRXQWhKRUxKL0ZkbmIvYXh6enl0UXJCRnB4eGd1SFBGWVd0VUxoeTdEbmlTWkw5U1c0NDFmc1ByWnZqbHprTlg4aEJMYzRNODJ2eGhGQ3ZqN0VoSnh5eUo0N2o0WWJLVFlaRS95N0JJcWdBRXNkNE11QmJ3NmhoUTdiTDBCWjdzSmFvcmJzOFM0a3BaU2lUTXV1emxYYTRFV0lWcDVSanR0dk8yeEs1TFhqR3VCdmZUVER1clhvWWJOL0hvNWJxYVBhaXFJVXk2TlVFTjdvQzJQUFdKWTNUcEEzdngrQUxBMnoxQ1Z1UlVpRk1IOHE3dk5oZC9WOUZLK0VUcG45VUF3bkxKaWlDZUN3RjRwcDRLUWZVRzNHck5oL0ZucTBTQUFhYVZRZEdkMVlRbkNSVXZBaEI0WUROQ2pXYjZlWXhHY1BTTGl3cURxcGdvRE54Ni82bUtiNEc1bzZOd0JRUnBXdm9haHR1alg4cW9GOXZOeUxKT2hySUJKQ3hKdHpPd0xpWDZtSFRPcTN2TjVpbm5SL05LcHU3TVBFcW8yVGlvMW10cVJZOEpwV2J4eFBpQUNTd0UyaU10RFZhKzVELy9OS0piMkgzYWlpVjBnRTg3NWZ5M0pwSXdQNjhnclM5d0FkaHA0RXIwcjBKaG9aV2MrWjVVRVR1RUhuNStxQkZTZzlNVkZmSngyVkVVTFZZPSJ9XX0sImh5cGl4ZWxQb3B1bGF0ZWQiOiIxYiJ9LCJkaXNwbGF5Ijp7Ik5hbWUiOiLCpzZSb290ZWQgQmxvc3NvbSBCZWx0IiwiTG9yZSI6WyLCpzdIZWFsdGg6IMKnYysyOSDCpzkoKzE0KSIsIsKnN0Zhcm1pbmcgRm9ydHVuZTogwqc2KzU5LjI1IMKnOSgrMTgpIiwiIiwiwqc5R3JlZW4gVGh1bWIgViIsIsKnN0dyYW50cyDCpzYwLjI14piYIEZhcm1pbmcgRm9ydHVuZSDCpzdwZXIiLCLCpzd1bmlxdWUgdmlzaXRvciBzZXJ2ZWQuIiwiIiwiwqc2UGllY2UgQm9udXM6IEZsb3Jpc3QiLCLCpzdDb21wbGV0ZSDCp2FHYXJkZW4gVmlzaXRvciBPZmZlcnMgwqc3dG8iLCLCpzdnYWluIMKnNuKYmCBGYXJtaW5nIEZvcnR1bmXCpzcuIiwiIiwiwqc3UGllY2UgQm9udXM6IMKnNisyMi414piYIiwiwqdhwqdsTUFYRUQgT1VUISBOSUNFISIsIiIsIsKnN0dhcmRlbiBWaXNpdG9ycyBTZXJ2ZWQ6IMKnYzExLDA4NiIsIiIsIsKnOMKnbCogwqc4Q28tb3AgU291bGJvdW5kIMKnOMKnbCoiLCLCpzbCp2zCp2thwqdyIMKnNsKnbExFR0VOREFSWSBCRUxUIMKnNsKnbMKna2EiXX0sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsiZ3JlZW5fdGh1bWIiOjV9LCJ0aW1lc3RhbXAiOjE2NzY0MDUyODAwMDAsIm1vZGlmaWVyIjoicm9vdGVkIiwidXVpZCI6IjEyMzIyZWFmLTU1ZjAtNDI2Ni05MjA5LWQ4NjZmZDQ2Y2QwYiIsInJhcml0eV91cGdyYWRlcyI6MSwiZG9uYXRlZF9tdXNldW0iOjEsImlkIjoiQkxPU1NPTV9CRUxUIn0sImVuY2giOlt7fV0sIm92ZXJyaWRlTWV0YSI6IjFiIn0sImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
+                "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnNlJvb3RlZCBCbG9zc29tIEJyYWNlbGV0IiwibmJ0dGFnIjp7IkhpZGVGbGFncyI6MjU0LCJVbmJyZWFrYWJsZSI6IjBiIiwiU2t1bGxPd25lciI6eyJJZCI6IjI2N2FkMGMwLTVhODMtM2NiYy1hNTQzLTQyM2FkYjNkNzVkMyIsIlByb3BlcnRpZXMiOnsidGV4dHVyZXMiOlt7IlZhbHVlIjoiZXdvZ0lDSjBhVzFsYzNSaGJYQWlJRG9nTVRjMk1UWTVOVEF5TlRFd015d0tJQ0FpY0hKdlptbHNaVWxrSWlBNklDSTBZVFExWm1ZM05ETTJOamswWVROaVlUYzNPVGRoWVRneU4ySXdORE0xTmlJc0NpQWdJbkJ5YjJacGJHVk9ZVzFsSWlBNklDSnpjR2xtWm5SdmNHbGhOU0lzQ2lBZ0luTnBaMjVoZEhWeVpWSmxjWFZwY21Wa0lpQTZJSFJ5ZFdVc0NpQWdJblJsZUhSMWNtVnpJaUE2SUhzS0lDQWdJQ0pUUzBsT0lpQTZJSHNLSUNBZ0lDQWdJblZ5YkNJZ09pQWlhSFIwY0RvdkwzUmxlSFIxY21WekxtMXBibVZqY21GbWRDNXVaWFF2ZEdWNGRIVnlaUzloWWpGa09HWm1PR1kwTmpFek5EQmpaRGN6WXpreE1HRmhObVJtTWprNU16azFaalZsT0RCaFpHRTBPV1UwTXpCbFptRTVZelUzWmpWaVpqYzFOV1kwSWl3S0lDQWdJQ0FnSW0xbGRHRmtZWFJoSWlBNklIc0tJQ0FnSUNBZ0lDQWliVzlrWld3aUlEb2dJbk5zYVcwaUNpQWdJQ0FnSUgwS0lDQWdJSDBLSUNCOUNuMD0iLCJTaWduYXR1cmUiOiJYc282bzdvWGhsWEJKNW45SDR3UE5uR0t6SnZuczJOYlJZRjE3MlgyekMreHFvRmJRL25BczRoK1JSbDBRcGxEMVVpVmtLMkNDcU5NcytMN1dtc0VDSTZIZU9vSVFLN0l4Y1hycUlnMGd6ajFNei8rSkxYRWFGOFpCQXY3a3I1U3A4MXZFeG5lK3RZejE5dDZzOUgvN1BaeDQ4WUhBeXA4WmtaSmdrVElYbDVhR0NQdGMybldTSGIxcEVPUGltdDlqWXFMQ2R5YkZkVmt2aCtOcmhpdDRBSkVPVXQzcUh2ZStaaHRsaEZTc0RpQWtFZHF4MGpsNXhBTC9Ea2hQUCtMQUZSeThBQlppOVRlYW8wSFFXZERaY2JEMXJObzZCOUNDeFFWQ1NudXFMMWZmcGh3a0hhQStMdU5GUTNEUDNBSG12T0RiakJMTUF6MHNFY2ltaWlaeThlR2trRWhpckFXK0Vlblg0NkNFVmdyU1BVWVJDMTRsUk12dDR1TTR0c1NOZHVPNCtXUHlvSHhlL3RZcVZuL3A0bnVPRXFSVFA0TTVzNjkyUnRnT3BVSEdiTEFSM3U3K2t5RUZDOHZWdGtJZFNLTlBYL0FhZWs5MnBhdHpwNExEbDdNWFBtSGpkeG92bkRacjVDU0RXNVZ5TGNBQThlZUgzRkhXcGY4VVBoc2hld2xCYlBVM3MySXQxTkVwdEczTWpnNjMrZkFta1JGVCtMV1pDd3RyTElLa3hpYkJqTHZ1dmRraG9yZzhuRFp6dURnYjFRZHRwbDRMcGFweENUTTgvRUZzRTZWZVV3a1EzSytFRW84MndrNXlrbEM5QVJDZGsvWlZxME1vandscmRWSmZoSCtGbUhKZ3FiZWR2ZWJHOTczU3pOYTRBWjU3VzRiR2ltZ3BxWT0ifV19LCJoeXBpeGVsUG9wdWxhdGVkIjoiMWIifSwiZGlzcGxheSI6eyJOYW1lIjoiwqc2Um9vdGVkIEJsb3Nzb20gQnJhY2VsZXQiLCJMb3JlIjpbIsKnN0hlYWx0aDogwqdjKzI5IMKnOSgrMTQpIiwiwqc3RmFybWluZyBGb3J0dW5lOiDCpzYrNTkuMjUgwqc5KCsxOCkiLCIiLCLCpzlHcmVlbiBUaHVtYiBWIiwiwqc3R3JhbnRzIMKnNjAuMjXimJggRmFybWluZyBGb3J0dW5lIMKnN3BlciIsIsKnN3VuaXF1ZSB2aXNpdG9yIHNlcnZlZC4iLCIiLCLCpzZQaWVjZSBCb251czogRmxvcmlzdCIsIsKnN0NvbXBsZXRlIMKnYUdhcmRlbiBWaXNpdG9yIE9mZmVycyDCpzd0byIsIsKnN2dhaW4gwqc24piYIEZhcm1pbmcgRm9ydHVuZcKnNy4iLCIiLCLCpzdQaWVjZSBCb251czogwqc2KzIyLjXimJgiLCLCp2HCp2xNQVhFRCBPVVQhIE5JQ0UhIiwiIiwiwqc3R2FyZGVuIFZpc2l0b3JzIFNlcnZlZDogwqdjMTEsMDg2IiwiIiwiwqc4wqdsKiDCpzhDby1vcCBTb3VsYm91bmQgwqc4wqdsKiIsIsKnNsKnbMKna2HCp3Igwqc2wqdsTEVHRU5EQVJZIEJSQUNFTEVUIMKnNsKnbMKna2EiXX0sIkV4dHJhQXR0cmlidXRlcyI6eyJlbmNoYW50bWVudHMiOnsiZ3JlZW5fdGh1bWIiOjV9LCJ0aW1lc3RhbXAiOjE2NzY0MDQ1NjAwMDAsIm1vZGlmaWVyIjoicm9vdGVkIiwidXVpZCI6IjJjOGFlN2U2LWY0MmQtNDVhZS1iOWY1LTFhMGI3ZWIyOGEyMSIsInJhcml0eV91cGdyYWRlcyI6MSwiZG9uYXRlZF9tdXNldW0iOjEsImlkIjoiQkxPU1NPTV9CUkFDRUxFVCJ9LCJlbmNoIjpbe31dLCJvdmVycmlkZU1ldGEiOiIxYiJ9LCJpbnRlcm5hbG5hbWUiOiJfIn0\u003d"
               ],
               "riftSlots": [
                 "eyJpdGVtaWQiOiJtaW5lY3JhZnQ6cGxheWVyX2hlYWQiLCJkaXNwbGF5bmFtZSI6IsKnZMKncsKnZFJpZnQgTmVja2xhY2UiLCJuYnR0YWciOnsiSGlkZUZsYWdzIjoyNTQsIlVuYnJlYWthYmxlIjoiMGIiLCJTa3VsbE93bmVyIjp7IklkIjoiYWQwNDkyNDctMTg2Mi0zMDBmLWEwZGItZGZkNWNmNWY2MjIwIiwiUHJvcGVydGllcyI6eyJ0ZXh0dXJlcyI6W3siVmFsdWUiOiJld29nSUNKMGFXMWxjM1JoYlhBaUlEb2dNVFkwTnpnMk9EUTNNRFF4T0N3S0lDQWljSEp2Wm1sc1pVbGtJaUE2SUNJd05qTmhNVGMyWTJSa01UVTBPRFJpWWpVMU1qUmhOalF5TUdNMVlqZGhOQ0lzQ2lBZ0luQnliMlpwYkdWT1lXMWxJaUE2SUNKa1lYWnBjR0YwZFhKNUlpd0tJQ0FpYzJsbmJtRjBkWEpsVW1WeGRXbHlaV1FpSURvZ2RISjFaU3dLSUNBaWRHVjRkSFZ5WlhNaUlEb2dld29nSUNBZ0lsTkxTVTRpSURvZ2V3b2dJQ0FnSUNBaWRYSnNJaUE2SUNKb2RIUndPaTh2ZEdWNGRIVnlaWE11YldsdVpXTnlZV1owTG01bGRDOTBaWGgwZFhKbEx6bGpNRGc1TkRrek1XRTFNVEF6T0RkbE5HWTJNVE00TWpobU1ESXpPV05oTkdRNU1EZzFNelE1T1RZek4yWTJNRGM1WkRNNU16STNaakUwTm1Zd1pUa2lMQW9nSUNBZ0lDQWliV1YwWVdSaGRHRWlJRG9nZXdvZ0lDQWdJQ0FnSUNKdGIyUmxiQ0lnT2lBaWMyeHBiU0lLSUNBZ0lDQWdmUW9nSUNBZ2ZRb2dJSDBLZlE9PSIsIlNpZ25hdHVyZSI6IkZ6Z1k2bFpONlBRMVhUWlBRb3F2RFVUTWc2dU04UTVnNkRNSmkyTGZ4cU9RS0dnY1YxZXhrQnhSSkRFemxQWmFmZy9hbkZzeGFvdlU2d29jVituYUhTcUxpbHRrSkFiVEVCeWczSUtYZlQzbVRoelZmVmNrWkRKMXhvMVNmc3BZbHc2MFAxNW9xdUo4b0U5S0xaREdUcjRWTDdyNHBzNTFkZjhReVZEWjc3MnFXNW1PSHp3VHVhckZvSDZ6Snl6L0RqRlRBUEJPS2VWNzkweXVHS0llUzY5SzhML2NWSGpSOGM1U3FFRHZWWWRqWE5IRWs5cTRxK0ZYMEZJbnh1dzFKa2pZT0lIWHJsWXdqMk9KcElBTWpIWEJiQ3loQ3JrWm5xN3VFSjQ2WEowMlNUaGpMNm96S1VoM3VlZGE3UmVLdFA3WXlwT1R5OTZGU2NmNytqZ1ByNk9sUy9mS0xOSG93QUJMZkMxbmI3aUtQV0VOVHhFOWwvRVg2UTBHS29Hek8wb3hEeEdrNllHazRYUWpmVGE5ZE9oMnY4SUJQVllheUdsa0hOYUVrTGdjcTd6OTRhODNYL05GcThrdzZvRCtuTmIrQ09oVlU3aER1ZDJlK2E3SWo3OVhkQTJvemlYL1BaRnE1dlFOYktUOXlBSFBvbWhDclBzemRiczVSZTM0a3BvOHo5M1VLUnJXdVBFV2IrcDFYeXI0a0I4TTV4a0psYVlPL0pJSi9DNS83L1M3UytTdk01RWc3S1MvS2pCZ25udDNoeVZ4ZERUVkNmVXM5ZHZMczl6dGJZblBvWTBsTDhCZGRHTjZEbmJWMUVqazFHekJHdTIrQWhSYklDUnk3L3Z4KzJFM1VydXJJUkpaczkxaFMyb1NaQVY2SnhoNVJJVHp6RGR3aHMwPSJ9XX0sImh5cGl4ZWxQb3B1bGF0ZWQiOiIxYiIsIk5hbWUiOiJoYW5uaWJhbDIifSwiZGlzcGxheSI6eyJOYW1lIjoiwqdkwqdywqdkUmlmdCBOZWNrbGFjZSIsIkxvcmUiOlsiwqc3UmlmdCBUaW1lOiDCp2ErMzgwcyIsIsKnN0hlYXJ0czogwqdjKzEiLCLCpzdSaWZ0IERhbWFnZTogwqc1KzEiLCLCpzdJbnRlbGxpZ2VuY2U6IMKnYisxMCIsIsKnN1NwZWVkOiDCp2YrNiIsIsKnN01hbmEgUmVnZW46IMKnYisyNSUiLCIiLCLCpzdUaGUgbW9zdCBwb3dlcmZ1bCBuZWNrbGFjZSBldmVyIiwiwqc3Y3JlYXRlZCBieSDCp2RFbGlzZSBEQ0NDTFhYWFZJScKnNy4iLCIiLCLCpzdCZWNvbWVzIG1vcmUgcG93ZXJmdWwgYXMgeW91IGZpbGwiLCLCpzd0aGUgwqdkUmlmdCBHYWxsZXJ5wqc3LiIsIsKnN1NlY3VyZWQ6IMKnYzgvOCBUaW1lY2hhcm1zIiwiIiwiwqc4wqdsKiDCpzhTb3VsYm91bmQgwqc4wqdsKiIsIsKnZMKnbE1ZVEhJQyBORUNLTEFDRSJdfSwiRXh0cmFBdHRyaWJ1dGVzIjp7InV1aWQiOiI0NTE4ZmI0Ny0xYjFjLTRjMGYtYWRkZC1lZGRmZTI1ZjcxMzIiLCJ0aW1lc3RhbXAiOiI2LzIwLzIzIDM6MzUgUE0iLCJpZCI6IlJJRlRfTkVDS0xBQ0VfSU5TSURFIn0sIm92ZXJyaWRlTWV0YSI6IjFiIn0sImludGVybmFsbmFtZSI6Il8ifQ\u003d\u003d",
@@ -18368,25 +18433,25 @@
                 "itemGoal": "?"
               }
             },
-            "currentPetUuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7",
+            "currentPetUuid": "c2911091-0dac-41fa-8876-b676c669b039",
             "stats": {
-              "health": 6371.25,
-              "defense": 601.38,
-              "strength": 1589.78,
-              "intelligence": 1460.03,
-              "magic_find": 167.0,
+              "health": 5502.0,
+              "defense": 635.49,
+              "strength": 921.1,
+              "intelligence": 543.65,
+              "magic_find": 180.0,
               "pet_luck": 107.0,
-              "fishing_speed": 76.5,
+              "fishing_speed": 101.5,
               "trophy_fish_chance": 24.0,
               "treasure_chance": 5.2,
               "heat_resistance": 31.0,
               "ferocity": 52.0,
-              "mining_speed": 3465.0,
+              "mining_speed": 3165.0,
               "mining_spread": 300.0,
               "pristine": 2.0,
               "mining_fortune": 598.0,
               "foraging_fortune": 1336.0,
-              "farming_fortune": 1470.0,
+              "farming_fortune": 1981.0,
               "health_regen": 309.5,
               "vitality": 156.0,
               "swing_range": 3.0,
@@ -18416,8 +18481,8 @@
               "social_wisdom": 26.0,
               "taming_wisdom": 36.5,
               "fear": 6.0,
-              "double_hook_chance": 3.0,
-              "bonus_pest_chance": 196.0,
+              "double_hook_chance": 0.0,
+              "bonus_pest_chance": 300.0,
               "respiration": 199.0,
               "hunter_fortune": 108.0,
               "fig_fortune": 385.0,
@@ -18458,9 +18523,9 @@
               }
             },
             "bits": {
-              "bits": 1528171,
+              "bits": 1527721,
               "bitsAvailable": 0,
-              "boosterCookieExpiryTime": 1791418391630,
+              "boosterCookieExpiryTime": 1791418422548,
               "museumMilestone": 34
             },
             "godPotExpiry": 1777832096126,
@@ -20064,7 +20129,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -21029,7 +21094,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -21885,7 +21950,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -22750,7 +22815,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -23847,7 +23912,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -24784,7 +24849,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -25716,7 +25781,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -26590,7 +26655,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -27397,7 +27462,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -28633,7 +28698,7 @@
               "informedAboutLowFuel": 0,
               "visitorInterval": 900000,
               "nextSixthVisitorArrival": 0,
-              "armorDropTracker": {
+              "rareCropTracker": {
                 "drops": {},
                 "migrated": false,
                 "sessionUptime": [
@@ -29753,8 +29818,8 @@
         ],
         "bazaar": {
           "taxRate": 1.0,
-          "coinsTowardsLimit": 1.3676481E7,
-          "lastAccessedDay": "2026-05-04"
+          "coinsTowardsLimit": 6189877.0,
+          "lastAccessedDay": "2026-05-15"
         },
         "winter": {
           "playersThatHaveBeenGifted": [],
@@ -30836,6 +30901,6 @@
     "reminders": {},
     "testRenderablePositions": {}
   },
-  "lastVersion": 132,
+  "lastVersion": 133,
   "lastMinecraftVersion": "1.21.11"
 }
