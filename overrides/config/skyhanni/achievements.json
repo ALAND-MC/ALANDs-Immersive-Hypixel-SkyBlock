@@ -152,8 +152,8 @@
     },
     "Magic Sigma": {
       "data": {
-        "achieved": false,
-        "progress": 1996
+        "achieved": true,
+        "progress": 2008
       }
     },
     "Recipe Unlocker": {
@@ -236,11 +236,65 @@
     },
     "minion hopper": {
       "data": {
+        "achieved": true,
+        "progress": 19029677
+      }
+    },
+    "100 grand arrows": {
+      "data": {
         "achieved": false,
         "progress": 0
       }
     },
-    "100 grand arrows": {
+    "Mote Collector": {
+      "data": {
+        "achieved": true,
+        "progress": 0
+      }
+    },
+    "Social Butterfly": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Romeros Hotbar": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Double Jawbus": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Spooky Double Points": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Weekly Cult": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Triple Heavy Pearl": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Hefty Items": {
+      "data": {
+        "achieved": true,
+        "progress": 0
+      }
+    },
+    "High Level Gamer": {
       "data": {
         "achieved": false,
         "progress": 0

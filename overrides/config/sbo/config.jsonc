@@ -27,16 +27,17 @@
         // Shows a title to guess normally when the arrow guess is inaccurate
         "showTitleWhenInaccurate": false,
         // If enabled, the arrow guess waypoints will not be cleared when changing worlds/lobby
-        "dontClearArrowGuess": true,
+        "dontClearArrowGuess": false,
         // Detects Diana burrows | to reset waypoints /sboclearburrows
         "dianaBurrowDetect": true,
         /*
          * Select the warps you want to be able to warp to with the guess and inquisitor warp keys.
-         * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, Museum
+         * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, MUSEUM
          */
         "allowedWarps": [
-            "WIZARD",
+            "STONKS",
             "DA",
+            "WIZARD",
             "CASTLE"
         ],
         // If enabled, the warp key will not warp you if you are within 60 blocks of a burrow
@@ -58,7 +59,7 @@
          * Hovering over some lines may display additional information
          * Valid Values: OFF, TOTAL, EVENT, SESSION
          */
-        "mobTracker": "OFF",
+        "mobTracker": "EVENT",
         /*
          * Shows your Diana loot, /sboguis to move the overlay
          * §bNOTE!: You can interact with the tracker in the inventory!!!§r
@@ -66,17 +67,17 @@
          * Hovering over some lines may display additional information
          * Valid Values: OFF, TOTAL, EVENT, SESSION
          */
-        "lootTracker": "OFF",
+        "lootTracker": "EVENT",
         // Hides any loot or mob lines that have not been tracked yet (value is 0) to reduce clutter in the overlays.
         "hideUnobtainedItems": true,
         // Combines the base item and the Loot Share (LS) variant into a single line. The individual LS count is shown on hover.
-        "combineLootLines": false,
+        "combineLootLines": true,
         // Shows stats like Mobs since Inquisitor, Inquisitors since Chimera, /sboguis to move the overlay
         "statsTracker": false,
         // Shows your highest magic find for sticks and chimeras (only after you dropped it once), /sboguis to move the overlay
         "magicFindTracker": false,
         // Set if you have a Four-Eyed Fish on your griffin pet
-        "fourEyedFish": false,
+        "fourEyedFish": true,
         // Sends the chat Message with stat: [SBO] Took 120 Mobs to get a Inquis!
         "sendSinceMessage": true,
         /*
@@ -87,40 +88,40 @@
         // Announces relic/shelmet/plushie/remedies in chat
         "lootAnnouncerChat": true,
         // Announces chimera/stick/relic on screen
-        "lootAnnouncerScreen": false,
+        "lootAnnouncerScreen": true,
         // Shows chimera/stick/relic price as a subtitle on screen
         "lootAnnouncerPrice": true,
         // Announces chimera/stick/relic and Shelmet/Plushie/Remedies (only when dropped from Inquisitor) in party chat
-        "lootAnnouncerParty": false,
+        "lootAnnouncerParty": true,
         // Enables custom chim message
-        "chimMessageBool": false,
+        "chimMessageBool": true,
         // use: {mf} for MagicFind, {amount} for drop Amount this event and {percentage} for chimera/inquis ratio.
         "customChimMessage": [
-            "&6[SBO] &6&lRARE DROP! &dChimera! &b+{mf} ✯ Magic Find &b#{amount}"
+            "&6&lRARE DROP! &d&lChimera! &b{mf} &b#{amount}"
         ],
         // Enables custom Manti-Core message (core/manti)
-        "coreMessageBool": false,
+        "coreMessageBool": true,
         // Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for core/manti ratio.
         "customCoreMessage": [
-            "&6[SBO] &6&lRARE DROP! &6Manti-Core! &b+{mf} ✯ Magic Find &b#{amount}"
+            "&6&lRARE DROP! &6Manti-Core! &b+{mf} ✯ Magic Find &b#{amount}"
         ],
         // Enables custom Fateful Stinger message (stinger/manti)
-        "stingerMessageBool": false,
+        "stingerMessageBool": true,
         // Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for stinger/manti ratio.
         "customStingerMessage": [
-            "&6[SBO] &6&lRARE DROP! &dFateful Stinger! &b+{mf} ✯ Magic Find &b#{amount}"
+            "&6&lRARE DROP! &dFateful Stinger! &b+{mf} ✯ Magic Find &b#{amount}"
         ],
         // Enables custom Brain Food message (food/sphinx)
-        "bfMessageBool": false,
+        "bfMessageBool": true,
         // Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for food/sphinx ratio.
         "customBfMessage": [
-            "&6[SBO] &6&lRARE DROP! &5Brain Food! &b+{mf} ✯ Magic Find &b#{amount}"
+            "&6&lRARE DROP! &5Brain Food! &b+{mf} ✯ Magic Find &b#{amount}"
         ],
         // Enables custom Shimmering Wool message (wool/king)
-        "woolMessageBool": false,
+        "woolMessageBool": true,
         // Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for wool/king ratio.
         "customWoolMessage": [
-            "&6[SBO] &6&lRARE DROP! &6Shimmering Wool! &b+{mf} ✯ Magic Find &b#{amount}"
+            "&6&lRARE DROP! &6Shimmering Wool! &b+{mf} ✯ Magic Find &b#{amount}"
         ],
         // Draws line for guess, Disable View Bobbing in controls if its buggy
         "guessLine": true,
@@ -144,7 +145,7 @@
          * Removes the rare mob waypoint beam when you are within this distance of it (0 to disable)
          * Range: 0 - 20
          */
-        "removeBeam": 8,
+        "removeBeam": 20,
         // Sends the coordinates of rare mobs(King, Manti, Sphinx, Inq)to your party
         "shareRareMob": true,
         /*
@@ -152,10 +153,9 @@
          * Valid Values: INQ, MANTICORE, KING, SPHINX
          */
         "ShareMobs": [
-            "INQ",
-            "MANTICORE",
             "KING",
-            "SPHINX"
+            "INQ",
+            "MANTICORE"
         ],
         // Create a waypoint when someone in your party shares a rare mob(King, Manti, Sphinx, Inq)
         "receiveRareMob": true,
@@ -165,11 +165,10 @@
          * Valid Values: INQ, MANTICORE, KING, SPHINX, OTHER
          */
         "ReceiveMobs": [
-            "INQ",
-            "MANTICORE",
             "KING",
-            "SPHINX",
-            "OTHER"
+            "INQ",
+            "OTHER",
+            "MANTICORE"
         ],
         // Highlights rare mobs(King, Manti, Sphinx, Inq) with a glowing effect
         "HighlightRareMobs": true,
@@ -218,7 +217,7 @@
             "SPHINX"
         ],
         // Displays HP of mythological mobs near you. /sboguis to move it
-        "mythosMobHp": true,
+        "mythosMobHp": false,
         // Helps you solve the sphinx riddle by showing you the answer choices in chat and it automatically clicks the correct one for you when you click anywehre while the chat is open.
         "sphinxSolver": true
     },
@@ -236,7 +235,7 @@
         // Sends your time in party chat (!time)
         "timeCommand": false,
         // Sends the server tps in party chat (!tps)
-        "tpsCommand": false,
+        "tpsCommand": true,
         // Enable Diana party commands (!chim, !inq, !relic, !stick, !since, !burrow, !mob) (note: you need to have Diana tracker enabled)
         "dianaPartyCommands": true
     },
@@ -284,7 +283,7 @@
         "rareMobVolume": 1.0,
         // Set the sound that plays when an Inquisitor Spawn. (enter filename)
         "inqSound": [
-            ""
+            "exporb"
         ],
         /*
          * Set the volume of the Inquisitor spawn sound
@@ -413,7 +412,7 @@
         // Auto invites players that send you a join request and meet the party requirements
         "autoInvite": true,
         // Automatically requeues the party after a member leaves
-        "autoRequeue": false,
+        "autoRequeue": true,
         /*
          * Change the size of the text
          * Range: -2 - 2

@@ -201,9 +201,9 @@
         "wasp"
       ],
       "auctionHistory": [
-        "armadillo",
-        "Giant\u0027s Sword",
-        "claymore"
+        "Judgement Core",
+        "kuudra",
+        "armadillo"
       ],
       "museumHistory": [
         "toolkit",
@@ -549,7 +549,7 @@
       "enableControlHelper": true,
       "enableTenacityHelper": true
     },
-    "extendNetherFog": false
+    "extendNetherFog": true
   },
   "mining": {
     "enableDrillFuel": false,

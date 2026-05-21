@@ -155,6 +155,7 @@
         ],
         "4": [
           "ARCHAEOLOGIST_COMPASS",
+          "FRESHLY_BAKED_RELIC",
           "CARNIVAL_MASK_BAG",
           "BIG_BRAIN_TALISMAN",
           "ORGAN_DONOR_RING"
@@ -189,13 +190,13 @@
         "PERSONAL_DELETOR_7000",
         "SCARF_GRIMOIRE",
         "VAMPIRE_DENTIST_RELIC",
-        "CHEETAH_TALISMAN",
+        "ARCHAEOLOGIST_COMPASS",
         "BEASTMASTER_CREST_LEGENDARY",
         "POWER_RELIC",
         "HELIANTHUS_RELIC",
-        "BLUERTOOTH_RING",
+        "CHEETAH_TALISMAN",
         "TWO_IQ_POINT",
-        "ARCHAEOLOGIST_COMPASS",
+        "BLUERTOOTH_RING",
         "PIGS_FOOT",
         "AGARIMOO_ARTIFACT",
         "KUUDRA_FOLLOWER_RELIC",
@@ -250,8 +251,8 @@
         "MASTER_SKULL_TIER_7",
         "GLOSSY_MINERAL_TALISMAN",
         "BITS_TALISMAN",
-        "POTATO_RING",
         "BIG_BRAIN_TALISMAN",
+        "POTATO_RING",
         "PIGGY_BANK",
         "VACCINE_ARTIFACT",
         "NETHER_ARTIFACT",
@@ -295,6 +296,15 @@
         "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
         "FIRE_TALISMAN"
       ]
+    ],
+    "e8f27baf-6f47-4b4c-bf14-faef322dd8f6": [
+      {
+        "1": [
+          "PERSONAL_DELETOR_4000",
+          "PERSONAL_COMPACTOR_5000"
+        ]
+      },
+      null
     ],
     "b4fc16cc-b939-4728-bdce-ac71e46c0c85": [
       {
