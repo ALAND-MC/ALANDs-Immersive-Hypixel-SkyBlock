@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "currentSlot": 4,
+        "currentSlot": 1,
         "slots": [
           {
             "id": 1,
@@ -47,7 +47,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+553 ",
+                          "text": "+593 ",
                           "color": "red"
                         },
                         {
@@ -568,7 +568,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+744 ",
+                          "text": "+784 ",
                           "color": "red"
                         },
                         {
@@ -1100,7 +1100,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+667 ",
+                          "text": "+707 ",
                           "color": "red"
                         },
                         {
@@ -1589,7 +1589,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+478 ",
+                          "text": "+518 ",
                           "color": "red"
                         },
                         {
@@ -2540,7 +2540,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "474,560,670",
+                          "text": "564,121,625",
                           "color": "gold"
                         }
                       ],
@@ -2719,7 +2719,7 @@
                     "anvil_uses": 1,
                     "timestamp": 1602429960000,
                     "hot_potato_count": 15,
-                    "collected_coins": 474560670,
+                    "collected_coins": 564121625,
                     "rarity_upgrades": 1,
                     "modifier": "ancient",
                     "uuid": "800f753f-03f0-4898-993a-4b4fdc28ff53",
@@ -2769,7 +2769,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+737 ",
+                          "text": "+777 ",
                           "color": "red"
                         },
                         {
@@ -3385,7 +3385,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+674 ",
+                          "text": "+714 ",
                           "color": "red"
                         },
                         {
@@ -4003,7 +4003,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+485 ",
+                          "text": "+525 ",
                           "color": "red"
                         },
                         {
@@ -4707,7 +4707,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -5240,7 +5240,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -5657,7 +5657,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -6073,7 +6073,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -10949,7 +10949,7 @@
                           "color": "dark_green"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "dark_green"
                         },
                         {
@@ -10957,7 +10957,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "dark_green"
                         },
                         {
@@ -11296,7 +11296,7 @@
                           "color": "dark_green"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "dark_green"
                         },
                         {
@@ -11304,7 +11304,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "dark_green"
                         },
                         {
@@ -11705,7 +11705,7 @@
                           "color": "dark_green"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "dark_green"
                         },
                         {
@@ -11713,7 +11713,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "dark_green"
                         },
                         {
@@ -12128,7 +12128,7 @@
                           "color": "dark_green"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "dark_green"
                         },
                         {
@@ -12136,7 +12136,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "dark_green"
                         },
                         {
@@ -12937,9 +12937,1961 @@
                   }
                 }
               },
-              {},
-              {},
-              {}
+              {
+                "id": "minecraft:chainmail_chestplate",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:enchantment_glint_override": true,
+                  "minecraft:unbreakable": {},
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Renowned Sorrow Chestplate",
+                        "color": "light_purple"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Health: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+160 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+60) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+10)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+65 ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "(+30) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+10)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "True Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+90 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+5)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Strength: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+12)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Damage: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Attack Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+15% ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+15%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Intelligence: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "(+12)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Health Regen: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+10",
+                          "color": "red"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Mining Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+95 ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(+45)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Mining Fortune: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+45 ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(+25)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+1 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+1)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "⸕",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "] ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "☘",
+                          "color": "green"
+                        },
+                        {
+                          "text": "] ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "❂",
+                          "color": "white"
+                        },
+                        {
+                          "text": "]",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Legion V",
+                          "color": "light_purple",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Increases all ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Combat ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "stats and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "✯",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "by ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "0.35% ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "per player within",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "30 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "blocks of you, up to ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "20 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "players.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Growth VI",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+90 ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "❤ Health",
+                          "color": "red"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Protection VI",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+25 ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "❈ Defense",
+                          "color": "green"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Rejuvenate V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+10❣ Health Regen",
+                          "color": "red"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "True Protection I",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5❂ True Defense",
+                          "color": "white"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "2-Piece Set Bonus: Mist Aura",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Hides the wearer in a guise of mist,",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "multiplying damage from ghosts by",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "0.6x",
+                          "color": "red"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Renowned Bonus",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Increases all ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Combat ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "stats and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "✯",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "by ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+1%",
+                          "color": "green"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        },
+                        "",
+                        {
+                          "text": "",
+                          "extra": [
+                            " "
+                          ],
+                          "bold": false,
+                          "italic": false,
+                          "underlined": false,
+                          "strikethrough": false,
+                          "obfuscated": false
+                        },
+                        {
+                          "text": "MYTHIC CHESTPLATE ",
+                          "color": "light_purple",
+                          "bold": true
+                        },
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "enchantments": {
+                      "true_protection": 1,
+                      "ultimate_legion": 5,
+                      "protection": 6,
+                      "rejuvenate": 5,
+                      "growth": 6
+                    },
+                    "timestamp": 1635856560000,
+                    "hot_potato_count": 15,
+                    "modifier": "renowned",
+                    "rarity_upgrades": 1,
+                    "gems": {
+                      "AMBER_0": "FINE",
+                      "UNIVERSAL_0_gem": "OPAL",
+                      "unlocked_slots": [
+                        "JADE_0",
+                        "UNIVERSAL_0"
+                      ],
+                      "JADE_0": "FINE",
+                      "UNIVERSAL_0": "FINE"
+                    },
+                    "uuid": "751a9394-9550-41d9-8f5a-f4750428f940",
+                    "donated_museum": 1,
+                    "id": "SORROW_CHESTPLATE",
+                    "originTag": "QUICK_CRAFTING"
+                  }
+                }
+              },
+              {
+                "id": "minecraft:chainmail_leggings",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:enchantment_glint_override": true,
+                  "minecraft:unbreakable": {},
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Renowned Sorrow Leggings",
+                        "color": "light_purple"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Health: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+85 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+10)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+30 ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "(+10)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "True Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+75 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+5)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Strength: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+12)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Damage: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Attack Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+15% ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+15%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Intelligence: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "(+12)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Health Regen: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+10",
+                          "color": "red"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Mining Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+95 ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(+45)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Mining Fortune: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+45 ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(+25)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+1 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+1)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "⸕",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "] ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "☘",
+                          "color": "green"
+                        },
+                        {
+                          "text": "] ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "❂",
+                          "color": "white"
+                        },
+                        {
+                          "text": "]",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Legion V",
+                          "color": "light_purple",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Increases all ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Combat ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "stats and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "✯",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "by ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "0.35% ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "per player within",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "30 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "blocks of you, up to ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "20 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "players.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Growth V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+75 ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "❤ Health",
+                          "color": "red"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Protection V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+20 ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "❈ Defense",
+                          "color": "green"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Rejuvenate V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+10❣ Health Regen",
+                          "color": "red"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "2-Piece Set Bonus: Mist Aura",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Hides the wearer in a guise of mist,",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "multiplying damage from ghosts by",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "0.6x",
+                          "color": "red"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Renowned Bonus",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Increases all ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Combat ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "stats and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "✯",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "by ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+1%",
+                          "color": "green"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        },
+                        "",
+                        {
+                          "text": "",
+                          "extra": [
+                            " "
+                          ],
+                          "bold": false,
+                          "italic": false,
+                          "underlined": false,
+                          "strikethrough": false,
+                          "obfuscated": false
+                        },
+                        {
+                          "text": "MYTHIC LEGGINGS ",
+                          "color": "light_purple",
+                          "bold": true
+                        },
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "enchantments": {
+                      "ultimate_legion": 5,
+                      "protection": 5,
+                      "rejuvenate": 5,
+                      "growth": 5
+                    },
+                    "timestamp": 1627833060000,
+                    "modifier": "renowned",
+                    "gems": {
+                      "AMBER_0": "FINE",
+                      "UNIVERSAL_0_gem": "OPAL",
+                      "JADE_0": "FINE",
+                      "UNIVERSAL_0": "FINE"
+                    },
+                    "rarity_upgrades": 1,
+                    "uuid": "87e0f0a3-a557-411b-baf2-4a6c3004a6a3",
+                    "donated_museum": 1,
+                    "id": "SORROW_LEGGINGS",
+                    "originTag": "QUICK_CRAFTING"
+                  }
+                }
+              },
+              {
+                "id": "minecraft:chainmail_boots",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:enchantment_glint_override": true,
+                  "minecraft:unbreakable": {},
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Renowned Sorrow Boots",
+                        "color": "light_purple"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Health: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+85 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+10)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+30 ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "(+10)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "True Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+45 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+5)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Strength: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+12)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Damage: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Attack Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+15% ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+15%)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Intelligence: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "(+12)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Mining Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+95 ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(+45)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Mining Fortune: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+45 ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(+25)",
+                          "color": "light_purple"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+7 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+1)",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "⸕",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "] ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "☘",
+                          "color": "green"
+                        },
+                        {
+                          "text": "] ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "[",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "❂",
+                          "color": "white"
+                        },
+                        {
+                          "text": "]",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Legion V",
+                          "color": "light_purple",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Depth Strider III",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Feather Falling V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Growth V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Protection V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Sugar Rush III",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "2-Piece Set Bonus: Mist Aura",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Hides the wearer in a guise of mist,",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "multiplying damage from ghosts by",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "0.6x",
+                          "color": "red"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Renowned Bonus",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Increases all ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Combat ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "stats and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "✯",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Magic Find ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "by ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+1%",
+                          "color": "green"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        },
+                        "",
+                        {
+                          "text": "",
+                          "extra": [
+                            " "
+                          ],
+                          "bold": false,
+                          "italic": false,
+                          "underlined": false,
+                          "strikethrough": false,
+                          "obfuscated": false
+                        },
+                        {
+                          "text": "MYTHIC BOOTS ",
+                          "color": "light_purple",
+                          "bold": true
+                        },
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "enchantments": {
+                      "sugar_rush": 3,
+                      "feather_falling": 5,
+                      "ultimate_legion": 5,
+                      "protection": 5,
+                      "depth_strider": 3,
+                      "growth": 5
+                    },
+                    "timestamp": 1625936100000,
+                    "modifier": "renowned",
+                    "gems": {
+                      "AMBER_0": "FINE",
+                      "UNIVERSAL_0_gem": "OPAL",
+                      "JADE_0": "FINE",
+                      "UNIVERSAL_0": "FINE"
+                    },
+                    "rarity_upgrades": 1,
+                    "uuid": "0e67329e-264c-40bf-bdf6-008164314057",
+                    "donated_museum": 1,
+                    "id": "SORROW_BOOTS",
+                    "originTag": "CRAFTING_GRID_SHIFT"
+                  }
+                }
+              }
             ],
             "locked": false
           },
@@ -12990,7 +14942,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+420 ",
+                          "text": "+460 ",
                           "color": "red"
                         },
                         {
@@ -13628,7 +15580,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+480 ",
+                          "text": "+520 ",
                           "color": "red"
                         },
                         {
@@ -14241,7 +16193,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+450 ",
+                          "text": "+490 ",
                           "color": "red"
                         },
                         {
@@ -14840,7 +16792,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+390 ",
+                          "text": "+430 ",
                           "color": "red"
                         },
                         {
@@ -15450,7 +17402,11 @@
                     "text": "",
                     "extra": [
                       {
-                        "text": "Abyssal Helmet",
+                        "text": "Submerged Frozen Blaze Helmet ",
+                        "color": "light_purple"
+                      },
+                      {
+                        "text": "✪✪✪✪✪",
                         "color": "gold"
                       }
                     ],
@@ -15461,12 +17417,38 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Gear Score: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "541 ",
+                          "color": "light_purple"
+                        },
+                        {
+                          "text": "(3100)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Health: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+205",
+                          "text": "+135 ",
                           "color": "red"
+                        },
+                        {
+                          "text": "(+60) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+850.5)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -15479,8 +17461,78 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+140",
+                          "text": "+165.5 ",
                           "color": "green"
+                        },
+                        {
+                          "text": "(+30) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+976.5)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Strength: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+44 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+252)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+18.6%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fishing Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "(+5) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+7.75)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -15493,8 +17545,34 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+2%",
+                          "text": "+1% ",
                           "color": "dark_aqua"
+                        },
+                        {
+                          "text": "(+1%) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+1.55%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2.2 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+12.6)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -15507,22 +17585,12 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+65",
+                          "text": "+45 ",
                           "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Pressure Resistance: ",
-                          "color": "gray"
                         },
                         {
-                          "text": "+25",
-                          "color": "blue"
+                          "text": "(+283.5)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -15539,8 +17607,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☂",
-                          "color": "dark_gray"
+                          "text": "❁",
+                          "color": "gray"
                         },
                         {
                           "text": "] ",
@@ -15551,8 +17619,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☘",
-                          "color": "dark_gray"
+                          "text": "⚔",
+                          "color": "gray"
                         },
                         {
                           "text": "]",
@@ -15569,67 +17637,13 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Aqua Affinity I",
+                          "text": "Aqua Affinity I, ",
                           "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
+                        },
                         {
-                          "text": "Increases your underwater mining",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "rate.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Growth V",
+                          "text": "Growth V, ",
                           "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
                         },
-                        {
-                          "text": "+75 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❤ Health",
-                          "color": "red"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
                         {
                           "text": "Protection V",
                           "color": "blue"
@@ -15641,29 +17655,11 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants ",
-                          "color": "gray"
+                          "text": "Respiration III, ",
+                          "color": "blue"
                         },
                         {
-                          "text": "+20 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❈ Defense",
-                          "color": "green"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Respiration IV",
+                          "text": "Thorns III",
                           "color": "blue"
                         }
                       ],
@@ -15671,79 +17667,13 @@
                     },
                     {
                       "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+60⚶ Respiration",
-                          "color": "dark_aqua"
-                        },
-                        {
-                          "text": ", which",
-                          "color": "gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
                       "text": "",
                       "extra": [
                         {
-                          "text": "increases the amount of time you",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "can stay under water.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Scuba V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
+                          "text": "Full Set Bonus: Frozen Blazing Aura ",
                           "color": "gold"
                         },
                         {
@@ -15757,7 +17687,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants the ability to breathe",
+                          "text": "Damages mobs in a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5",
+                          "color": "green"
+                        },
+                        {
+                          "text": " block range for",
                           "color": "gray"
                         }
                       ],
@@ -15771,19 +17709,67 @@
                           "color": "gray"
                         },
                         {
-                          "text": "permanently ",
-                          "color": "blue"
+                          "text": "300 ",
+                          "color": "green"
                         },
                         {
-                          "text": "while ",
+                          "text": "base damage + ",
                           "color": "gray"
                         },
                         {
-                          "text": "underwater",
-                          "color": "blue"
+                          "text": "3%",
+                          "color": "green"
                         },
                         {
-                          "text": ".",
+                          "text": " of their max",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❤ Health ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "every second and applies",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Slowness I ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "for ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "4 ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "seconds.",
                           "color": "gray"
                         }
                       ],
@@ -15797,8 +17783,16 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Deep Sea Diver (0/4)",
-                          "color": "dark_gray"
+                          "text": "Max ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5,000 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "damage/s",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -15807,16 +17801,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants ",
+                          "text": "Blaze Rod Collection: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+0⛃ Treasure Chance ",
+                          "text": "1.4M",
                           "color": "gold"
-                        },
-                        {
-                          "text": "while",
-                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -15825,36 +17815,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
+                          "text": "MAXED OUT!",
+                          "color": "green",
+                          "bold": true
                         }
                       ],
                       "italic": false
                     },
                     {
                       "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "This item can be reforged!",
-                          "color": "dark_gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
@@ -15881,9 +17850,33 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "LEGENDARY HELMET",
-                          "color": "gold",
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        },
+                        "",
+                        {
+                          "text": "",
+                          "extra": [
+                            " "
+                          ],
+                          "bold": false,
+                          "italic": false,
+                          "underlined": false,
+                          "strikethrough": false,
+                          "obfuscated": false
+                        },
+                        {
+                          "text": "MYTHIC DUNGEON HELMET ",
+                          "color": "light_purple",
                           "bold": true
+                        },
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
                         }
                       ],
                       "italic": false
@@ -15891,32 +17884,42 @@
                   ],
                   "minecraft:profile": {
                     "id": [
-                      -395626708,
-                      -442354742,
-                      -2059217390,
-                      1409774149
+                      92578789,
+                      -919651745,
+                      -1668006436,
+                      221759109
                     ],
                     "properties": [
                       {
                         "name": "textures",
-                        "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTgxNDIxMywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI5YzFmYjkyM2UzNjNiMDI5MjlkZTgyMDdjODAxM2VhM2M3ZTRiMzkzMzA0N2ZjOWNhMmJiMDhiOGRjMDcyNTQiCiAgICB9CiAgfQp9",
-                        "signature": "u8uxkdMDHKDNUIGb/AwTekTEooXy2znqzalhXN3MdreH85VqGn2pd73X/ObFHhNSiaOLzqH3cbu2JmcpKP4Qe0jrBMXCl+Q+KSLMP44baqL1GZw2/kMYLLjoO0DT59zLqQWFleQbhaAba1XKsACs5loc5FaedsdT5HTv1NAVGzxKKm4j3+Jq3wMLbF1NIhY8ucK//GnXNAySJ+Rw4gDhfRMG4wXPcwcLDxcME3FWio18Pw3ALkqPoye+EOMcxxjTzYbZ//75teeG49MAQgMBW108KnTnsDyTtTsRbGTjnnDVaGbCElbdRyjscwhFtiQVxYzQKxRIXeQNVIZGN5rbMez5NZ7y/WVY0WGAEoOxj1oNMwRCNAnLrovNhDiam19zYtGXIuAYYlyExYj9vbZqO4qxnqP/ckV0I09oWVaohgmveuMvdRSXTFu4yNIVYcJvsnvJ+aPY/PYKc9wT/UhR8xNgeYjdLMFh/QpHbQkHSPDP8ezBXWHRQn/LKfyLXPkh4IkKSL7zwA463kko2vo0Z8uZd4pBBP1LiIvpJyeiQGfkb2cvPucqxlfp1vIexB4DyhKCuauj0dNIjseyzkIz6ehznzw1gYFbXiF1Z6z7+jDHL6sxhdliRjuuJJkVQ5rUwuDWzdQoH3qz7rMFlNSwK9DubM+Zdt4v95xPuhJ+XQE="
+                        "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTA4NTAzNTkyNywKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDMxMGI1NWVlZDk1OGZlZThmZmFhZjcxODQ2NzE2N2RlYjFhN2M5MDQ2ZDY3YjI1ODg3YjU5NjkyNTYzNmJiIgogICAgfQogIH0KfQ==",
+                        "signature": "KHvJIxo/NPtM0oNctgr+UVMr6UHjhBABr+eSrgr2Ne7hAqvokzCRlShl0pD1Ok71LjtMx/S2tuAJ6vHi5YeQ8YoOM80vi7Ka8nLryp7Rnss/NJfk+5oXVxidUvt9oNX7wyv7sBK+e0Qxu3VNbVeGGYfLARt5s9iv0QageFvTN1uwTDnJwlRP6qa7p7pPCpq5zErvijo1nr5KlMj01uneF2GFGa0igrcLpXBvodHg42Sp9ab7TR39llXokpvDOwtwVTtjaHlMB3017xckPiDk4V2NzNWSAX4KCgpzGBSHhHgvxoid39JzkwRXn9qGPrIDk001UJDS4LWVqfgIMiiJW8QYmW9YTzcFM6rkfXeERTlLBovJHzIt+l5+jhTONn0Ux3KHk7mj+5rgWG3QAWAMV3FGFBEk4h5z1rgErH185zaeHbsj8y9A8GQJpJU6AaElGve6/f+2NH4Yq0WCZo0eLLQttfDH6u3tMAs7q1KA9FJPSilcYTPxVIS+j0j1AjgFdzUgXyYA3Ejy3kylGYS6WHel66HcXAJlJRxmzDNGad8sZFQGuYWjDvpb3IFtBVFgKHOLdQgsmRpq43L3Om/q/tjyjNYcWJhDpuSZPGvS6Dan3WDoK5H8GWh5mWsCtbQsAnrdJhUErSB1/gyvnXUuV8UhgT1wa+Nl9qjjLCmp75A="
                       }
                     ]
                   },
                   "minecraft:custom_data": {
                     "enchantments": {
+                      "thorns": 3,
                       "aqua_affinity": 1,
-                      "scuba": 5,
                       "protection": 5,
-                      "respiration": 4,
+                      "respiration": 3,
                       "growth": 5
                     },
-                    "timestamp": 1636015200000,
-                    "id": "ABYSSAL_HELMET",
-                    "uuid": "ad10ae9c-05c6-4f75-b7b6-5a7e146393bf",
-                    "originTag": "QUICK_CRAFTING",
-                    "donated_museum": 1
+                    "timestamp": 1636370520000,
+                    "hot_potato_count": 15,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
+                    "gems": {
+                      "unlocked_slots": [
+                        "COMBAT_0",
+                        "JASPER_0"
+                      ]
+                    },
+                    "uuid": "bd61819d-5499-49a1-adab-8fea1a81d86f",
+                    "donated_museum": 1,
+                    "id": "FROZEN_BLAZE_HELMET",
+                    "dungeon_item_level": 5,
+                    "originTag": "QUICK_CRAFTING"
                   }
                 }
               },
@@ -15940,13 +17943,16 @@
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
                       {
-                        "text": "Abyssal Chestplate",
+                        "text": "Submerged Frozen Blaze Chestplate ",
+                        "color": "light_purple"
+                      },
+                      {
+                        "text": "✪✪✪✪✪",
                         "color": "gold"
                       }
                     ],
@@ -15957,12 +17963,38 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Gear Score: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "705 ",
+                          "color": "light_purple"
+                        },
+                        {
+                          "text": "(4044)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Health: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+275",
+                          "text": "+135 ",
                           "color": "red"
+                        },
+                        {
+                          "text": "(+60) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+850.5)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -15975,8 +18007,78 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+220",
+                          "text": "+248 ",
                           "color": "green"
+                        },
+                        {
+                          "text": "(+30) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+1,449)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Strength: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+44 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+252)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+18.6%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fishing Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "(+5) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+7.75)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -15989,36 +18091,34 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+2%",
+                          "text": "+1% ",
                           "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Respiration: ",
-                          "color": "gray"
                         },
                         {
-                          "text": "+5",
-                          "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Pressure Resistance: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+25",
+                          "text": "(+1%) ",
                           "color": "blue"
+                        },
+                        {
+                          "text": "(+1.55%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2.2 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+12.6)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -16035,8 +18135,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☂",
-                          "color": "dark_gray"
+                          "text": "❁",
+                          "color": "gray"
                         },
                         {
                           "text": "] ",
@@ -16047,8 +18147,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☘",
-                          "color": "dark_gray"
+                          "text": "⚔",
+                          "color": "gray"
                         },
                         {
                           "text": "]",
@@ -16065,7 +18165,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Growth V",
+                          "text": "Growth V, ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Protection V, ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Thorns III",
                           "color": "blue"
                         }
                       ],
@@ -16073,95 +18181,13 @@
                     },
                     {
                       "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+75 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❤ Health",
-                          "color": "red"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
                       "text": "",
                       "extra": [
                         {
-                          "text": "Protection V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+20 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❈ Defense",
-                          "color": "green"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Scuba V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
+                          "text": "Full Set Bonus: Frozen Blazing Aura ",
                           "color": "gold"
                         },
                         {
@@ -16175,7 +18201,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants the ability to breathe",
+                          "text": "Damages mobs in a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5",
+                          "color": "green"
+                        },
+                        {
+                          "text": " block range for",
                           "color": "gray"
                         }
                       ],
@@ -16189,19 +18223,67 @@
                           "color": "gray"
                         },
                         {
-                          "text": "permanently ",
-                          "color": "blue"
+                          "text": "300 ",
+                          "color": "green"
                         },
                         {
-                          "text": "while ",
+                          "text": "base damage + ",
                           "color": "gray"
                         },
                         {
-                          "text": "underwater",
-                          "color": "blue"
+                          "text": "3%",
+                          "color": "green"
                         },
                         {
-                          "text": ".",
+                          "text": " of their max",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❤ Health ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "every second and applies",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Slowness I ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "for ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "4 ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "seconds.",
                           "color": "gray"
                         }
                       ],
@@ -16215,8 +18297,16 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Deep Sea Diver (0/4)",
-                          "color": "dark_gray"
+                          "text": "Max ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5,000 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "damage/s",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -16225,16 +18315,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants ",
+                          "text": "Blaze Rod Collection: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+0⛃ Treasure Chance ",
+                          "text": "1.4M",
                           "color": "gold"
-                        },
-                        {
-                          "text": "while",
-                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -16243,36 +18329,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
+                          "text": "MAXED OUT!",
+                          "color": "green",
+                          "bold": true
                         }
                       ],
                       "italic": false
                     },
                     {
                       "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "This item can be reforged!",
-                          "color": "dark_gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
@@ -16299,9 +18364,33 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "LEGENDARY CHESTPLATE",
-                          "color": "gold",
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        },
+                        "",
+                        {
+                          "text": "",
+                          "extra": [
+                            " "
+                          ],
+                          "bold": false,
+                          "italic": false,
+                          "underlined": false,
+                          "strikethrough": false,
+                          "obfuscated": false
+                        },
+                        {
+                          "text": "MYTHIC DUNGEON CHESTPLATE ",
+                          "color": "light_purple",
                           "bold": true
+                        },
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
                         }
                       ],
                       "italic": false
@@ -16309,17 +18398,27 @@
                   ],
                   "minecraft:custom_data": {
                     "enchantments": {
-                      "scuba": 5,
                       "protection": 5,
+                      "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1636015200000,
-                    "id": "ABYSSAL_CHESTPLATE",
-                    "uuid": "40622eb1-ca45-495d-aee2-fcf00446bbf7",
-                    "originTag": "QUICK_CRAFTING",
-                    "donated_museum": 1
+                    "timestamp": 1633621860000,
+                    "hot_potato_count": 15,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
+                    "gems": {
+                      "unlocked_slots": [
+                        "COMBAT_0",
+                        "JASPER_0"
+                      ]
+                    },
+                    "uuid": "0878a40a-d376-48a0-acdb-9883bd7308c1",
+                    "donated_museum": 1,
+                    "id": "FROZEN_BLAZE_CHESTPLATE",
+                    "dungeon_item_level": 5,
+                    "originTag": "QUICK_CRAFTING"
                   },
-                  "minecraft:dyed_color": 943725
+                  "minecraft:dyed_color": 10541807
                 }
               },
               {
@@ -16342,13 +18441,16 @@
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
                       {
-                        "text": "Abyssal Leggings",
+                        "text": "Submerged Frozen Blaze Leggings ",
+                        "color": "light_purple"
+                      },
+                      {
+                        "text": "✪✪✪✪✪",
                         "color": "gold"
                       }
                     ],
@@ -16359,12 +18461,38 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Gear Score: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "617 ",
+                          "color": "light_purple"
+                        },
+                        {
+                          "text": "(3540)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Health: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+225",
+                          "text": "+135 ",
                           "color": "red"
+                        },
+                        {
+                          "text": "(+60) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+850.5)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -16377,8 +18505,78 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+190",
+                          "text": "+204 ",
                           "color": "green"
+                        },
+                        {
+                          "text": "(+30) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+1,197)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Strength: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+44 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+252)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+18.6%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fishing Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "(+5) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+7.75)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -16391,36 +18589,34 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+2%",
+                          "text": "+1% ",
                           "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Respiration: ",
-                          "color": "gray"
                         },
                         {
-                          "text": "+5",
-                          "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Pressure Resistance: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+25",
+                          "text": "(+1%) ",
                           "color": "blue"
+                        },
+                        {
+                          "text": "(+1.55%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2.2 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+12.6)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -16437,8 +18633,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☂",
-                          "color": "dark_gray"
+                          "text": "❁",
+                          "color": "gray"
                         },
                         {
                           "text": "] ",
@@ -16449,8 +18645,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☘",
-                          "color": "dark_gray"
+                          "text": "⚔",
+                          "color": "gray"
                         },
                         {
                           "text": "]",
@@ -16467,7 +18663,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Growth V",
+                          "text": "Growth V, ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Protection V, ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Thorns III",
                           "color": "blue"
                         }
                       ],
@@ -16475,95 +18679,13 @@
                     },
                     {
                       "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+75 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❤ Health",
-                          "color": "red"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
                       "text": "",
                       "extra": [
                         {
-                          "text": "Protection V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+20 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❈ Defense",
-                          "color": "green"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Scuba V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
+                          "text": "Full Set Bonus: Frozen Blazing Aura ",
                           "color": "gold"
                         },
                         {
@@ -16577,7 +18699,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants the ability to breathe",
+                          "text": "Damages mobs in a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5",
+                          "color": "green"
+                        },
+                        {
+                          "text": " block range for",
                           "color": "gray"
                         }
                       ],
@@ -16591,19 +18721,67 @@
                           "color": "gray"
                         },
                         {
-                          "text": "permanently ",
-                          "color": "blue"
+                          "text": "300 ",
+                          "color": "green"
                         },
                         {
-                          "text": "while ",
+                          "text": "base damage + ",
                           "color": "gray"
                         },
                         {
-                          "text": "underwater",
-                          "color": "blue"
+                          "text": "3%",
+                          "color": "green"
                         },
                         {
-                          "text": ".",
+                          "text": " of their max",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❤ Health ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "every second and applies",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Slowness I ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "for ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "4 ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "seconds.",
                           "color": "gray"
                         }
                       ],
@@ -16617,8 +18795,16 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Deep Sea Diver (0/4)",
-                          "color": "dark_gray"
+                          "text": "Max ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5,000 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "damage/s",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -16627,16 +18813,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants ",
+                          "text": "Blaze Rod Collection: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+0⛃ Treasure Chance ",
+                          "text": "1.4M",
                           "color": "gold"
-                        },
-                        {
-                          "text": "while",
-                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -16645,36 +18827,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
+                          "text": "MAXED OUT!",
+                          "color": "green",
+                          "bold": true
                         }
                       ],
                       "italic": false
                     },
                     {
                       "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "This item can be reforged!",
-                          "color": "dark_gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
@@ -16701,9 +18862,33 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "LEGENDARY LEGGINGS",
-                          "color": "gold",
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        },
+                        "",
+                        {
+                          "text": "",
+                          "extra": [
+                            " "
+                          ],
+                          "bold": false,
+                          "italic": false,
+                          "underlined": false,
+                          "strikethrough": false,
+                          "obfuscated": false
+                        },
+                        {
+                          "text": "MYTHIC DUNGEON LEGGINGS ",
+                          "color": "light_purple",
                           "bold": true
+                        },
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
                         }
                       ],
                       "italic": false
@@ -16711,17 +18896,27 @@
                   ],
                   "minecraft:custom_data": {
                     "enchantments": {
-                      "scuba": 5,
                       "protection": 5,
+                      "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1636015200000,
-                    "id": "ABYSSAL_LEGGINGS",
-                    "uuid": "b4c2380c-e077-4ae1-8ab2-d0512274d719",
-                    "originTag": "QUICK_CRAFTING",
-                    "donated_museum": 1
+                    "timestamp": 1636370520000,
+                    "hot_potato_count": 15,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
+                    "gems": {
+                      "unlocked_slots": [
+                        "COMBAT_0",
+                        "JASPER_0"
+                      ]
+                    },
+                    "uuid": "340c6dd1-7940-424e-9914-d4afe47ffde4",
+                    "donated_museum": 1,
+                    "id": "FROZEN_BLAZE_LEGGINGS",
+                    "dungeon_item_level": 5,
+                    "originTag": "QUICK_CRAFTING"
                   },
-                  "minecraft:dyed_color": 943725
+                  "minecraft:dyed_color": 10541807
                 }
               },
               {
@@ -16744,13 +18939,16 @@
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
                       {
-                        "text": "Abyssal Boots",
+                        "text": "Submerged Frozen Blaze Boots ",
+                        "color": "light_purple"
+                      },
+                      {
+                        "text": "✪✪✪✪✪",
                         "color": "gold"
                       }
                     ],
@@ -16761,12 +18959,38 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Gear Score: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "530 ",
+                          "color": "light_purple"
+                        },
+                        {
+                          "text": "(2984)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Health: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+195",
+                          "text": "+135 ",
                           "color": "red"
+                        },
+                        {
+                          "text": "(+60) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+850.5)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -16779,8 +19003,78 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+130",
+                          "text": "+154.5 ",
                           "color": "green"
+                        },
+                        {
+                          "text": "(+30) ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "(+913.5)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Strength: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+44 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "(+252)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+12% ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+12%) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+18.6%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fishing Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5 ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "(+5) ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "(+7.75)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -16793,36 +19087,34 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+2%",
+                          "text": "+1% ",
                           "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Respiration: ",
-                          "color": "gray"
                         },
                         {
-                          "text": "+5",
-                          "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Pressure Resistance: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+25",
+                          "text": "(+1%) ",
                           "color": "blue"
+                        },
+                        {
+                          "text": "(+1.55%)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Speed: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2.2 ",
+                          "color": "white"
+                        },
+                        {
+                          "text": "(+12.6)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -16839,8 +19131,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☂",
-                          "color": "dark_gray"
+                          "text": "❁",
+                          "color": "gray"
                         },
                         {
                           "text": "] ",
@@ -16851,8 +19143,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "☘",
-                          "color": "dark_gray"
+                          "text": "⚔",
+                          "color": "gray"
                         },
                         {
                           "text": "]",
@@ -16869,99 +19161,13 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Depth Strider III",
+                          "text": "Depth Strider III, ",
                           "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Reduces how much you are slowed in",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "the water by ",
-                          "color": "gray"
                         },
                         {
-                          "text": "100%",
-                          "color": "green"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Feather Falling V",
+                          "text": "Feather Falling V, ",
                           "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Increases how high you can fall",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "before taking fall damage by ",
-                          "color": "gray"
                         },
-                        {
-                          "text": "5",
-                          "color": "green"
-                        },
-                        {
-                          "text": " and",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "reduces fall damage by ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "25%",
-                          "color": "green"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
                         {
                           "text": "Growth V",
                           "color": "blue"
@@ -16973,29 +19179,11 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants ",
-                          "color": "gray"
+                          "text": "Protection V, ",
+                          "color": "blue"
                         },
                         {
-                          "text": "+75 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❤ Health",
-                          "color": "red"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Protection V",
+                          "text": "Thorns III",
                           "color": "blue"
                         }
                       ],
@@ -17003,63 +19191,13 @@
                     },
                     {
                       "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+20 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "❈ Defense",
-                          "color": "green"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
                       "text": "",
                       "extra": [
                         {
-                          "text": "Scuba V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
+                          "text": "Full Set Bonus: Frozen Blazing Aura ",
                           "color": "gold"
                         },
                         {
@@ -17073,7 +19211,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants the ability to breathe",
+                          "text": "Damages mobs in a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5",
+                          "color": "green"
+                        },
+                        {
+                          "text": " block range for",
                           "color": "gray"
                         }
                       ],
@@ -17087,19 +19233,67 @@
                           "color": "gray"
                         },
                         {
-                          "text": "permanently ",
-                          "color": "blue"
+                          "text": "300 ",
+                          "color": "green"
                         },
                         {
-                          "text": "while ",
+                          "text": "base damage + ",
                           "color": "gray"
                         },
                         {
-                          "text": "underwater",
-                          "color": "blue"
+                          "text": "3%",
+                          "color": "green"
                         },
                         {
-                          "text": ".",
+                          "text": " of their max",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❤ Health ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "every second and applies",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Slowness I ",
+                          "color": "aqua"
+                        },
+                        {
+                          "text": "for ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "4 ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "seconds.",
                           "color": "gray"
                         }
                       ],
@@ -17113,8 +19307,16 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Deep Sea Diver (0/4)",
-                          "color": "dark_gray"
+                          "text": "Max ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "5,000 ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "damage/s",
+                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -17123,16 +19325,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Grants ",
+                          "text": "Blaze Rod Collection: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+0⛃ Treasure Chance ",
+                          "text": "1.4M",
                           "color": "gold"
-                        },
-                        {
-                          "text": "while",
-                          "color": "gray"
                         }
                       ],
                       "italic": false
@@ -17141,36 +19339,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
+                          "text": "MAXED OUT!",
+                          "color": "green",
+                          "bold": true
                         }
                       ],
                       "italic": false
                     },
                     {
                       "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "This item can be reforged!",
-                          "color": "dark_gray"
-                        }
-                      ],
                       "italic": false
                     },
                     {
@@ -17197,9 +19374,33 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "LEGENDARY BOOTS",
-                          "color": "gold",
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
+                        },
+                        "",
+                        {
+                          "text": "",
+                          "extra": [
+                            " "
+                          ],
+                          "bold": false,
+                          "italic": false,
+                          "underlined": false,
+                          "strikethrough": false,
+                          "obfuscated": false
+                        },
+                        {
+                          "text": "MYTHIC DUNGEON BOOTS ",
+                          "color": "light_purple",
                           "bold": true
+                        },
+                        {
+                          "text": "a",
+                          "color": "light_purple",
+                          "bold": true,
+                          "obfuscated": true
                         }
                       ],
                       "italic": false
@@ -17208,18 +19409,28 @@
                   "minecraft:custom_data": {
                     "enchantments": {
                       "feather_falling": 5,
-                      "scuba": 5,
+                      "thorns": 3,
                       "protection": 5,
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "timestamp": 1636015200000,
-                    "id": "ABYSSAL_BOOTS",
-                    "uuid": "170359a9-b15e-4cd2-9e79-c6fcec4a02fc",
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "donated_museum": 1
+                    "timestamp": 1636288740000,
+                    "hot_potato_count": 15,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
+                    "gems": {
+                      "unlocked_slots": [
+                        "JASPER_0",
+                        "COMBAT_0"
+                      ]
+                    },
+                    "uuid": "54271ba8-066e-4076-a908-259d3df6480f",
+                    "donated_museum": 1,
+                    "id": "FROZEN_BLAZE_BOOTS",
+                    "dungeon_item_level": 5,
+                    "originTag": "CRAFTING_GRID_COLLECT"
                   },
-                  "minecraft:dyed_color": 943725
+                  "minecraft:dyed_color": 10541807
                 }
               }
             ],

@@ -197,6 +197,11 @@
           "owned": 2,
           "syphoned": 0,
           "rarity": "COMMON"
+        },
+        "attribute:r32": {
+          "owned": 2,
+          "syphoned": 0,
+          "rarity": "RARE"
         }
       }
     }

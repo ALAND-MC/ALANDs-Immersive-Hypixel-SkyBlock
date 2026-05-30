@@ -2343,6 +2343,35 @@
         "nightTopY": 9.0,
         "nightRadius": 30.0
       }
+    },
+    "hypixel:atoll": {
+      "enabled": true,
+      "fogColor": 16347881,
+      "skyColor": 13801210,
+      "cloudColor": 16777215,
+      "nightFogColor": 2687784,
+      "intensity": 1.0,
+      "fogDensity": 1.0,
+      "startDistance": 2.0,
+      "endDistance": 150.0,
+      "nightStartDistance": 2.0,
+      "nightEndDistance": 120.0,
+      "nightFogDensity": 1.0,
+      "haze": {
+        "enabled": true,
+        "color": 16736508,
+        "nightColor": 1050125,
+        "strength": 2.0,
+        "bottomY": -64.0,
+        "middleY": -5.0,
+        "topY": 9.0,
+        "radius": 30.0,
+        "nightStrength": 2.0,
+        "nightBottomY": -64.0,
+        "nightMiddleY": -5.0,
+        "nightTopY": 9.0,
+        "nightRadius": 30.0
+      }
     }
   }
 }
