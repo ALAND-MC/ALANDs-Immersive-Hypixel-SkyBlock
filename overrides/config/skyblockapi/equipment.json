@@ -10,15 +10,16 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
@@ -58,16 +59,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Farming Fortune: ",
+                      "text": "Vitality: ",
                       "color": "gray"
                     },
                     {
-                      "text": "+59.25 ",
-                      "color": "gold"
-                    },
-                    {
-                      "text": "(+18)",
-                      "color": "blue"
+                      "text": "+4",
+                      "color": "dark_red"
                     }
                   ],
                   "italic": false
@@ -76,12 +73,16 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Taming Wisdom: ",
+                      "text": "Farming Fortune: ",
                       "color": "gray"
                     },
                     {
-                      "text": "+2",
-                      "color": "dark_aqua"
+                      "text": "+59.5 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+18)",
+                      "color": "blue"
                     }
                   ],
                   "italic": false
@@ -283,7 +284,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,091",
+                      "text": "11,118",
                       "color": "red"
                     }
                   ],
@@ -365,13 +366,13 @@
                 ]
               },
               "minecraft:custom_data": {
+                "timestamp": 1676405220000,
                 "enchantments": {
                   "quantum": 5,
                   "green_thumb": 5
                 },
-                "timestamp": 1676405220000,
-                "modifier": "rooted",
                 "uuid": "731e73c7-e6d4-4e3b-82f3-b1755649ad36",
+                "modifier": "rooted",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_NECKLACE"
@@ -384,15 +385,16 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
@@ -436,7 +438,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+59.25 ",
+                      "text": "+59.5 ",
                       "color": "gold"
                     },
                     {
@@ -579,7 +581,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,091",
+                      "text": "11,118",
                       "color": "red"
                     }
                   ],
@@ -661,12 +663,12 @@
                 ]
               },
               "minecraft:custom_data": {
+                "timestamp": 1676405400000,
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "timestamp": 1676405400000,
-                "modifier": "rooted",
                 "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
+                "modifier": "rooted",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_CLOAK"
@@ -679,15 +681,16 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
@@ -731,7 +734,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+59.25 ",
+                      "text": "+59.5 ",
                       "color": "gold"
                     },
                     {
@@ -874,7 +877,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,091",
+                      "text": "11,118",
                       "color": "red"
                     }
                   ],
@@ -956,12 +959,12 @@
                 ]
               },
               "minecraft:custom_data": {
+                "timestamp": 1676405280000,
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "timestamp": 1676405280000,
-                "modifier": "rooted",
                 "uuid": "12322eaf-55f0-4266-9209-d866fd46cd0b",
+                "modifier": "rooted",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_BELT"
@@ -974,15 +977,16 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
@@ -1026,7 +1030,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+59.25 ",
+                      "text": "+59.5 ",
                       "color": "gold"
                     },
                     {
@@ -1169,7 +1173,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,091",
+                      "text": "11,118",
                       "color": "red"
                     }
                   ],
@@ -1251,12 +1255,12 @@
                 ]
               },
               "minecraft:custom_data": {
+                "timestamp": 1676404560000,
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "timestamp": 1676404560000,
-                "modifier": "rooted",
                 "uuid": "2c8ae7e6-f42d-45ae-b9f5-1a0b7eb28a21",
+                "modifier": "rooted",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_BRACELET"
@@ -1271,232 +1275,43 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "light_purple"
-                  },
-                  {
-                    "text": "Rift Necklace",
-                    "color": "light_purple"
-                  }
-                ],
+                "text": "Rift Necklace",
+                "color": "light_purple",
                 "italic": false
               },
               "minecraft:lore": [
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Rift Time: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+380s",
-                      "color": "green"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Hearts: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+1",
-                      "color": "red"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Rift Damage: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+1",
-                      "color": "dark_purple"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Intelligence: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+10",
-                      "color": "aqua"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Speed: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+6",
-                      "color": "white"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Mana Regen: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+25%",
-                      "color": "aqua"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "The most powerful necklace ever",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "created by ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "Elise DCLXX",
-                      "color": "light_purple"
-                    },
-                    {
-                      "text": ".",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Becomes more powerful as you fill",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "the ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "Rift Gallery",
-                      "color": "light_purple"
-                    },
-                    {
-                      "text": ".",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Secured: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "8/8 Timecharms",
-                      "color": "red"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "* ",
-                      "color": "dark_gray",
-                      "bold": true
-                    },
-                    {
-                      "text": "Soulbound ",
-                      "color": "dark_gray"
-                    },
-                    {
-                      "text": "*",
-                      "color": "dark_gray",
-                      "bold": true
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "MYTHIC NECKLACE",
-                      "color": "light_purple",
-                      "bold": true
-                    }
-                  ],
-                  "italic": false
-                }
+                "§7Rift Time: §a+380s",
+                "§7Hearts: §c+1",
+                "§7Rift Damage: §5+1",
+                "§7Intelligence: §b+10",
+                "§7Speed: §f+6",
+                "§7Mana Regen: §b+25%",
+                "",
+                "§7The most powerful necklace ever",
+                "§7created by §dElise CMXX§7.",
+                "",
+                "§7Becomes more powerful as you fill",
+                "§7the §dRift Gallery§7.",
+                "§7Secured: §c8/8 Timecharms",
+                "",
+                "§8§l* §8Soulbound §l*",
+                "§d§lMYTHIC NECKLACE"
               ],
               "minecraft:profile": {
                 "id": [
@@ -1526,162 +1341,38 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Enigma Cloak",
-                    "color": "dark_purple"
-                  }
-                ],
+                "text": "Enigma Cloak",
+                "color": "dark_purple",
                 "italic": false
               },
               "minecraft:lore": [
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Find ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "Enigma Souls ",
-                      "color": "dark_purple"
-                    },
-                    {
-                      "text": "across the Rift",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Dimension.",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Each adds ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+",
-                      "color": "green"
-                    },
-                    {
-                      "text": "20ф Rift Time ",
-                      "color": "green"
-                    },
-                    {
-                      "text": "to this item.",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Every ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "4 Souls",
-                      "color": "dark_purple"
-                    },
-                    {
-                      "text": ", go back to ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "Enigma ",
-                      "color": "dark_purple"
-                    },
-                    {
-                      "text": "for",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "more upgrades.",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "You found: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "52",
-                      "color": "light_purple"
-                    },
-                    {
-                      "text": "/52 Souls",
-                      "color": "dark_purple"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "EPIC CLOAK",
-                      "color": "dark_purple",
-                      "bold": true
-                    }
-                  ],
-                  "italic": false
-                }
+                "§7Find §5Enigma Souls §7across the Rift",
+                "§7Dimension.",
+                "",
+                "§7Each adds §a+20ф Rift Time §7to this item.",
+                "",
+                "§7Every §54 Souls§7, go back to §5Enigma §7for",
+                "§7more upgrades.",
+                "",
+                "§7You found: §d52§5/52 Souls",
+                "",
+                "§5§lEPIC CLOAK"
               ],
               "minecraft:profile": {
                 "id": [
@@ -1711,186 +1402,39 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Golden Belt",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Golden Belt",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Rift Time: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+100s",
-                      "color": "green"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Intelligence: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+10",
-                      "color": "aqua"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Speed: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+4",
-                      "color": "white"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Ability: Gravity Falls ",
-                      "color": "gold"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Increases your total ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "ф Rift Time ",
-                      "color": "green"
-                    },
-                    {
-                      "text": "by",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "5%",
-                      "color": "green"
-                    },
-                    {
-                      "text": " but it goes down ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "3% ",
-                      "color": "red"
-                    },
-                    {
-                      "text": "faster.",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Monster melee attacks reduce ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "1 ",
-                      "color": "green"
-                    },
-                    {
-                      "text": "less",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "ф Rift Time",
-                      "color": "green"
-                    },
-                    {
-                      "text": ".",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "LEGENDARY BELT",
-                      "color": "gold",
-                      "bold": true
-                    }
-                  ],
-                  "italic": false
-                }
+                "§7Rift Time: §a+100s",
+                "§7Intelligence: §b+10",
+                "§7Speed: §f+4",
+                "",
+                "§6Ability: Gravity Falls ",
+                "§7Increases your total §aф Rift Time §7by",
+                "§a5%§7 but it goes down §c3% §7faster.",
+                "",
+                "§7Monster melee attacks reduce §a1 §7less",
+                "§aф Rift Time§7.",
+                "",
+                "§6§lLEGENDARY BELT"
               ],
               "minecraft:profile": {
                 "id": [
@@ -1920,110 +1464,34 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
-                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
-                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
+                  "minecraft:trim",
+                  "minecraft:charged_projectiles",
+                  "minecraft:jukebox_playable",
+                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
-                  "minecraft:trim",
                   "minecraft:potion_contents",
                   "minecraft:block_entity_data",
                   "minecraft:dyed_color"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Shen's Ringalia",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Shen's Ringalia",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Rift Time: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+50s",
-                      "color": "green"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "No matter the place or when, anyone",
-                      "color": "gray",
-                      "italic": true
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "marked by Shen will gain control.",
-                      "color": "gray",
-                      "italic": true
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "* ",
-                      "color": "dark_gray",
-                      "bold": true
-                    },
-                    {
-                      "text": "Soulbound ",
-                      "color": "dark_gray"
-                    },
-                    {
-                      "text": "*",
-                      "color": "dark_gray",
-                      "bold": true
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "LEGENDARY BRACELET",
-                      "color": "gold",
-                      "bold": true
-                    }
-                  ],
-                  "italic": false
-                }
+                "§7Rift Time: §a+50s",
+                "",
+                "§7§oNo matter the place or when, anyone",
+                "§7§omarked by Shen will gain control.",
+                "",
+                "§8§l* §8Soulbound §l*",
+                "§6§lLEGENDARY BRACELET"
               ],
               "minecraft:profile": {
                 "id": [

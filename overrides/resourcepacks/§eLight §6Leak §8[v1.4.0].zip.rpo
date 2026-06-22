@@ -4,7 +4,7 @@
     },
     compatibility: {
         environment: {
-            customLavaLakes: true,
+            customLavaLakes: false,
             customNetherPortals: true
         },
         blocks: {

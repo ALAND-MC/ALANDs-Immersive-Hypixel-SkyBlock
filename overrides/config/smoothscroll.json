@@ -18,7 +18,9 @@
     "Suggestion Speed": 30.0
   },
   "Creative Screen": {
-    "Smoothness": 50.0
+    "Smoothness": 50.0,
+    "Speed": 30.0,
+    "RP Compatibility Mode": false
   },
   "Entry List": {
     "Smoothness": 50.0,
@@ -33,5 +35,5 @@
   "Misc": {
     "Enable mask debug": false
   },
-  "Format": 2.6
+  "Format": 2.7
 }
