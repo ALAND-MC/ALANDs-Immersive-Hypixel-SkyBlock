@@ -43,7 +43,7 @@
 		"soundEvent": "minecraft:block.note_block.hat",
 		"shouldPlay": true,
 		"pitch": 1.6,
-		"volume": 0.4
+		"volume": 0.1
 	},
 	"ignoreEmptyInventorySlots": false,
 	"itemDropSoundEffect": {
