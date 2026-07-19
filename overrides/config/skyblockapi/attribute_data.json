@@ -59,7 +59,7 @@
           "rarity": "COMMON"
         },
         "attribute:c10": {
-          "owned": 4,
+          "owned": 6,
           "syphoned": 96,
           "rarity": "COMMON"
         },
@@ -124,7 +124,7 @@
           "rarity": "UNCOMMON"
         },
         "attribute:c4": {
-          "owned": 15,
+          "owned": 20,
           "syphoned": 96,
           "rarity": "COMMON"
         },
@@ -169,7 +169,7 @@
           "rarity": "RARE"
         },
         "attribute:c7": {
-          "owned": 23,
+          "owned": 27,
           "syphoned": 96,
           "rarity": "COMMON"
         },

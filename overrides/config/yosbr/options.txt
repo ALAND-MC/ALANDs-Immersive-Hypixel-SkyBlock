@@ -1,11 +1,11 @@
 version:4790
 ao:true
 biomeBlendRadius:2
-chunkSectionFadeInTime:0.75
+chunkSectionFadeInTime:0.0
 cutoutLeaves:true
 enableVsync:true
 entityDistanceScaling:1.0
-entityShadows:true
+entityShadows:false
 forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.5
@@ -27,8 +27,8 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
-cloudRange:32
+renderClouds:"false"
+cloudRange:128
 renderDistance:8
 simulationDistance:5
 screenEffectScale:0.0
@@ -45,7 +45,7 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertXMouse:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
@@ -58,13 +58,13 @@ sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.5
+mouseSensitivity:0.5023474178403756
 damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
-narratorHotkey:true
-resourcePacks:["vanilla","server/00000000/242681e6-5e10-3cc8-8a64-451bdbf97e0b","file/Stay True 1.21.5.zip","file/FurSky Reborn.cats.zip","file/Dungeon Tooltips [Small].zip","cursors_extended:default","continuity:glass_pane_culling_fix","continuity:default","file/Skyblock Dark UI 1.16 for 1.21.11+.zip","file/Dark Skyblock v2.0c.cats.zip","file/FreshAnimations_v1.10.5.zip","file/AL\u0027s Zombies Revamped+FA 1.4.1.zip","file/AL\u0027s Boss Rush+FA 2.0.zip","file/§c§lHaxR\u0027s Wither Lords.zip","file/NEVEREND.zip","file/AL\u0027s Enderman Revamped+FA 2.0.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/AL\u0027s Piglins Revamped+FA 1.2.zip","file/Creepers Reforged x FA v1.1.3.zip","file/AL\u0027s Spiders Revamped+FA 1.5.zip","file/§4Drodi\u0027s Slimes FA [V1.1].zip","file/§4Drodi\u0027s Blazes FA [V1.2].zip","file/Ghasts Galore!.zip","file/golems-refreshed-fa-v2.1.zip","file/§a§lVocal Villagers §r§71.4.zip","file/Simple Grass Flowers v1.9.6.zip","file/SaturatedGrass!(1.2v).zip","file/ShadedFont.zip","file/Animated+.zip","file/§6§lCC Click Sound §e§l26.1+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip","atmospherics:atmospherics_pack","file/§eLight §6Leak §8[v1.4.0].zip","file/ReShaded [v.1.4.2] 26.1.zip","file/§6§lVanilla Tweaks 26.1.x.zip","file/sunbathing-v1.2.zip"]
-incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/Dungeon Tooltips [Small].zip","file/§c§lHaxR\u0027s Wither Lords.zip","file/NEVEREND.zip","file/AL\u0027s Skeletons Revamped+FA 1.5.2.zip","file/Creepers Reforged x FA v1.1.3.zip","file/§4Drodi\u0027s Slimes FA [V1.1].zip","file/§4Drodi\u0027s Blazes FA [V1.2].zip","file/Ghasts Galore!.zip","file/golems-refreshed-fa-v2.1.zip","file/SaturatedGrass!(1.2v).zip","file/ShadedFont.zip","file/Animated+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip","atmospherics:atmospherics_pack","file/§eLight §6Leak §8[v1.4.0].zip"]
+narratorHotkey:false
+resourcePacks:["vanilla","server/00000000/242681e6-5e10-3cc8-8a64-451bdbf97e0b","file/Stay True 1.21.5.zip","file/FurSky Reborn.cats.zip","file/Skyblock Dark UI 1.16 for 1.21.11+.zip","file/Dark Skyblock v2.0c.cats.zip","file/§6§lCC Click Sound §e§l26.1+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip","file/§6§lVanilla Tweaks 26.1.x.zip"]
+incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -129,7 +129,7 @@ key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
-key_key.spectatorHotbar:key.keyboard.unknown
+key_key.spectatorHotbar:key.mouse.middle
 key_key.swapOffhand:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
@@ -171,7 +171,6 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.stfu.narrator_hotkey:key.keyboard.unknown
 key_key.stfu.skip_music:key.keyboard.unknown
 key_key.stfu.toggle_music:key.keyboard.unknown
-key_key.atmospherics.open:key.keyboard.unknown
 key_customscoreboard.keybinds.toggle:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
@@ -220,7 +219,6 @@ key_key.gammautils.minGamma:key.keyboard.unknown
 key_key.gammautils.nightVisionToggle:key.keyboard.unknown
 key_key.gammautils.increaseNightVision:key.keyboard.unknown
 key_key.gammautils.decreaseNightVision:key.keyboard.unknown
-key_modernwarpmenu.key.openWarpMenu:key.keyboard.unknown
 key_key.tooltipscroll.moveUp:key.keyboard.unknown
 key_key.tooltipscroll.moveDown:key.keyboard.unknown
 key_key.tooltipscroll.reset:key.keyboard.unknown
@@ -237,9 +235,21 @@ key_key.skyblock-item-list.viewRecipe:key.keyboard.r
 key_key.skyblock-item-list.viewUsage:key.keyboard.u
 key_key.skyblock-item-list.reopenPreviousRecipe:key.keyboard.a
 key_key.skyblock-item-list.favoriteItem:key.keyboard.unknown
+key_key.skyblocker.loadout.01:key.keyboard.1
+key_key.skyblocker.loadout.02:key.keyboard.2
+key_key.skyblocker.loadout.03:key.keyboard.3
+key_key.skyblocker.loadout.04:key.keyboard.4
+key_key.skyblocker.loadout.05:key.keyboard.5
+key_key.skyblocker.loadout.06:key.keyboard.6
+key_key.skyblocker.loadout.07:key.keyboard.7
+key_key.skyblocker.loadout.08:key.keyboard.8
+key_key.skyblocker.loadout.09:key.keyboard.9
+key_key.skyblocker.loadout.10:key.keyboard.0
+key_key.skyblocker.loadout.11:key.keyboard.minus
+key_key.skyblocker.loadout.12:key.keyboard.equal
+key_key.skyblocker.itemProtection:key.keyboard.unknown
 key_key.skyblocker.valueBreadownPopup:key.keyboard.unknown
 key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown
-key_key.skyblocker.itemProtection:key.keyboard.unknown
 key_key.skyblocker.itemPriceLookup:key.keyboard.g
 key_key.skyblocker.slottext:key.keyboard.unknown
 key_key.skyblocker.wikiLookup.official:key.keyboard.unknown
@@ -251,21 +261,19 @@ key_skyocean.keybind.item_highlight:key.keyboard.unknown
 key_skyocean.keybind.customize:key.keyboard.unknown
 key_skyocean.keybind.item_value:key.keyboard.j
 key_skyocean.keybind.crafthelper:key.keyboard.v
-key_key.swinginglanterns.debug_overlay:key.keyboard.f9
-key_key.timechanger.openconfig:key.keyboard.right.control
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 soundCategory_master:0.5022075055187638
 soundCategory_music:0.0
 soundCategory_record:0.20892018779342736
-soundCategory_weather:0.2018779342723004
+soundCategory_weather:0.20892018779342716
 soundCategory_block:0.20892018779342736
-soundCategory_hostile:0.051643192488262976
+soundCategory_hostile:0.1009389671361503
 soundCategory_neutral:0.20422535211267606
-soundCategory_player:0.2018779342723004
-soundCategory_ambient:0.20657276995305152
+soundCategory_player:0.20892018779342716
+soundCategory_ambient:0.20892018779342736
 soundCategory_voice:0.0
-soundCategory_ui:1.0
+soundCategory_ui:0.5070422535211268
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

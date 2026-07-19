@@ -27,7 +27,7 @@
     "Level 100 Skill": {
       "data": {
         "achieved": false,
-        "progress": 60
+        "progress": 75
       }
     },
     "400 Pet Score": {
@@ -153,7 +153,7 @@
     "Magic Sigma": {
       "data": {
         "achieved": true,
-        "progress": 2047
+        "progress": 2050
       }
     },
     "Recipe Unlocker": {
@@ -170,7 +170,7 @@
     },
     "Double Trouble": {
       "data": {
-        "achieved": false,
+        "achieved": true,
         "progress": 0
       }
     },
@@ -255,7 +255,7 @@
     "Social Butterfly": {
       "data": {
         "achieved": true,
-        "progress": 10
+        "progress": 12
       }
     },
     "Romeros Hotbar": {
@@ -325,6 +325,12 @@
       }
     },
     "Copy Error": {
+      "data": {
+        "achieved": true,
+        "progress": 0
+      }
+    },
+    "Contrib Famous": {
       "data": {
         "achieved": false,
         "progress": 0
