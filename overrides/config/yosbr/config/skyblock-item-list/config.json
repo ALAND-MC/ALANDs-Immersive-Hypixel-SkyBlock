@@ -1,10 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "general": {
     "enabled": true,
     "nonPixelatedItemScale": true,
     "maxWidth": 1.0,
     "leftClickAction": "OPEN_RECIPE",
+    "middleClickAction": "NOTHING",
     "rightClickAction": "OPEN_INDEPENDENT_WIKI",
     "showOutsideSkyBlock": false
   },

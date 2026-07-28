@@ -53,6 +53,20 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Vitality: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "dark_red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Farming Fortune: ",
                       "color": "gray"
                     },
@@ -63,20 +77,6 @@
                     {
                       "text": "(+18)",
                       "color": "blue"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Alchemy Wisdom: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+2",
-                      "color": "dark_aqua"
                     }
                   ],
                   "italic": false
@@ -123,7 +123,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+4 Vitality ",
+                      "text": "+3 Vitality ",
                       "color": "dark_red"
                     },
                     {
@@ -232,10 +232,16 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,143",
+                      "text": "11,148",
                       "color": "red"
                     }
                   ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Right-click to equip!",
+                  "color": "yellow",
                   "italic": false
                 },
                 "",
@@ -478,10 +484,16 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,143",
+                      "text": "11,148",
                       "color": "red"
                     }
                   ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Right-click to equip!",
+                  "color": "yellow",
                   "italic": false
                 },
                 "",
@@ -723,10 +735,16 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,143",
+                      "text": "11,148",
                       "color": "red"
                     }
                   ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Right-click to equip!",
+                  "color": "yellow",
                   "italic": false
                 },
                 "",
@@ -968,10 +986,16 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,143",
+                      "text": "11,148",
                       "color": "red"
                     }
                   ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Right-click to equip!",
+                  "color": "yellow",
                   "italic": false
                 },
                 "",

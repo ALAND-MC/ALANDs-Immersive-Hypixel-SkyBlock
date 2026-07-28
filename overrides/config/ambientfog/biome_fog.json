@@ -3153,7 +3153,7 @@
       "fogColor": 9894564,
       "skyColor": 9881850,
       "cloudColor": 16777215,
-      "nightFogColor": 2972183,
+      "nightFogColor": 669962,
       "nightSkyColor": 0,
       "nightCloudColor": 526361,
       "intensity": 1.0,
@@ -3166,7 +3166,7 @@
       "haze": {
         "enabled": true,
         "color": 15597369,
-        "nightColor": 609286,
+        "nightColor": 673287,
         "strength": 2.0,
         "bottomY": -64.0,
         "middleY": -5.0,
