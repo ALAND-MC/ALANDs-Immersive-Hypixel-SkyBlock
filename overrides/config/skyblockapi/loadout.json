@@ -279,7 +279,7 @@
           ]
         },
         "equipment": {
-          "currentSlot": 4,
+          "currentSlot": 7,
           "slots": [
             {
               "id": 1,
@@ -388,20 +388,6 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Vitality: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3",
-                            "color": "dark_red"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
                             "text": "Magic Find: ",
                             "color": "gray"
                           },
@@ -449,6 +435,20 @@
                           },
                           {
                             "text": "+1",
+                            "color": "dark_aqua"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Taming Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+2",
                             "color": "dark_aqua"
                           }
                         ],
@@ -670,8 +670,17 @@
                       ]
                     },
                     "minecraft:custom_name": {
-                      "text": "Glistening Implosion Belt",
-                      "color": "gold",
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bloodshot The Primordial ",
+                          "color": "light_purple"
+                        },
+                        {
+                          "text": "✪✪✪✪✪",
+                          "color": "gold"
+                        }
+                      ],
                       "italic": false
                     },
                     "minecraft:lore": [
@@ -679,29 +688,15 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Defense: ",
+                            "text": "Strength: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+70",
-                            "color": "green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "True Defense: ",
-                            "color": "gray"
+                            "text": "+22.5 ",
+                            "color": "red"
                           },
                           {
-                            "text": "+4 ",
-                            "color": "white"
-                          },
-                          {
-                            "text": "(+4)",
+                            "text": "(+6)",
                             "color": "blue"
                           }
                         ],
@@ -711,15 +706,33 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Intelligence: ",
+                            "text": "Crit Chance: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+12 ",
-                            "color": "aqua"
+                            "text": "+6% ",
+                            "color": "blue"
                           },
                           {
-                            "text": "(+12)",
+                            "text": "(+6%)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Crit Damage: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+28% ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "(+6%)",
                             "color": "blue"
                           }
                         ],
@@ -727,7 +740,7 @@
                       },
                       "",
                       {
-                        "text": "Ability: Consolidated ",
+                        "text": "Ability: Forced Metamorphosis ",
                         "color": "gold",
                         "italic": false
                       },
@@ -735,24 +748,121 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Increases all explosion damage dealt by ",
+                            "text": "When killing a ",
                             "color": "gray"
                           },
                           {
-                            "text": "25%",
-                            "color": "green"
+                            "text": "Slayer Boss",
+                            "color": "red"
                           },
                           {
-                            "text": ".",
+                            "text": " or ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Slayer Miniboss",
+                            "color": "red"
+                          },
+                          {
+                            "text": ",",
                             "color": "gray"
                           }
                         ],
                         "italic": false
                       },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "have a ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "10%",
+                            "color": "green"
+                          },
+                          {
+                            "text": " chance to cocoon them!",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "Cocooned enemies will quickly hatch, and can be",
+                        "color": "gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "killed again.",
+                        "color": "gray",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "An eye torn from the Primordial Brood sits dead",
+                        "color": "dark_gray",
+                        "italic": true
+                      },
+                      {
+                        "text": "center, patiently observing. Are you truly the",
+                        "color": "dark_gray",
+                        "italic": true
+                      },
+                      {
+                        "text": "one in control here?",
+                        "color": "dark_gray",
+                        "italic": true
+                      },
                       "",
                       {
                         "text": "Right-click to equip!",
                         "color": "yellow",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Bloodshot Bonus",
+                        "color": "blue",
+                        "italic": false
+                      },
+                      {
+                        "text": "When killing an enemy, you have a",
+                        "color": "gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "2.5%",
+                            "color": "green"
+                          },
+                          {
+                            "text": " chance to cocoon them!",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "Cocooned enemies will quickly hatch,",
+                        "color": "gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "and can be killed again.",
+                        "color": "gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "(Cannot trigger in Dungeons, Kuudra,",
+                        "color": "dark_gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "or on Bosses).",
+                        "color": "dark_gray",
                         "italic": false
                       },
                       "",
@@ -781,19 +891,19 @@
                         "extra": [
                           {
                             "text": "a",
-                            "color": "gold",
+                            "color": "light_purple",
                             "bold": true,
                             "obfuscated": true
                           },
                           " ",
                           {
-                            "text": "LEGENDARY BELT ",
-                            "color": "gold",
+                            "text": "MYTHIC BELT ",
+                            "color": "light_purple",
                             "bold": true
                           },
                           {
                             "text": "a",
-                            "color": "gold",
+                            "color": "light_purple",
                             "bold": true,
                             "obfuscated": true
                           }
@@ -803,28 +913,29 @@
                     ],
                     "minecraft:profile": {
                       "id": [
-                        -896440193,
-                        -59755884,
-                        -1280665573,
-                        -1297214643
+                        -456385501,
+                        777075016,
+                        -1763386644,
+                        -1279073
                       ],
                       "properties": [
                         {
                           "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjI5OTA2MSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFkMmIwMzZkZDY2NGJiOTBjOWQ0NDNjMTk5OGZiNTI2Mzk4YWI0ZGRkZWI3OWI4NDAxYjE2YjlhNGQxMGJhMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-                          "signature": "hsaI8rrPogngwsjOsDSjpIvTF+sKj/i5fPcuUdZMIDHdSXpBIdUa4EIwhDngP502jr06MlfNuKz5NhISmuc4EKTBmRtLnh5kIiGAyvrafMbniwnwacxDUs2Yq4Ryh1mx0KUNzkymEKG+qBbEjP9yCHBT1y8uGH31XPZZCNXlttDFJkJpCgz2qAg7bYlNh3aZF1ZZFsmEfM7ygBwSEQ+vxG3iMcCeBFnUGdwejXWLAu58MK60j2loxMGF/EFPX0qFwd1V0+flgJT3RzNRqbJFDyGUJYacnQtIAPN5NqrHzTPpo9dh4KItfg7GPnyC8/1gjEcHEMecRyYwXybhJ65pSl9PDRl40KkTBTPZxSQfcLMDRApFnE+lH8Z0MEUny5cWHhVuKkHmrzCPTq7tr3aD5QSpoh09sekhVwYASYZyv8SUz7CpArGAzExgOfs+appC61vfsRHKAgxY0BbZiwOmhWutjWMpnN6CD8RP2/81RIB/eZmumpMAVqFs4VbStcKzpl9NoejWz0bmC/2/9q1WL03UmY1205Ja2cE3XRcGsByhAC5n7ZHeJT4iRiuvkM115GRUDVYDmL1B+x+kx97lL0/k2fArzUOqA0TawOr8e+xIlGQlfQi/d2Fe54B3Lh1L2OotbyuXoOq0WDhCTtTBe0sh10JXcfdOAHD51ebX6Vk="
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTczODkzMDcyODU0NywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkYzEyYjhkZjJhMDlmMDkwZDNiZjU3ODAwNWQyN2RhMGNlZGRiZWU0NzkwNDkwZTExZDE0NDkxYTM5MzIxMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                          "signature": "BMzmpIPvd3nfqW/AbKQ5lbFGFxtn1ojz1D8FjguVNgVrl52zW7wKrklGgiRBubW2S75hzwWPsH2/Mmk637HOvsF03JMKvRKQiVrCHtza2qorM1U3Kg2GiSNKdXjx3Itt8RxdP9kACzgdoRDDJwQ7G09PtPrkdQukfTkD/YYAr9L9uTZrfGKp7IqSJ7X4K3w3NpYjXkjKii7Sc/OOuS53aL78RCRAEG3yKe7M/anFF9juOtZ5WMM4WfVbVNiFigvTsawKRF1CI64rhYQLJT0zpeq/cUtGVy5qG2amBQo+z69iG6e6AFEUcZV/2nWD6neX/zagRtU0LWVSJ31hdKU/x5eTzsjcY/WBMxAX+HAy53UmG+u1hA/aGaJ6Zk5N+5+XLB3a5QuuYH+At7tKMt7VMI7F6i14AkmF71ufmxLl6AtXtqz8PDWYVUKE0chzSF6sDt8Y57YYTbfAmR5Ul/HSaoAciRmcPoUwbNlitULNEkx25hbDW91DF+NbMOm0TCWfGVXEVTvIWY1R+YR6YEVObFMVTQUBYFGuLi7OUBfBTiL977DISC+L/wLTBI5esEqSlB7cVDX1ndz2YZ4msduApdUHCoudxzMXrNQA8DYPenxCI79rYUs6o+SnCSXJbcRb2st4dsePm78bFPcuY2VwJMf3ZRdZnhrloemwbK+ItP0="
                         }
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1664690040000,
-                      "id": "IMPLOSION_BELT",
+                      "upgrade_level": 5,
+                      "timestamp": 1757331481098,
+                      "modifier": "blood_shot",
+                      "uuid": "2b721a61-3bbf-4d53-9af9-eb77dabd8731",
+                      "rarity_upgrades": 1,
                       "donated_museum": 1,
-                      "modifier": "glistening",
-                      "uuid": "950fb44c-6614-412c-9664-d67ee005f6db",
-                      "rarity_upgrades": 1
+                      "id": "THE_PRIMORDIAL"
                     },
-                    "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+                    "minecraft:tooltip_style": "hypixel_skyblock:mythic"
                   }
                 },
                 {
@@ -2220,20 +2331,6 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Vitality: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3",
-                            "color": "dark_red"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
                             "text": "Mining Speed: ",
                             "color": "gray"
                           },
@@ -2276,6 +2373,20 @@
                           {
                             "text": "(+3)",
                             "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Taming Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+2",
+                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -3419,20 +3530,6 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Vitality: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3",
-                            "color": "dark_red"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
                             "text": "Farming Fortune: ",
                             "color": "gray"
                           },
@@ -3443,6 +3540,20 @@
                           {
                             "text": "(+18)",
                             "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Taming Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+2",
+                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -3598,7 +3709,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,158",
                             "color": "red"
                           }
                         ],
@@ -3850,7 +3961,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,158",
                             "color": "red"
                           }
                         ],
@@ -4101,7 +4212,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,158",
                             "color": "red"
                           }
                         ],
@@ -4352,7 +4463,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,158",
                             "color": "red"
                           }
                         ],
@@ -4528,20 +4639,6 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Vitality: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3",
-                            "color": "dark_red"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
                             "text": "Fishing Speed: ",
                             "color": "gray"
                           },
@@ -4570,6 +4667,20 @@
                           {
                             "text": "(+1%)",
                             "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Taming Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+2",
+                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -5396,7 +5507,7 @@
               "id": 7,
               "slots": [
                 {
-                  "id": "minecraft:player_head",
+                  "id": "minecraft:paper",
                   "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
@@ -5415,235 +5526,69 @@
                         "minecraft:charged_projectiles"
                       ]
                     },
-                    "minecraft:enchantment_glint_override": true,
+                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/sparkling_amulet",
                     "minecraft:custom_name": {
-                      "text": "Mangrove Locket",
-                      "color": "blue",
+                      "text": "Sparkling Amulet",
+                      "color": "aqua",
                       "italic": false
                     },
                     "minecraft:lore": [
                       {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Vitality: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3",
-                            "color": "dark_red"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Sweep: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3 ",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "(+2)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Foraging Fortune: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+10 ",
-                            "color": "gold"
-                          },
-                          {
-                            "text": "(+5)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Foraging Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+0.5 ",
-                            "color": "dark_aqua"
-                          },
-                          {
-                            "text": "(+0.5)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Boosters: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "⎋",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "⸙",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "ꕮ",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Quantum V",
-                        "color": "blue",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Grants ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3 Vitality ",
-                            "color": "dark_red"
-                          },
-                          {
-                            "text": "on weekdays and",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "+2☯ ",
-                            "color": "dark_aqua"
-                          },
-                          {
-                            "text": "of a random ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Wisdom ",
-                            "color": "dark_aqua"
-                          },
-                          {
-                            "text": "stat on",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "weekends.",
+                        "text": "Increases your chance of finding",
                         "color": "gray",
                         "italic": false
                       },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "This item can be reforged!",
-                        "color": "dark_gray",
-                        "italic": false
-                      },
                       {
                         "text": "",
                         "extra": [
                           {
-                            "text": "* ",
-                            "color": "dark_gray",
+                            "text": "SPARKLING ",
+                            "color": "gold",
                             "bold": true
                           },
                           {
-                            "text": "Co-op Soulbound ",
-                            "color": "dark_gray"
+                            "text": " Critters",
+                            "color": "green"
                           },
                           {
-                            "text": "*",
-                            "color": "dark_gray",
-                            "bold": true
+                            "text": " by ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "2x",
+                            "color": "green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
                           }
                         ],
                         "italic": false
                       },
                       {
-                        "text": "RARE NECKLACE",
-                        "color": "blue",
+                        "text": "Sparkling Amulet bonuses do not stack.",
+                        "color": "dark_gray",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "SPECIAL NECKLACE",
+                        "color": "red",
                         "bold": true,
                         "italic": false
                       }
                     ],
-                    "minecraft:profile": {
-                      "id": [
-                        520129544,
-                        -1237109779,
-                        -1266876645,
-                        -531984619
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjMyOTg1NSwKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTYzNjlkYTNhN2Q2MWNmMGFkNzkxM2E3ODRkMGUyYTkwMWUwNDJmZTBmNzE3ZjI5ZTY2NWJhNjlkNzYwNGVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-                          "signature": "CxPbWdqgmr7/BEuiGHQUo8kqsLuMVXYCL/U0+K0rK9gNwZbO044HcrYS2fOKj7J5Yun8YSXoyJEnv3sB3jWSPrUsow0h+lUWhcZoqd2xckaq7E0fMePUSnI6xqW8384srLmsB2Qs5QMtI3I7sbmKK4IW1EJg0evYbtpu5Smi6sZlRK7yJdkqaTAkgZJCxAStvVrj/kr8bKiA6moge91uexIl6WTbHWCzYqfuRHHs5dxiglIcauJM8Yodv5sM8V3dRPGU3U7n3FQ56d0/96NE0iD39IcEqY1MtWotIvH49WEc/7QWnfxx79GGNZ/Yy+8yJp1J3r9ssoUbPhQ6VdWWzMX3mqwgj/3vSqBiMHNr7FGJAloaekmFmo1nKTeDabsfr2PhSyW28MbN4/JSKN1Ws95ITV9D4RaGhkQwsCiyay1Vs6Trk+dH8Kql6hSGyd/w+loOmxyBXSvM/kHWUT6wy6Ch1FIHyozKM6T1zYr6MKLkEp73t4anH44dLCgLEO2J+iTYk26yxWTUXMH4I7oLTwPl8yr8TNuaBdT6bHmVOML0I9ujg1/4FUR4p4m0vxFkpU1sU1dp5Ig6zMFpLta2WxdnGGLowHDdwV0C3/qHnMnnf4o86CEgM9knO6vLW6I0KmAMLH5skI1mCuqSbX57Y8ejDJhjDy/PYVaHFfCRUq0="
-                        }
-                      ]
-                    },
                     "minecraft:custom_data": {
-                      "enchantments": {
-                        "quantum": 5
-                      },
-                      "timestamp": 1750839377334,
-                      "id": "MANGROVE_LOCKET",
-                      "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
-                      "donated_museum": 1,
-                      "boosters": [
-                        "foraging_wisdom",
-                        "foraging_fortune",
-                        "sweep"
-                      ]
+                      "uuid": "4c47ea9c-64a9-4ff0-a1cb-7241a091570a",
+                      "timestamp": 1786784166938,
+                      "id": "SPARKLING_AMULET"
                     },
-                    "minecraft:tooltip_style": "hypixel_skyblock:rare"
+                    "minecraft:tooltip_style": "hypixel_skyblock:special"
                   }
                 },
+                {},
                 {
-                  "id": "minecraft:player_head",
+                  "id": "minecraft:paper",
                   "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
@@ -5662,76 +5607,13 @@
                         "minecraft:charged_projectiles"
                       ]
                     },
+                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/safari_belt_common",
                     "minecraft:custom_name": {
-                      "text": "Strengthened David's Cloak",
-                      "color": "light_purple",
+                      "text": "Majestic Safari Belt",
+                      "color": "white",
                       "italic": false
                     },
                     "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Health: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+100",
-                            "color": "red"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Defense: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+10 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "(+10)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "True Defense: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+10",
-                            "color": "white"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Strength: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+57 ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "(+7)",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
                       {
                         "text": "",
                         "extra": [
@@ -5740,12 +5622,12 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+102 ",
+                            "text": "+0.5 ",
                             "color": "dark_green"
                           },
                           {
-                            "text": "(+2)",
-                            "color": "dark_green"
+                            "text": "(+0.5)",
+                            "color": "blue"
                           }
                         ],
                         "italic": false
@@ -5758,12 +5640,12 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+55 ",
+                            "text": "+3 ",
                             "color": "gold"
                           },
                           {
-                            "text": "(+5)",
-                            "color": "dark_green"
+                            "text": "(+2)",
+                            "color": "blue"
                           }
                         ],
                         "italic": false
@@ -5772,44 +5654,34 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Hunter Fortune: ",
+                            "text": "Hunting Fortune: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+30",
+                            "text": "+1.5 ",
                             "color": "light_purple"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Magic Find: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "aqua"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Foraging Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+5.5 ",
-                            "color": "dark_aqua"
                           },
                           {
                             "text": "(+0.5)",
-                            "color": "dark_green"
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Speed: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+50 ",
+                            "color": "white"
+                          },
+                          {
+                            "text": "(+50)",
+                            "color": "blue"
                           }
                         ],
                         "italic": false
@@ -5822,50 +5694,37 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+5",
+                            "text": "+1.5 ",
                             "color": "dark_aqua"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Boosters: ",
-                            "color": "gray"
                           },
                           {
-                            "text": "⎋",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "⸙",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "ꕮ",
-                            "color": "dark_green"
+                            "text": "(+0.5)",
+                            "color": "blue"
                           }
                         ],
                         "italic": false
                       },
                       "",
                       {
-                        "text": "The more you Hunt, the stronger this",
-                        "color": "gray",
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "The more ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Safari Milestones",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": " you have,",
+                            "color": "gray"
+                          }
+                        ],
                         "italic": false
                       },
                       {
-                        "text": "cloak gets!",
+                        "text": "the stronger this belt gets!",
                         "color": "gray",
                         "italic": false
                       },
@@ -5878,20 +5737,57 @@
                             "color": "gray"
                           },
                           {
-                            "text": "David ",
-                            "color": "aqua"
+                            "text": "Andrea",
+                            "color": "green"
                           },
                           {
-                            "text": "to view your progress!",
+                            "text": " to view your",
                             "color": "gray"
                           }
                         ],
                         "italic": false
                       },
+                      {
+                        "text": "progress!",
+                        "color": "gray",
+                        "italic": false
+                      },
                       "",
                       {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
+                        "text": "Majestic Bonus",
+                        "color": "blue",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+50 Speed ",
+                            "color": "white"
+                          },
+                          {
+                            "text": "while in the",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Critter Safari",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
                         "italic": false
                       },
                       "",
@@ -5916,399 +5812,23 @@
                         "italic": false
                       },
                       {
-                        "text": "MYTHIC CLOAK",
-                        "color": "light_purple",
+                        "text": "COMMON BELT",
+                        "color": "white",
                         "bold": true,
                         "italic": false
                       }
                     ],
-                    "minecraft:profile": {
-                      "id": [
-                        1126569235,
-                        -1085194983,
-                        -1979055533,
-                        1134457348
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTI2MjI1MzkwNCwKICAicHJvZmlsZUlkIiA6ICI4ZTFjZTM2ZGE2Mzk0ZjgwOTFmZjZjYTZiZTNhZTA5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdWxsY3JlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85OTIzZjM3YTBlN2M2MTJjZmQ0MDhlYzNkMTNhNzVkMDlhMmRiYjM5NTJjMWJhY2JjMzU4MDc0NDMyOGEyYjgzIgogICAgfQogIH0KfQ==",
-                          "signature": "CUuZcP0cXPm2S5Rzeh+0r1DBbDSmBjWb+SV09MvO6Y7ENoFO4+icEevQbQre8y7g7S0HPY4TjF17ZjNH3GC1J2e13Xtmsc8q9zW+SDTXuEBQhk5lUUptfgasL5lru/0Z/Uair2sExXD2MsBtKuUYP7QBzUy/KrQBgoLY4j9iEgt9dFZDC5+sA4pIdO/5rFpEi6lwN+mH8xjE+RS1gUot++PcbXDUM/S9IrVmtS8HRjimvBQqFk6afvqWfuf60H6l2x/6iCKTB2haRUwnDSOPI6VW0m5NJwBzFKhTWLxMne60lsjx0AyDCnLXqlxPfhr6zmfGcdgxg+7cG+4hE9Xa+ZI3DTrk2azmSKhde1iq5kx4v0jKQvKxLpxSAY+Ouv8AGFZsnhGxHTRgY3/juAsJUA8ijGW4tnCNk+pf2t5RKcYkjC9I8ajAR8EJCCN+JXcfhn7cZcAq5QKKo7aca/ZcA4MGE76y5RGV3r0vYEK0SCOYgTisZ+rX91ZcHB4rUZahF/gC1Y5dX+sZnti0iZHPUIoScwec9ujEfS7tg5UDYGlXq2rIYssbkRjKbv6T83MbzY/F5937jqJTcm9xPYuIUluEFsO+vFqK4nA95Q44MG+HP5ZqODE3SgdpGc4itV6KW9dY75DSKO6D5FBpV4zf5FgJOtyuPhRJfre9elugOgY="
-                        }
-                      ]
-                    },
                     "minecraft:custom_data": {
-                      "timestamp": 1750708843299,
-                      "modifier": "strengthened",
-                      "uuid": "a0283aad-b60b-4e16-8311-ccceea9683ef",
-                      "attributeMenuValue": 30,
-                      "id": "DAVIDS_CLOAK",
-                      "donated_museum": 1,
-                      "boosters": [
-                        "sweep",
-                        "foraging_fortune",
-                        "foraging_wisdom"
-                      ]
+                      "upgraded_rarity": "COMMON",
+                      "id": "SAFARI_BELT",
+                      "timestamp": 1786784166937,
+                      "modifier": "majestic",
+                      "uuid": "2600ccce-91d9-469b-8983-3a131887afbe"
                     },
-                    "minecraft:tooltip_style": "hypixel_skyblock:mythic"
+                    "minecraft:tooltip_style": "hypixel_skyblock:common"
                   }
                 },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:dyed_color",
-                        "minecraft:charged_projectiles"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "Mangrove Vine",
-                      "color": "blue",
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Sweep: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3 ",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "(+2)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Foraging Fortune: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+10 ",
-                            "color": "gold"
-                          },
-                          {
-                            "text": "(+5)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Foraging Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+0.5 ",
-                            "color": "dark_aqua"
-                          },
-                          {
-                            "text": "(+0.5)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Boosters: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "⎋",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "⸙",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "ꕮ",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "This item can be reforged!",
-                        "color": "dark_gray",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "* ",
-                            "color": "dark_gray",
-                            "bold": true
-                          },
-                          {
-                            "text": "Co-op Soulbound ",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "*",
-                            "color": "dark_gray",
-                            "bold": true
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "RARE BELT",
-                        "color": "blue",
-                        "bold": true,
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        1129328593,
-                        -1816185389,
-                        -1204881675,
-                        -1907701108
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-                          "signature": "LPOYn08K8RCP3NkHv6/HjdQw+9Tgj3K+Mtd/cG4mnkVh74eDLlQWSdgXhccLS6NEdSji/wgPOQ3c4MhR2Sal0JUQuH8eyCRbRbympkHV0PNjTNf7bWcYiWjNUo8J11pgME2UwRkGiCgE3qWwDl/2I86DSqimeP7CO/4Va1zLezmfNTRLXnEI8BdKXfxzyDJnKpUumxy0gMl5Xq0lWQrKq9iNDMRWyvXGlvzXnPwdK08o9o1vzAI5RdMwlr8VGO71jsY9o4C4MkXL9ASSeZdT7cqffQLThufG4BQueQNGNYO7jTrJYPWPg5I9+NPJ947f2Es4s1uXAhnuhZhVUf7Q/8V7HIsJSNy4Ub03dpvVMIkuKiUhNU1QRIJJ1jqAeoys4Yj4tfeI4EMimeEcWYekfnqosPq0AAACysMnglqKmL2i3sTF1ByJlq7r2W1NN5JhYlrMR1RevUBLL/g6r7EpVqo6uqBR5g9HBBdhsT/E8YKuIQ2e5BzirDAAR1+xluZHTpuO0KiA0wDwh0uYvJI4OwDQQhdpBWEKvQD/TfNkq4uJ3fBsEBlBdMyUqvl3a80pr3tEZHpChr6evO4is/CN7Z5+NDSvWPaV6hCQyND9jDjFC1K8BY6a1iR9aiYIClNlfUuQvDdsTg0VGOZuKyI7c1hsGyeEO+ugD0o97AReGeE="
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "timestamp": 1750850470008,
-                      "id": "MANGROVE_VINE",
-                      "donated_museum": 1,
-                      "uuid": "fcecf9f1-eceb-4872-8995-0c214125c03e",
-                      "boosters": [
-                        "foraging_wisdom",
-                        "foraging_fortune",
-                        "sweep"
-                      ]
-                    },
-                    "minecraft:tooltip_style": "hypixel_skyblock:rare"
-                  }
-                },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:dyed_color",
-                        "minecraft:charged_projectiles"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "Mangrove Grippers",
-                      "color": "blue",
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Sweep: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+3 ",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "(+2)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Foraging Fortune: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+10 ",
-                            "color": "gold"
-                          },
-                          {
-                            "text": "(+5)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Foraging Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+0.5 ",
-                            "color": "dark_aqua"
-                          },
-                          {
-                            "text": "(+0.5)",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Boosters: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "⎋",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "⸙",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "/",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "ꕮ",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "This item can be reforged!",
-                        "color": "dark_gray",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "* ",
-                            "color": "dark_gray",
-                            "bold": true
-                          },
-                          {
-                            "text": "Co-op Soulbound ",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "*",
-                            "color": "dark_gray",
-                            "bold": true
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "RARE GLOVES",
-                        "color": "blue",
-                        "bold": true,
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        1778096560,
-                        1981168166,
-                        -2098097267,
-                        1095519903
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjUyOTA5NCwKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYTRjZmE1ZGMwOWZiNDk4YmFiMjg1NDYzYWE4ZDc1NDBkZWNjNGRiYWFmYzQyN2I1NjI1MTg2NWFhMmYzMDhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-                          "signature": "vtmVgh6Ncz9fWgWLTuR5MM1YthcncSoFidFqiE0JRLg+Wzg5Nv+YGKBcl4DGYIZuSdmtd5i5+hb+yW/0+UDrJj1wwV0o7k//wmYDUDFlIbR3DmD6RYYAiiK1T1teSlDzHhGRNdruxBiqLik3nBrGXiuWFy+2CNVA1hk9zJ0Mx6eVJDtztdP1YBOgq46d7VwDX8LshgHi/4RuBwhghc9+Jp0sMYzvFZXu0D49Sb5A6wKxUR0E4BzXhXWdQE8FEjylxVI9vwEilpGhyCgmg4vicIbrabP8InqWlGDzjDz7cdF45LgvoNlFGy1sjF3xHKekbH3cjSKjPljYdsASvDhi6PSDUiKymUnTUOaeFilIQ4LKBcV0XYbP4evxD8aZOn3iVfDGrdPKaiVOWT//uEpEfpzQjNrGZ+YxtqjRAKZuUgQ6UsCoRi5y/oBqC30oCeVMsEkjniI7lUPGM9QR1JYTem+HyfOnzXgR6DWT3NlpZuECmkGUc7ANpRP6DOeszdV4w7asJKnZhoGU6CGgZZXhNMx8ZsUrAyk+Uy7oxaFTkPUkfwmGtGyUVCxy9KGehpOBYqF1wUw/dxGBfGT6s4lwxjEQ5g277MAbB7HM0wNTq5h+2I2qjPx70MPE8wQTQxE2ihat5wwiJv0yqlq1Dc15fLBd1EC5+5pBCgE2orDuq18="
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "timestamp": 1750966611761,
-                      "id": "MANGROVE_GRIPPERS",
-                      "donated_museum": 1,
-                      "uuid": "fd22f8f6-3a04-4f72-98a2-130be88fba03",
-                      "boosters": [
-                        "sweep",
-                        "foraging_wisdom",
-                        "foraging_fortune"
-                      ]
-                    },
-                    "minecraft:tooltip_style": "hypixel_skyblock:rare"
-                  }
-                }
+                {}
               ],
               "locked": false
             },
@@ -6317,7 +5837,184 @@
               "slots": [
                 {},
                 {},
-                {},
+                {
+                  "id": "minecraft:player_head",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:dyed_color",
+                        "minecraft:charged_projectiles"
+                      ]
+                    },
+                    "minecraft:custom_name": {
+                      "text": "Glistening Implosion Belt",
+                      "color": "gold",
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Defense: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+70",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "True Defense: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+4 ",
+                            "color": "white"
+                          },
+                          {
+                            "text": "(+4)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Intelligence: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+12 ",
+                            "color": "aqua"
+                          },
+                          {
+                            "text": "(+12)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Ability: Consolidated ",
+                        "color": "gold",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Increases all explosion damage dealt by ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "25%",
+                            "color": "green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Right-click to equip!",
+                        "color": "yellow",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "* ",
+                            "color": "dark_gray",
+                            "bold": true
+                          },
+                          {
+                            "text": "Co-op Soulbound ",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "*",
+                            "color": "dark_gray",
+                            "bold": true
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "a",
+                            "color": "gold",
+                            "bold": true,
+                            "obfuscated": true
+                          },
+                          " ",
+                          {
+                            "text": "LEGENDARY BELT ",
+                            "color": "gold",
+                            "bold": true
+                          },
+                          {
+                            "text": "a",
+                            "color": "gold",
+                            "bold": true,
+                            "obfuscated": true
+                          }
+                        ],
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:profile": {
+                      "id": [
+                        -896440193,
+                        -59755884,
+                        -1280665573,
+                        -1297214643
+                      ],
+                      "properties": [
+                        {
+                          "name": "textures",
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjI5OTA2MSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFkMmIwMzZkZDY2NGJiOTBjOWQ0NDNjMTk5OGZiNTI2Mzk4YWI0ZGRkZWI3OWI4NDAxYjE2YjlhNGQxMGJhMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                          "signature": "hsaI8rrPogngwsjOsDSjpIvTF+sKj/i5fPcuUdZMIDHdSXpBIdUa4EIwhDngP502jr06MlfNuKz5NhISmuc4EKTBmRtLnh5kIiGAyvrafMbniwnwacxDUs2Yq4Ryh1mx0KUNzkymEKG+qBbEjP9yCHBT1y8uGH31XPZZCNXlttDFJkJpCgz2qAg7bYlNh3aZF1ZZFsmEfM7ygBwSEQ+vxG3iMcCeBFnUGdwejXWLAu58MK60j2loxMGF/EFPX0qFwd1V0+flgJT3RzNRqbJFDyGUJYacnQtIAPN5NqrHzTPpo9dh4KItfg7GPnyC8/1gjEcHEMecRyYwXybhJ65pSl9PDRl40KkTBTPZxSQfcLMDRApFnE+lH8Z0MEUny5cWHhVuKkHmrzCPTq7tr3aD5QSpoh09sekhVwYASYZyv8SUz7CpArGAzExgOfs+appC61vfsRHKAgxY0BbZiwOmhWutjWMpnN6CD8RP2/81RIB/eZmumpMAVqFs4VbStcKzpl9NoejWz0bmC/2/9q1WL03UmY1205Ja2cE3XRcGsByhAC5n7ZHeJT4iRiuvkM115GRUDVYDmL1B+x+kx97lL0/k2fArzUOqA0TawOr8e+xIlGQlfQi/d2Fe54B3Lh1L2OotbyuXoOq0WDhCTtTBe0sh10JXcfdOAHD51ebX6Vk="
+                        }
+                      ]
+                    },
+                    "minecraft:custom_data": {
+                      "timestamp": 1664690040000,
+                      "id": "IMPLOSION_BELT",
+                      "donated_museum": 1,
+                      "modifier": "glistening",
+                      "uuid": "950fb44c-6614-412c-9664-d67ee005f6db",
+                      "rarity_upgrades": 1
+                    },
+                    "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+                  }
+                },
                 {}
               ],
               "locked": false
@@ -6327,7 +6024,235 @@
               "slots": [
                 {},
                 {},
-                {},
+                {
+                  "id": "minecraft:paper",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:dyed_color",
+                        "minecraft:charged_projectiles"
+                      ]
+                    },
+                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/safari_belt_common",
+                    "minecraft:custom_name": {
+                      "text": "Majestic Safari Belt",
+                      "color": "white",
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Sweep: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+0.5 ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "(+0.5)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3 ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "(+2)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Hunting Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1.5 ",
+                            "color": "light_purple"
+                          },
+                          {
+                            "text": "(+0.5)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Hunting Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1.5 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+0.5)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "The more ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Safari Milestones",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": " you have,",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "the stronger this belt gets!",
+                        "color": "gray",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Talk to ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Andrea",
+                            "color": "green"
+                          },
+                          {
+                            "text": " to view your",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "progress!",
+                        "color": "gray",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Right-click to equip!",
+                        "color": "yellow",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Majestic Bonus",
+                        "color": "blue",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+50 Speed ",
+                            "color": "white"
+                          },
+                          {
+                            "text": "while in the",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Critter Safari",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "* ",
+                            "color": "dark_gray",
+                            "bold": true
+                          },
+                          {
+                            "text": "Soulbound ",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "*",
+                            "color": "dark_gray",
+                            "bold": true
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "COMMON BELT",
+                        "color": "white",
+                        "bold": true,
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:custom_data": {
+                      "upgraded_rarity": "COMMON",
+                      "id": "SAFARI_BELT",
+                      "timestamp": 1785926927848,
+                      "modifier": "majestic",
+                      "uuid": "61662ecb-7137-46d6-916e-4120180d1e9f"
+                    },
+                    "minecraft:tooltip_style": "hypixel_skyblock:common"
+                  }
+                },
                 {}
               ],
               "locked": false

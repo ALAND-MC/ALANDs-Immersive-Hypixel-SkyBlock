@@ -74,7 +74,7 @@
           "rarity": "UNCOMMON"
         },
         "attribute:r64": {
-          "owned": 1,
+          "owned": 4,
           "syphoned": 48,
           "rarity": "RARE"
         },
@@ -207,6 +207,26 @@
           "owned": 40,
           "syphoned": 32,
           "rarity": "EPIC"
+        },
+        "attribute:r85": {
+          "owned": 3,
+          "syphoned": 0,
+          "rarity": "RARE"
+        },
+        "attribute:c67": {
+          "owned": 5,
+          "syphoned": 0,
+          "rarity": "COMMON"
+        },
+        "attribute:c52": {
+          "owned": 3,
+          "syphoned": 0,
+          "rarity": "COMMON"
+        },
+        "attribute:r88": {
+          "owned": 2,
+          "syphoned": 0,
+          "rarity": "RARE"
         }
       }
     }
