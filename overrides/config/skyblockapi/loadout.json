@@ -4,7 +4,7 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "armor": {
-          "currentSlot": -1,
+          "currentSlot": 6,
           "slots": [
             {
               "id": 1,
@@ -279,7 +279,7 @@
           ]
         },
         "equipment": {
-          "currentSlot": 7,
+          "currentSlot": 6,
           "slots": [
             {
               "id": 1,
@@ -388,6 +388,20 @@
                         "text": "",
                         "extra": [
                           {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
                             "text": "Magic Find: ",
                             "color": "gray"
                           },
@@ -435,20 +449,6 @@
                           },
                           {
                             "text": "+1",
-                            "color": "dark_aqua"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
                             "color": "dark_aqua"
                           }
                         ],
@@ -2331,6 +2331,20 @@
                         "text": "",
                         "extra": [
                           {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
                             "text": "Mining Speed: ",
                             "color": "gray"
                           },
@@ -2373,20 +2387,6 @@
                           {
                             "text": "(+3)",
                             "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -3530,6 +3530,20 @@
                         "text": "",
                         "extra": [
                           {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
                             "text": "Farming Fortune: ",
                             "color": "gray"
                           },
@@ -3540,20 +3554,6 @@
                           {
                             "text": "(+18)",
                             "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -3709,16 +3709,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -3961,16 +3955,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -4212,16 +4200,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -4463,16 +4445,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -4639,6 +4615,20 @@
                         "text": "",
                         "extra": [
                           {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
                             "text": "Fishing Speed: ",
                             "color": "gray"
                           },
@@ -4667,20 +4657,6 @@
                           {
                             "text": "(+1%)",
                             "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -5526,69 +5502,257 @@
                         "minecraft:charged_projectiles"
                       ]
                     },
-                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/sparkling_amulet",
+                    "minecraft:enchantment_glint_override": true,
+                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/honeycomb_necklace",
                     "minecraft:custom_name": {
-                      "text": "Sparkling Amulet",
-                      "color": "aqua",
+                      "text": "Honeycomb Necklace",
+                      "color": "dark_purple",
                       "italic": false
                     },
                     "minecraft:lore": [
                       {
-                        "text": "Increases your chance of finding",
-                        "color": "gray",
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
                         "italic": false
                       },
                       {
                         "text": "",
                         "extra": [
                           {
-                            "text": "SPARKLING ",
-                            "color": "gold",
-                            "bold": true
-                          },
-                          {
-                            "text": " Critters",
-                            "color": "green"
-                          },
-                          {
-                            "text": " by ",
+                            "text": "Sweep: ",
                             "color": "gray"
                           },
                           {
-                            "text": "2x",
+                            "text": "+7 ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "(+2)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30 ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "(+5)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+1)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Hunting Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+1)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Boosters: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "४",
                             "color": "green"
                           },
                           {
-                            "text": ".",
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⎋",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⸙",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "☯",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "ꕮ",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Quantum V",
+                        "color": "blue",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3 Vitality ",
+                            "color": "dark_red"
+                          },
+                          {
+                            "text": "on weekdays and",
                             "color": "gray"
                           }
                         ],
                         "italic": false
                       },
                       {
-                        "text": "Sparkling Amulet bonuses do not stack.",
-                        "color": "dark_gray",
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "+2☯ ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "of a random ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Wisdom ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "stat on",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "weekends.",
+                        "color": "gray",
                         "italic": false
                       },
                       "",
                       {
-                        "text": "SPECIAL NECKLACE",
-                        "color": "red",
+                        "text": "Right-click to equip!",
+                        "color": "yellow",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "This item can be reforged!",
+                        "color": "dark_gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "* ",
+                            "color": "dark_gray",
+                            "bold": true
+                          },
+                          {
+                            "text": "Co-op Soulbound ",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "*",
+                            "color": "dark_gray",
+                            "bold": true
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "EPIC NECKLACE",
+                        "color": "dark_purple",
                         "bold": true,
                         "italic": false
                       }
                     ],
                     "minecraft:custom_data": {
-                      "uuid": "4c47ea9c-64a9-4ff0-a1cb-7241a091570a",
-                      "timestamp": 1786784166938,
-                      "id": "SPARKLING_AMULET"
+                      "enchantments": {
+                        "quantum": 5
+                      },
+                      "timestamp": 1750839377334,
+                      "id": "HONEYCOMB_NECKLACE",
+                      "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
+                      "donated_museum": 1,
+                      "booster_tiers": {
+                        "foraging_fortune": 2,
+                        "sweep": 2,
+                        "fighting": 2,
+                        "hunting_wisdom": 2,
+                        "foraging_wisdom": 2
+                      }
                     },
-                    "minecraft:tooltip_style": "hypixel_skyblock:special"
+                    "minecraft:tooltip_style": "hypixel_skyblock:epic"
                   }
                 },
-                {},
                 {
-                  "id": "minecraft:paper",
+                  "id": "minecraft:player_head",
                   "count": 1,
                   "components": {
                     "minecraft:tooltip_display": {
@@ -5607,13 +5771,76 @@
                         "minecraft:charged_projectiles"
                       ]
                     },
-                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/safari_belt_common",
                     "minecraft:custom_name": {
-                      "text": "Majestic Safari Belt",
-                      "color": "white",
+                      "text": "Strengthened David's Cloak",
+                      "color": "light_purple",
                       "italic": false
                     },
                     "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Health: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+100",
+                            "color": "red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Defense: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+10 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "(+10)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "True Defense: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+10",
+                            "color": "white"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Strength: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+57 ",
+                            "color": "red"
+                          },
+                          {
+                            "text": "(+7)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
                       {
                         "text": "",
                         "extra": [
@@ -5622,12 +5849,12 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+0.5 ",
+                            "text": "+102 ",
                             "color": "dark_green"
                           },
                           {
-                            "text": "(+0.5)",
-                            "color": "blue"
+                            "text": "(+2)",
+                            "color": "dark_green"
                           }
                         ],
                         "italic": false
@@ -5640,12 +5867,12 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+3 ",
+                            "text": "+55 ",
                             "color": "gold"
                           },
                           {
-                            "text": "(+2)",
-                            "color": "blue"
+                            "text": "(+5)",
+                            "color": "dark_green"
                           }
                         ],
                         "italic": false
@@ -5658,12 +5885,8 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+1.5 ",
+                            "text": "+30",
                             "color": "light_purple"
-                          },
-                          {
-                            "text": "(+0.5)",
-                            "color": "blue"
                           }
                         ],
                         "italic": false
@@ -5672,16 +5895,30 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Speed: ",
+                            "text": "Magic Find: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+50 ",
-                            "color": "white"
+                            "text": "+2",
+                            "color": "aqua"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Wisdom: ",
+                            "color": "gray"
                           },
                           {
-                            "text": "(+50)",
-                            "color": "blue"
+                            "text": "+6 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+1)",
+                            "color": "dark_green"
                           }
                         ],
                         "italic": false
@@ -5694,37 +5931,70 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+1.5 ",
+                            "text": "+6 ",
                             "color": "dark_aqua"
                           },
                           {
-                            "text": "(+0.5)",
-                            "color": "blue"
+                            "text": "(+1)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Boosters: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "४",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⎋",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⸙",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "☯",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "ꕮ",
+                            "color": "green"
                           }
                         ],
                         "italic": false
                       },
                       "",
                       {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "The more ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Safari Milestones",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": " you have,",
-                            "color": "gray"
-                          }
-                        ],
+                        "text": "The more you Hunt, the stronger this",
+                        "color": "gray",
                         "italic": false
                       },
                       {
-                        "text": "the stronger this belt gets!",
+                        "text": "cloak gets!",
                         "color": "gray",
                         "italic": false
                       },
@@ -5737,57 +6007,20 @@
                             "color": "gray"
                           },
                           {
-                            "text": "Andrea",
-                            "color": "green"
+                            "text": "David ",
+                            "color": "aqua"
                           },
                           {
-                            "text": " to view your",
+                            "text": "to view your progress!",
                             "color": "gray"
                           }
                         ],
-                        "italic": false
-                      },
-                      {
-                        "text": "progress!",
-                        "color": "gray",
                         "italic": false
                       },
                       "",
                       {
-                        "text": "Majestic Bonus",
-                        "color": "blue",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Grants ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+50 Speed ",
-                            "color": "white"
-                          },
-                          {
-                            "text": "while in the",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Critter Safari",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": ".",
-                            "color": "gray"
-                          }
-                        ],
+                        "text": "Right-click to equip!",
+                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -5812,23 +6045,478 @@
                         "italic": false
                       },
                       {
-                        "text": "COMMON BELT",
-                        "color": "white",
+                        "text": "MYTHIC CLOAK",
+                        "color": "light_purple",
+                        "bold": true,
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:profile": {
+                      "id": [
+                        1126569235,
+                        -1085194983,
+                        -1979055533,
+                        1134457348
+                      ],
+                      "properties": [
+                        {
+                          "name": "textures",
+                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTI2MjI1MzkwNCwKICAicHJvZmlsZUlkIiA6ICI4ZTFjZTM2ZGE2Mzk0ZjgwOTFmZjZjYTZiZTNhZTA5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdWxsY3JlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85OTIzZjM3YTBlN2M2MTJjZmQ0MDhlYzNkMTNhNzVkMDlhMmRiYjM5NTJjMWJhY2JjMzU4MDc0NDMyOGEyYjgzIgogICAgfQogIH0KfQ==",
+                          "signature": "CUuZcP0cXPm2S5Rzeh+0r1DBbDSmBjWb+SV09MvO6Y7ENoFO4+icEevQbQre8y7g7S0HPY4TjF17ZjNH3GC1J2e13Xtmsc8q9zW+SDTXuEBQhk5lUUptfgasL5lru/0Z/Uair2sExXD2MsBtKuUYP7QBzUy/KrQBgoLY4j9iEgt9dFZDC5+sA4pIdO/5rFpEi6lwN+mH8xjE+RS1gUot++PcbXDUM/S9IrVmtS8HRjimvBQqFk6afvqWfuf60H6l2x/6iCKTB2haRUwnDSOPI6VW0m5NJwBzFKhTWLxMne60lsjx0AyDCnLXqlxPfhr6zmfGcdgxg+7cG+4hE9Xa+ZI3DTrk2azmSKhde1iq5kx4v0jKQvKxLpxSAY+Ouv8AGFZsnhGxHTRgY3/juAsJUA8ijGW4tnCNk+pf2t5RKcYkjC9I8ajAR8EJCCN+JXcfhn7cZcAq5QKKo7aca/ZcA4MGE76y5RGV3r0vYEK0SCOYgTisZ+rX91ZcHB4rUZahF/gC1Y5dX+sZnti0iZHPUIoScwec9ujEfS7tg5UDYGlXq2rIYssbkRjKbv6T83MbzY/F5937jqJTcm9xPYuIUluEFsO+vFqK4nA95Q44MG+HP5ZqODE3SgdpGc4itV6KW9dY75DSKO6D5FBpV4zf5FgJOtyuPhRJfre9elugOgY="
+                        }
+                      ]
+                    },
+                    "minecraft:custom_data": {
+                      "timestamp": 1750708843299,
+                      "modifier": "strengthened",
+                      "uuid": "a0283aad-b60b-4e16-8311-ccceea9683ef",
+                      "booster_tiers": {
+                        "foraging_fortune": 2,
+                        "sweep": 2,
+                        "fighting": 2,
+                        "hunting_wisdom": 2,
+                        "foraging_wisdom": 2
+                      },
+                      "attributeMenuValue": 30,
+                      "id": "DAVIDS_CLOAK",
+                      "donated_museum": 1
+                    },
+                    "minecraft:tooltip_style": "hypixel_skyblock:mythic"
+                  }
+                },
+                {
+                  "id": "minecraft:paper",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:dyed_color",
+                        "minecraft:charged_projectiles"
+                      ]
+                    },
+                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/torrhus_belt",
+                    "minecraft:custom_name": {
+                      "text": "Torrhus Belt",
+                      "color": "dark_purple",
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Sweep: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+4 ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "(+2)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+15 ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "(+5)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+1)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Hunting Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+1)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Boosters: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "४",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⎋",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⸙",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "☯",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "ꕮ",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+10% ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "more points towards",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Starlyn Contests",
+                            "color": "light_purple"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Right-click to equip!",
+                        "color": "yellow",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "This item can be reforged!",
+                        "color": "dark_gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "* ",
+                            "color": "dark_gray",
+                            "bold": true
+                          },
+                          {
+                            "text": "Co-op Soulbound ",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "*",
+                            "color": "dark_gray",
+                            "bold": true
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "EPIC BELT",
+                        "color": "dark_purple",
                         "bold": true,
                         "italic": false
                       }
                     ],
                     "minecraft:custom_data": {
-                      "upgraded_rarity": "COMMON",
-                      "id": "SAFARI_BELT",
-                      "timestamp": 1786784166937,
-                      "modifier": "majestic",
-                      "uuid": "2600ccce-91d9-469b-8983-3a131887afbe"
+                      "timestamp": 1750850470008,
+                      "id": "TORRHUS_BELT",
+                      "donated_museum": 1,
+                      "uuid": "fcecf9f1-eceb-4872-8995-0c214125c03e",
+                      "booster_tiers": {
+                        "foraging_fortune": 2,
+                        "sweep": 2,
+                        "fighting": 2,
+                        "hunting_wisdom": 2,
+                        "foraging_wisdom": 2
+                      }
                     },
-                    "minecraft:tooltip_style": "hypixel_skyblock:common"
+                    "minecraft:tooltip_style": "hypixel_skyblock:epic"
                   }
                 },
-                {}
+                {
+                  "id": "minecraft:paper",
+                  "count": 1,
+                  "components": {
+                    "minecraft:tooltip_display": {
+                      "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:dyed_color",
+                        "minecraft:charged_projectiles"
+                      ]
+                    },
+                    "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/veilshroom_bracelet",
+                    "minecraft:custom_name": {
+                      "text": "Veilshroom Bracelet",
+                      "color": "dark_purple",
+                      "italic": false
+                    },
+                    "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Sweep: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+7 ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "(+2)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+30 ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "(+5)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+1)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Hunting Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+1)",
+                            "color": "dark_green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Boosters: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "४",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⎋",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "⸙",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "☯",
+                            "color": "green"
+                          },
+                          {
+                            "text": "/",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "ꕮ",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "Right-click to equip!",
+                        "color": "yellow",
+                        "italic": false
+                      },
+                      "",
+                      {
+                        "text": "This item can be reforged!",
+                        "color": "dark_gray",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "* ",
+                            "color": "dark_gray",
+                            "bold": true
+                          },
+                          {
+                            "text": "Co-op Soulbound ",
+                            "color": "dark_gray"
+                          },
+                          {
+                            "text": "*",
+                            "color": "dark_gray",
+                            "bold": true
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "EPIC BRACELET",
+                        "color": "dark_purple",
+                        "bold": true,
+                        "italic": false
+                      }
+                    ],
+                    "minecraft:custom_data": {
+                      "timestamp": 1750966611761,
+                      "id": "VEILSHROOM_BRACELET",
+                      "donated_museum": 1,
+                      "uuid": "fd22f8f6-3a04-4f72-98a2-130be88fba03",
+                      "booster_tiers": {
+                        "foraging_fortune": 2,
+                        "sweep": 2,
+                        "fighting": 2,
+                        "hunting_wisdom": 2,
+                        "foraging_wisdom": 2
+                      }
+                    },
+                    "minecraft:tooltip_style": "hypixel_skyblock:epic"
+                  }
+                }
               ],
               "locked": false
             },
@@ -6245,10 +6933,11 @@
                     ],
                     "minecraft:custom_data": {
                       "upgraded_rarity": "COMMON",
-                      "id": "SAFARI_BELT",
                       "timestamp": 1785926927848,
+                      "id": "SAFARI_BELT",
                       "modifier": "majestic",
-                      "uuid": "61662ecb-7137-46d6-916e-4120180d1e9f"
+                      "uuid": "61662ecb-7137-46d6-916e-4120180d1e9f",
+                      "donated_museum": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:common"
                   }
@@ -6436,6 +7125,399 @@
                 {}
               ],
               "locked": true
+            }
+          ]
+        },
+        "loadouts": {
+          "currentSlot": 6,
+          "slots": [
+            {
+              "id": 0,
+              "name": "Mage",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "powerstone": {
+                "value": "Bizarre",
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "locked": false
+            },
+            {
+              "id": 1,
+              "name": "Berserk",
+              "armor": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "equipment": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "tunings": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "locked": false
+            },
+            {
+              "id": 2,
+              "name": "Miner",
+              "armor": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "equipment": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "hotm": {
+                "value": "Heart of the Mountain 1",
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433958
+              },
+              "locked": false
+            },
+            {
+              "id": 3,
+              "name": "Farmer",
+              "armor": {
+                "value": 3,
+                "source": "OVERVIEW",
+                "time": 1787653433959
+              },
+              "equipment": {
+                "value": 3,
+                "source": "OVERVIEW",
+                "time": 1787653433959
+              },
+              "powerstone": {
+                "source": "OVERVIEW",
+                "time": 1787653433959
+              },
+              "tunings": {
+                "source": "OVERVIEW",
+                "time": 1787653433959
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433959
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433959
+              },
+              "locked": false
+            },
+            {
+              "id": 4,
+              "name": "Magic Finder",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "tunings": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "locked": false
+            },
+            {
+              "id": 5,
+              "name": "Fisher",
+              "armor": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "equipment": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "locked": false
+            },
+            {
+              "id": 6,
+              "name": "Forager",
+              "armor": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "equipment": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "powerstone": {
+                "value": "Inspired",
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "tunings": {
+                "value": 3,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotf": {
+                "value": "Heart of the Forest 1",
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "locked": false
+            },
+            {
+              "id": 7,
+              "name": "Diver",
+              "armor": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "equipment": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "powerstone": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "tunings": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433961
+              },
+              "locked": false
+            },
+            {
+              "id": 8,
+              "name": "Party Fisher",
+              "armor": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787653433962
+              },
+              "equipment": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787653433962
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787653433962
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787653433962
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433962
+              },
+              "hotf": {
+                "value": "Heart of the Forest 2",
+                "source": "OVERVIEW",
+                "time": 1787653433962
+              },
+              "locked": false
+            },
+            {
+              "id": 9,
+              "name": "Trophy Fisher",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "powerstone": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "tunings": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "locked": false
+            },
+            {
+              "id": 10,
+              "name": "Tarantula",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "locked": false
+            },
+            {
+              "id": 11,
+              "name": "Terror",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "tunings": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787653433963
+              },
+              "locked": false
             }
           ]
         }
