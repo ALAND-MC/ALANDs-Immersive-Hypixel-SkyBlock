@@ -34,5 +34,6 @@
   "armorCopiesAnimationsHack": true,
   "exportRotations": false,
   "asmMaths": true,
-  "logASM": false
+  "logASM": false,
+  "sulfurCubeBlockAnimatesByDefault": false
 }

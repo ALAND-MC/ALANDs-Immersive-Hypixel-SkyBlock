@@ -4,9 +4,9 @@
   "overrides": {},
   "packIds": [
     "file/§6§lVanilla Tweaks 26.1.x.zip",
+    "file/sunbathing-v1.11.zip",
     "file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip",
     "file/§6§lCC Click Sound §e§l26.1+.zip",
-    "file/sunbathing-v1.10.zip",
     "file/ShadedFont.zip",
     "file/SaturatedGrass!(1.2v).zip",
     "file/Simple Grass Flowers v2.0.0.zip",
@@ -26,13 +26,13 @@
     "file/AL\u0027s Zombies Revamped+FA 1.4.1.zip",
     "file/FreshAnimations_v1.10.5.zip",
     "file/Dark Skyblock v2.0c.cats.zip",
-    "file/Skyblock Dark UI 1.17 for 1.21.11+.zip",
+    "file/Skyblock Dark UI 1.18 for 26.1.2+.zip",
     "continuity:default",
     "continuity:glass_pane_culling_fix",
     "cursors_extended:default",
     "file/FurSky Reborn.cats.zip",
     "file/Stay True 1.21.5.zip",
-    "server/00000001/242681e6-5e10-3cc8-8a64-451bdbf97e0b",
+    "server/00000000/242681e6-5e10-3cc8-8a64-451bdbf97e0b",
     "vanilla"
   ]
 }
