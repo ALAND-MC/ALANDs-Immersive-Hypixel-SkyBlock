@@ -207,7 +207,6 @@
   "sandstormWeather": {
     "tumbleweedEnabled": true,
     "particlesEnabled": true,
-    "soundsEnabled": true,
     "clear": {
       "speedMult": 0.1,
       "tumbleweedSpeedMult": 1.0,
@@ -244,9 +243,6 @@
       "alphaMult": 1.0,
       "lifetimeMult": 1.0
     }
-  },
-  "windStreaks": {
-    "enabled": true
   },
   "savedColors": [
     5068384,

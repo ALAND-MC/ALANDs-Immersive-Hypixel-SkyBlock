@@ -35,5 +35,6 @@
   "exportRotations": false,
   "asmMaths": true,
   "logASM": false,
-  "sulfurCubeBlockAnimatesByDefault": false
+  "sulfurCubeBlockAnimatesByDefault": false,
+  "parrotShoulderPositionAnimatesByDefault": true
 }

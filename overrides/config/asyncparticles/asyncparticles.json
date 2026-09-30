@@ -16,7 +16,9 @@
     "failPerSecLimit": 5,
     "suppressCME": false,
     "syncAnimationClasses": [],
-    "syncParticleClasses": []
+    "syncParticleClasses": [
+      "pigcart.particlerain.particle.BlockDisplayParticle"
+    ]
   },
   "rendering": {
     "gpuAcceleration": true,

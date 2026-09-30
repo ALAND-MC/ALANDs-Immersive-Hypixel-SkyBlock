@@ -3,8 +3,8 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "power": "INSPIRED",
-        "magicalPower": 2043,
+        "power": "MAGMA_URCHIN",
+        "accessory_power": 2043,
         "accessories": [
           {
             "id": "minecraft:player_head",
@@ -2248,21 +2248,21 @@
                   "RUBY_0": "PERFECT",
                   "AMBER_0": "PERFECT",
                   "JASPER_0": "PERFECT",
-                  "CITRINE_0": {
-                    "uuid": "bb2d99cc-823e-43f0-bee0-05c989d09ff3",
-                    "quality": "PERFECT"
-                  },
                   "OPAL_0": {
                     "uuid": "a5081879-9488-45fb-bf05-a04621c440c3",
                     "quality": "PERFECT"
                   },
-                  "JADE_0": "PERFECT",
-                  "ONYX_0": {
-                    "uuid": "d7cc1074-ab6c-4566-a46d-4f3067a090c2",
+                  "CITRINE_0": {
+                    "uuid": "bb2d99cc-823e-43f0-bee0-05c989d09ff3",
                     "quality": "PERFECT"
                   },
+                  "JADE_0": "PERFECT",
                   "PERIDOT_0": {
                     "uuid": "38f9fa73-5747-4d59-8f0d-ec5e7f31d215",
+                    "quality": "PERFECT"
+                  },
+                  "ONYX_0": {
+                    "uuid": "d7cc1074-ab6c-4566-a46d-4f3067a090c2",
                     "quality": "PERFECT"
                   },
                   "AQUAMARINE_0": {
@@ -5283,19 +5283,19 @@
                 "modifier": "none",
                 "personal_compact_7": "ENCHANTED_POTATO",
                 "id": "PERSONAL_COMPACTOR_7000",
-                "personal_compact_11": "ENCHANTED_DANDELION",
+                "talisman_enrichment": "magic_find",
                 "personal_compact_9": "ENCHANTED_COCOA",
                 "personal_compact_3": "ENCHANTED_MOONFLOWER",
                 "personal_compact_5": "ENCHANTED_NETHER_STALK",
-                "talisman_enrichment": "magic_find",
+                "personal_compact_11": "ENCHANTED_DANDELION",
                 "personal_compact_10": "ENCHANTED_SUGAR",
-                "PERSONAL_DELETOR_ACTIVE": 1,
                 "uuid": "fe65c43d-5ece-45a4-803d-2e0e5919ebd0",
+                "PERSONAL_DELETOR_ACTIVE": 1,
                 "rarity_upgrades": 1,
                 "personal_compact_8": "ENCHANTED_CARROT",
-                "personal_compact_0": "ENCHANTED_MELON",
+                "originTag": "PERSONAL_COMPACTOR_7000",
                 "personal_compact_6": "ENCHANTED_SUNFLOWER",
-                "originTag": "PERSONAL_COMPACTOR_7000"
+                "personal_compact_0": "ENCHANTED_MELON"
               }
             }
           },
@@ -5453,21 +5453,21 @@
                 }
               ],
               "minecraft:custom_data": {
-                "personal_deletor_3": "SAPLING",
-                "timestamp": 1619437500000,
+                "personal_deletor_4": "DUNGEON_LORE_PAPER",
                 "personal_deletor_2": "TRIPWIRE_HOOK",
-                "personal_deletor_6": "DEFUSE_KIT",
+                "timestamp": 1619437500000,
+                "personal_deletor_1": "LEVER",
                 "modifier": "none",
                 "personal_deletor_5": "TRAINING_WEIGHTS",
-                "personal_deletor_7": "SIGN",
                 "personal_deletor_8": "COBBLE_WALL",
-                "personal_deletor_1": "LEVER",
-                "personal_deletor_4": "DUNGEON_LORE_PAPER",
-                "id": "PERSONAL_DELETOR_7000",
-                "talisman_enrichment": "magic_find",
+                "personal_deletor_7": "SIGN",
+                "personal_deletor_6": "DEFUSE_KIT",
+                "personal_deletor_3": "SAPLING",
                 "personal_deletor_0": "STONE",
-                "PERSONAL_DELETOR_ACTIVE": 1,
+                "talisman_enrichment": "magic_find",
+                "id": "PERSONAL_DELETOR_7000",
                 "uuid": "2b10f6ec-a7d5-419a-8a76-e460dcda982f",
+                "PERSONAL_DELETOR_ACTIVE": 1,
                 "rarity_upgrades": 1,
                 "originTag": "CRAFTING_GRID_COLLECT"
               }
@@ -6042,11 +6042,11 @@
                 ]
               },
               "minecraft:custom_data": {
-                "timestamp": 1673622300000,
+                "boss_tier": 3,
                 "id": "INFERNAL_KUUDRA_CORE",
                 "talisman_enrichment": "magic_find",
                 "uuid": "1815d2d4-8d00-4679-909e-0bcb67a1e365",
-                "boss_tier": 3,
+                "timestamp": 1673622300000,
                 "rarity_upgrades": 1
               }
             }
@@ -6469,9 +6469,9 @@
               "minecraft:custom_data": {
                 "timestamp": 1651403400000,
                 "id": "PULSE_RING",
-                "thunder_charge": 5000000,
-                "uuid": "b188e518-4660-4296-b330-83f089df7905",
                 "talisman_enrichment": "magic_find",
+                "uuid": "b188e518-4660-4296-b330-83f089df7905",
+                "thunder_charge": 5000000,
                 "rarity_upgrades": 1
               }
             }
@@ -27466,79 +27466,7 @@
                 "rarity_upgrades": 1
               }
             }
-          },
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {}
+          }
         ],
         "unlockedPowers": [
           "NO_POWER",
@@ -27574,12 +27502,10 @@
           "SIMPLE",
           "WARRIOR"
         ],
-        "tunings": [
-          {
-            "stat": "INTELLIGENCE",
-            "value": 434.0
-          }
-        ]
+        "tunings": {
+          "stat": "INTELLIGENCE",
+          "value": 434.0
+        }
       }
     }
   }

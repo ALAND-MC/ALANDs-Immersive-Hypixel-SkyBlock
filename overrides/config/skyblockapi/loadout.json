@@ -4,7 +4,7 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "armor": {
-          "currentSlot": 6,
+          "currentSlot": 1,
           "slots": [
             {
               "id": 1,
@@ -279,7 +279,7 @@
           ]
         },
         "equipment": {
-          "currentSlot": 6,
+          "currentSlot": -1,
           "slots": [
             {
               "id": 1,
@@ -639,8 +639,8 @@
                         "quantum": 5
                       },
                       "timestamp": 1687289880000,
-                      "modifier": "strengthened",
                       "uuid": "2233b920-0c91-4fad-84a8-1c30a27d00c9",
+                      "modifier": "strengthened",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "RIFT_NECKLACE_OUTSIDE"
@@ -929,8 +929,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 5,
                       "timestamp": 1757331481098,
-                      "modifier": "blood_shot",
                       "uuid": "2b721a61-3bbf-4d53-9af9-eb77dabd8731",
+                      "modifier": "blood_shot",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "THE_PRIMORDIAL"
@@ -1194,11 +1194,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1664716500000,
-                      "id": "GAUNTLET_OF_CONTAGION",
                       "donated_museum": 1,
-                      "modifier": "glistening",
+                      "id": "GAUNTLET_OF_CONTAGION",
+                      "timestamp": 1664716500000,
                       "uuid": "5314be60-947c-4ffe-bfb4-a3b4218ed9f4",
+                      "modifier": "glistening",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1481,9 +1481,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1762883287943,
-                      "id": "MYTHOS_NECKLACE",
                       "donated_museum": 1,
+                      "id": "MYTHOS_NECKLACE",
+                      "timestamp": 1762883287943,
                       "uuid": "44e563fe-8789-4ef1-9e3e-586458456a15"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1726,11 +1726,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1766260000205,
-                      "id": "GOLDEN_FLEECE",
                       "donated_museum": 1,
-                      "modifier": "strengthened",
+                      "id": "GOLDEN_FLEECE",
+                      "timestamp": 1766260000205,
                       "uuid": "8410882e-051d-4c80-87f0-e1ad8d3c5cd9",
+                      "modifier": "strengthened",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -2007,9 +2007,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1762883299792,
-                      "id": "MYTHOS_BELT",
                       "donated_museum": 1,
+                      "id": "MYTHOS_BELT",
+                      "timestamp": 1762883299792,
                       "uuid": "768adbb7-bdd8-4fe0-b637-479faeba4ddc"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2286,9 +2286,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1762883295124,
-                      "id": "MYTHOS_BRACELET",
                       "donated_museum": 1,
+                      "id": "MYTHOS_BRACELET",
+                      "timestamp": 1762883295124,
                       "uuid": "38c1caad-e1b9-48f7-9ff5-c27a53b64495"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2656,8 +2656,8 @@
                         "quantum": 5
                       },
                       "timestamp": 1748172306288,
-                      "modifier": "blazing",
                       "uuid": "96a57b3e-493a-4747-a53d-375585f19ca3",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "AMBER_NECKLACE"
@@ -2951,11 +2951,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1748172306838,
-                      "id": "SAPPHIRE_CLOAK",
                       "donated_museum": 1,
-                      "modifier": "blazing",
+                      "id": "SAPPHIRE_CLOAK",
+                      "timestamp": 1748172306838,
                       "uuid": "85585f9c-c77a-409b-bbd6-ea4157cccdad",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3247,11 +3247,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1748172307438,
-                      "id": "JADE_BELT",
                       "donated_museum": 1,
-                      "modifier": "blazing",
+                      "id": "JADE_BELT",
+                      "timestamp": 1748172307438,
                       "uuid": "0011e7aa-6202-484f-8b96-f3a46032fa29",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3465,11 +3465,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1718191185345,
-                      "id": "DWARVEN_HANDWARMERS",
                       "donated_museum": 1,
-                      "modifier": "blazing",
+                      "id": "DWARVEN_HANDWARMERS",
+                      "timestamp": 1718191185345,
                       "uuid": "4ff4683b-02c9-4064-a8d8-bc88ced07194",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3782,8 +3782,8 @@
                         "green_thumb": 5
                       },
                       "timestamp": 1676405220000,
-                      "modifier": "rooted",
                       "uuid": "731e73c7-e6d4-4e3b-82f3-b1755649ad36",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_NECKLACE"
@@ -4027,8 +4027,8 @@
                         "green_thumb": 5
                       },
                       "timestamp": 1676405400000,
-                      "modifier": "rooted",
                       "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_CLOAK"
@@ -4272,8 +4272,8 @@
                         "green_thumb": 5
                       },
                       "timestamp": 1676405280000,
-                      "modifier": "rooted",
                       "uuid": "12322eaf-55f0-4266-9209-d866fd46cd0b",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_BELT"
@@ -4517,8 +4517,8 @@
                         "green_thumb": 5
                       },
                       "timestamp": 1676404560000,
-                      "modifier": "rooted",
                       "uuid": "2c8ae7e6-f42d-45ae-b9f5-1a0b7eb28a21",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_BRACELET"
@@ -4933,8 +4933,8 @@
                         "quantum": 5
                       },
                       "timestamp": 1651345380000,
-                      "modifier": "snowy",
                       "uuid": "f4c61073-c6a9-4813-8e99-31e00b098fb0",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_GAUNTLET"
@@ -5111,8 +5111,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
                       "timestamp": 1666228500000,
-                      "modifier": "snowy",
                       "uuid": "44a1e477-89c3-4d01-a219-c8aeadc5c9ce",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "GILLSPLASH_CLOAK"
@@ -5289,8 +5289,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
                       "timestamp": 1666228500000,
-                      "modifier": "snowy",
                       "uuid": "147da9c0-cf40-4c79-90f7-cda7c055e028",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "GILLSPLASH_BELT"
@@ -5467,8 +5467,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
                       "timestamp": 1664019660000,
-                      "modifier": "snowy",
                       "uuid": "c40d696e-be5f-49c9-a3be-342f6c091ed5",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "GILLSPLASH_GLOVES"
@@ -5733,18 +5733,18 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "donated_museum": 1,
+                      "id": "HONEYCOMB_NECKLACE",
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1750839377334,
-                      "id": "HONEYCOMB_NECKLACE",
                       "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
-                      "donated_museum": 1,
+                      "timestamp": 1750839377334,
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       }
                     },
@@ -6068,18 +6068,18 @@
                     },
                     "minecraft:custom_data": {
                       "timestamp": 1750708843299,
-                      "modifier": "strengthened",
                       "uuid": "a0283aad-b60b-4e16-8311-ccceea9683ef",
+                      "modifier": "strengthened",
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       },
-                      "attributeMenuValue": 30,
+                      "donated_museum": 1,
                       "id": "DAVIDS_CLOAK",
-                      "donated_museum": 1
+                      "attributeMenuValue": 30
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
                   }
@@ -6302,15 +6302,15 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1750850470008,
-                      "id": "TORRHUS_BELT",
                       "donated_museum": 1,
+                      "id": "TORRHUS_BELT",
+                      "timestamp": 1750850470008,
                       "uuid": "fcecf9f1-eceb-4872-8995-0c214125c03e",
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       }
                     },
@@ -6502,15 +6502,15 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1750966611761,
-                      "id": "VEILSHROOM_BRACELET",
                       "donated_museum": 1,
+                      "id": "VEILSHROOM_BRACELET",
+                      "timestamp": 1750966611761,
                       "uuid": "fd22f8f6-3a04-4f72-98a2-130be88fba03",
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       }
                     },
@@ -6693,11 +6693,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1664690040000,
-                      "id": "IMPLOSION_BELT",
                       "donated_museum": 1,
-                      "modifier": "glistening",
+                      "id": "IMPLOSION_BELT",
+                      "timestamp": 1664690040000,
                       "uuid": "950fb44c-6614-412c-9664-d67ee005f6db",
+                      "modifier": "glistening",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -6932,12 +6932,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "upgraded_rarity": "COMMON",
-                      "timestamp": 1785926927848,
+                      "donated_museum": 1,
                       "id": "SAFARI_BELT",
-                      "modifier": "majestic",
+                      "upgraded_rarity": "COMMON",
                       "uuid": "61662ecb-7137-46d6-916e-4120180d1e9f",
-                      "donated_museum": 1
+                      "modifier": "majestic",
+                      "timestamp": 1785926927848
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:common"
                   }
@@ -7129,37 +7129,37 @@
           ]
         },
         "loadouts": {
-          "currentSlot": 6,
+          "currentSlot": 3,
           "slots": [
             {
               "id": 0,
               "name": "Mage",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954502
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954502
               },
               "powerstone": {
                 "value": "Bizarre",
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954502
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954502
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954502
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954502
               },
               "locked": false
             },
@@ -7169,30 +7169,30 @@
               "armor": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "equipment": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "tunings": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "locked": false
             },
@@ -7202,31 +7202,31 @@
               "armor": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "equipment": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "hotm": {
                 "value": "Heart of the Mountain 1",
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433958
+                "time": 1790762954504
               },
               "locked": false
             },
@@ -7234,30 +7234,29 @@
               "id": 3,
               "name": "Farmer",
               "armor": {
-                "value": 3,
                 "source": "OVERVIEW",
-                "time": 1787653433959
+                "time": 1790762954506
               },
               "equipment": {
-                "value": 3,
+                "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433959
+                "time": 1790762954506
               },
               "powerstone": {
                 "source": "OVERVIEW",
-                "time": 1787653433959
+                "time": 1790762954506
               },
               "tunings": {
                 "source": "OVERVIEW",
-                "time": 1787653433959
+                "time": 1790762954506
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433959
+                "time": 1790762954506
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433959
+                "time": 1790762954506
               },
               "locked": false
             },
@@ -7266,30 +7265,30 @@
               "name": "Magic Finder",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "tunings": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "locked": false
             },
@@ -7299,30 +7298,30 @@
               "armor": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "equipment": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954507
               },
               "locked": false
             },
@@ -7330,33 +7329,32 @@
               "id": 6,
               "name": "Forager",
               "armor": {
-                "value": 6,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954508
               },
               "equipment": {
-                "value": 6,
+                "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954508
               },
               "powerstone": {
                 "value": "Inspired",
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954508
               },
               "tunings": {
                 "value": 3,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954508
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954508
               },
               "hotf": {
-                "value": "Heart of the Forest 1",
+                "value": "Heart of the Forest 2",
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954508
               },
               "locked": false
             },
@@ -7364,30 +7362,29 @@
               "id": 7,
               "name": "Diver",
               "armor": {
-                "value": 6,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954509
               },
               "equipment": {
-                "value": 6,
+                "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954509
               },
               "powerstone": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954509
               },
               "tunings": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954509
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954509
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433961
+                "time": 1790762954509
               },
               "locked": false
             },
@@ -7397,31 +7394,31 @@
               "armor": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1787653433962
+                "time": 1790762954509
               },
               "equipment": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1787653433962
+                "time": 1790762954509
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1787653433962
+                "time": 1790762954509
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1787653433962
+                "time": 1790762954509
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433962
+                "time": 1790762954509
               },
               "hotf": {
                 "value": "Heart of the Forest 2",
                 "source": "OVERVIEW",
-                "time": 1787653433962
+                "time": 1790762954509
               },
               "locked": false
             },
@@ -7430,28 +7427,28 @@
               "name": "Trophy Fisher",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "powerstone": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "tunings": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "locked": false
             },
@@ -7460,30 +7457,30 @@
               "name": "Tarantula",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954510
               },
               "locked": false
             },
@@ -7492,30 +7489,30 @@
               "name": "Terror",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954511
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954511
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954511
               },
               "tunings": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954511
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954511
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1787653433963
+                "time": 1790762954511
               },
               "locked": false
             }
