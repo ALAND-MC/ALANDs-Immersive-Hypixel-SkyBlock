@@ -1,22 +1,21 @@
 # Don't change this! Version used to track needed updates.
-version = 0
+version = 1
 biomeColorRain = true
 
 [biomes]
-biomeParticlesRadius = 32
+mushroomSporeDensity = 0.5
 mushroomSporeBiomes = [
     "minecraft:mushroom_fields"
 ]
-mushroomSporeDensity = 10
+pollenDensity = 0.75
 pollenBiomes = [
     "minecraft:flower_forest",
     "minecraft:sunflower_plains"
 ]
-pollenDensity = 50
+sculkDustDensity = 0.25
 sculkDustBiomes = [
     "minecraft:deep_dark"
 ]
-sculkDustDensity = 5
 
 [geysers]
 useUpdatedSmoke = false

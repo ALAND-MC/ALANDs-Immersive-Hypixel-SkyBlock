@@ -635,10 +635,10 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1687289880000,
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1687289880000,
                       "uuid": "2233b920-0c91-4fad-84a8-1c30a27d00c9",
                       "modifier": "strengthened",
                       "rarity_upgrades": 1,
@@ -2652,10 +2652,10 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1748172306288,
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1748172306288,
                       "uuid": "96a57b3e-493a-4747-a53d-375585f19ca3",
                       "modifier": "blazing",
                       "rarity_upgrades": 1,
@@ -3777,11 +3777,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676405220000,
                       "enchantments": {
                         "quantum": 5,
                         "green_thumb": 5
                       },
-                      "timestamp": 1676405220000,
                       "uuid": "731e73c7-e6d4-4e3b-82f3-b1755649ad36",
                       "modifier": "rooted",
                       "rarity_upgrades": 1,
@@ -4023,10 +4023,10 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676405400000,
                       "enchantments": {
                         "green_thumb": 5
                       },
-                      "timestamp": 1676405400000,
                       "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
                       "modifier": "rooted",
                       "rarity_upgrades": 1,
@@ -4268,10 +4268,10 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676405280000,
                       "enchantments": {
                         "green_thumb": 5
                       },
-                      "timestamp": 1676405280000,
                       "uuid": "12322eaf-55f0-4266-9209-d866fd46cd0b",
                       "modifier": "rooted",
                       "rarity_upgrades": 1,
@@ -4513,10 +4513,10 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676404560000,
                       "enchantments": {
                         "green_thumb": 5
                       },
-                      "timestamp": 1676404560000,
                       "uuid": "2c8ae7e6-f42d-45ae-b9f5-1a0b7eb28a21",
                       "modifier": "rooted",
                       "rarity_upgrades": 1,
@@ -4929,10 +4929,10 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1651345380000,
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1651345380000,
                       "uuid": "f4c61073-c6a9-4813-8e99-31e00b098fb0",
                       "modifier": "snowy",
                       "rarity_upgrades": 1,
@@ -5735,11 +5735,11 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "HONEYCOMB_NECKLACE",
+                      "timestamp": 1750839377334,
+                      "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
                       "enchantments": {
                         "quantum": 5
                       },
-                      "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
-                      "timestamp": 1750839377334,
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
@@ -6934,10 +6934,10 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "SAFARI_BELT",
-                      "upgraded_rarity": "COMMON",
+                      "timestamp": 1785926927848,
                       "uuid": "61662ecb-7137-46d6-916e-4120180d1e9f",
                       "modifier": "majestic",
-                      "timestamp": 1785926927848
+                      "upgraded_rarity": "COMMON"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:common"
                   }
@@ -7129,39 +7129,43 @@
           ]
         },
         "loadouts": {
-          "currentSlot": 3,
+          "currentSlot": 0,
           "slots": [
             {
               "id": 0,
               "name": "Mage",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954502
+                "time": 1792403843794
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954502
+                "time": 1792403843794
               },
               "powerstone": {
                 "value": "Bizarre",
                 "source": "OVERVIEW",
-                "time": 1790762954502
+                "time": 1792403843794
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1790762954502
+                "time": 1792403843794
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954502
+                "time": 1792403843794
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954502
+                "time": 1792403843794
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843794
+              }
             },
             {
               "id": 1,
@@ -7169,32 +7173,36 @@
               "armor": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "equipment": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "tunings": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843794
+              }
             },
             {
               "id": 2,
@@ -7202,95 +7210,107 @@
               "armor": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "equipment": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "hotm": {
                 "value": "Heart of the Mountain 1",
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954504
+                "time": 1792403843794
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843794
+              }
             },
             {
               "id": 3,
               "name": "Farmer",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954506
+                "time": 1792403843799
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954506
+                "time": 1792403843799
               },
               "powerstone": {
                 "source": "OVERVIEW",
-                "time": 1790762954506
+                "time": 1792403843799
               },
               "tunings": {
                 "source": "OVERVIEW",
-                "time": 1790762954506
+                "time": 1792403843799
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954506
+                "time": 1792403843799
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954506
+                "time": 1792403843799
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843799
+              }
             },
             {
               "id": 4,
               "name": "Magic Finder",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843800
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843800
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843800
               },
               "tunings": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843800
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843800
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843800
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843800
+              }
             },
             {
               "id": 5,
@@ -7298,95 +7318,107 @@
               "armor": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843801
               },
               "equipment": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843801
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843801
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843801
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843801
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954507
+                "time": 1792403843801
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843801
+              }
             },
             {
               "id": 6,
               "name": "Forager",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954508
+                "time": 1792403843803
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954508
+                "time": 1792403843803
               },
               "powerstone": {
                 "value": "Inspired",
                 "source": "OVERVIEW",
-                "time": 1790762954508
+                "time": 1792403843803
               },
               "tunings": {
                 "value": 3,
                 "source": "OVERVIEW",
-                "time": 1790762954508
+                "time": 1792403843803
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954508
+                "time": 1792403843803
               },
               "hotf": {
                 "value": "Heart of the Forest 2",
                 "source": "OVERVIEW",
-                "time": 1790762954508
+                "time": 1792403843803
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843803
+              }
             },
             {
               "id": 7,
               "name": "Diver",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "powerstone": {
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "tunings": {
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843803
+              }
             },
             {
               "id": 8,
@@ -7394,127 +7426,143 @@
               "armor": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "equipment": {
                 "value": 5,
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
               "hotf": {
                 "value": "Heart of the Forest 2",
                 "source": "OVERVIEW",
-                "time": 1790762954509
+                "time": 1792403843803
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843803
+              }
             },
             {
               "id": 9,
               "name": "Trophy Fisher",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "powerstone": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "tunings": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843804
+              }
             },
             {
               "id": 10,
               "name": "Tarantula",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "tunings": {
                 "value": 2,
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954510
+                "time": 1792403843804
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843804
+              }
             },
             {
               "id": 11,
               "name": "Terror",
               "armor": {
                 "source": "OVERVIEW",
-                "time": 1790762954511
+                "time": 1792403843804
               },
               "equipment": {
                 "value": -1,
                 "source": "OVERVIEW",
-                "time": 1790762954511
+                "time": 1792403843804
               },
               "powerstone": {
                 "value": "Hurtful",
                 "source": "OVERVIEW",
-                "time": 1790762954511
+                "time": 1792403843804
               },
               "tunings": {
                 "value": 1,
                 "source": "OVERVIEW",
-                "time": 1790762954511
+                "time": 1792403843804
               },
               "hotm": {
                 "source": "OVERVIEW",
-                "time": 1790762954511
+                "time": 1792403843804
               },
               "hotf": {
                 "source": "OVERVIEW",
-                "time": 1790762954511
+                "time": 1792403843804
               },
-              "locked": false
+              "locked": false,
+              "favoredBait": {
+                "source": "OVERVIEW",
+                "time": 1792403843804
+              }
             }
           ]
         }
