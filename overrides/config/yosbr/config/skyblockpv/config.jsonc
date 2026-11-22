@@ -23,6 +23,7 @@
         "FRIENDS",
         "LOBBY"
     ],
+    "replaceStatisticsButton": true,
     "Dev": {
         "devMode": false,
         "hoppityParser": false,

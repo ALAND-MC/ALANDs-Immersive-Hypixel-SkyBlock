@@ -216,19 +216,19 @@
       "enableCommands": false,
       "commandAutocomplete": true,
       "bazaarHistory": [
+        "gift",
         "feast",
-        "Small Brain IV",
-        "experience"
+        "Small Brain IV"
       ],
       "auctionHistory": [
-        "Slug",
         "new year cake",
+        "Slug",
         "Finn\u0027s Focaccia"
       ],
       "museumHistory": [
-        "Gemstone Gauntlet",
-        "Totem of Corruption",
-        "Mosquito Shortbow"
+        "Diamond Necron Head",
+        "ghost",
+        "Gemstone Gauntlet"
       ]
     },
     "bazaarQuickQuantities": {

@@ -49,6 +49,16 @@
       "x": 10.0,
       "y": 10.0,
       "scale": 1.0
+    },
+    "lootshareParty": {
+      "x": 10.0,
+      "y": 60.0,
+      "scale": 1.0
+    },
+    "Diana Crown Of Avarice": {
+      "x": 10.0,
+      "y": 10.0,
+      "scale": 1.0
     }
   }
 }

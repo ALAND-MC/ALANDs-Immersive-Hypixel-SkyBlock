@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.80873104E7,
+              "exp": 4.83310958E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -23,7 +23,7 @@
             {
               "petInternalName": "ENDERMAN;5",
               "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
-              "exp": 2.1661270016450885E8,
+              "exp": 2.169404792E8,
               "uuid": "33c65214-b8cd-4207-a820-08020d5302a2"
             },
             {
@@ -87,13 +87,13 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.243488739E8,
+              "exp": 2.246263498E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
               "petInternalName": "AMMONITE;4",
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 1.847629962E8,
+              "exp": 1.848711798E8,
               "uuid": "29105f0d-7343-4896-b39d-a6541a8d656b"
             },
             {
@@ -189,7 +189,7 @@
             {
               "petInternalName": "HEDGEHOG;4",
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 1.372967359493513E8,
+              "exp": 1.3736438061734265E8,
               "uuid": "8996cd10-99d2-44eb-b90e-97542c21ab8a"
             },
             {
@@ -207,7 +207,7 @@
             {
               "petInternalName": "JELLYFISH;4",
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.76267333E7,
+              "exp": 2.76788749E7,
               "uuid": "7b70f630-1b48-4b1d-b59f-55e3c7875ecd"
             },
             {
@@ -313,7 +313,7 @@
             {
               "petInternalName": "SCATHA;4",
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
-              "exp": 3.296563893E8,
+              "exp": 3.298063648E8,
               "uuid": "4223e26a-a341-43c6-a69e-41350d38ffc2"
             },
             {
@@ -419,13 +419,13 @@
             {
               "petInternalName": "FROG;5",
               "heldItemInternalName": "LOTUS_CROWN",
-              "exp": 2.69328972E7,
+              "exp": 2.74845056E7,
               "uuid": "34eaceff-6df4-4f96-958e-74783cb2350c"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "WINDING_IVY",
-              "exp": 4.633460796E8,
+              "exp": 4.633941432159999E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -459,7 +459,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
-              "exp": 3.734080125E8,
+              "exp": 3.902623817E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -483,7 +483,7 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_EPIC",
-              "exp": 1.0030761332673034E8,
+              "exp": 1.0515862145578669E8,
               "uuid": "f725eeaa-c149-4f88-9ead-0106b31c0679"
             },
             {
@@ -509,8 +509,7 @@
             "f725eeaa-c149-4f88-9ead-0106b31c0679",
             null,
             null
-          ],
-          "beastmasterPetXpMultiplier": 1.05
+          ]
         },
         "zucchini": {
           "pets": [],

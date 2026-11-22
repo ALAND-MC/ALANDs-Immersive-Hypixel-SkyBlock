@@ -3,12 +3,14 @@
   "showActionBar": false,
   "hideIncompatible": false,
   "sort": "VANILLA",
+  "maxWidth": 0,
   "resourcepacks": {
     "applyOnClose": true,
     "replaceOriginal": true,
     "hideIncompatibleWarnings": true,
     "additionalFolders": [],
     "foldersModuleByDefault": false,
+    "swapFolderActions": "NO",
     "rememberLastViewedProfile": false,
     "lastViewedProfile": "Main",
     "profileOrder": [
@@ -21,6 +23,7 @@
     "hideIncompatibleWarnings": false,
     "additionalFolders": [],
     "foldersModuleByDefault": false,
+    "swapFolderActions": "NO",
     "rememberLastViewedProfile": false,
     "profileOrder": []
   }

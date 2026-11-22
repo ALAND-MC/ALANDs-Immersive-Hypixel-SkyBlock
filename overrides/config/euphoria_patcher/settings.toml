@@ -1,5 +1,5 @@
 # This file stores configuration options for the Euphoria Patcher mod
-# Made for version 1.10.5
+# Made for version 1.11.2
 # Thank you for using Euphoria Patches - SpacEagle17
 
 [display]
@@ -56,6 +56,13 @@
 	# 0 = rebuild on every change (slower but no extra ram usage), 2 = two extra dimensions apart from the current one can be cached. Increase if frequently visiting more modded dimensions or decrease if you have limited memory.
 	# Default = 2
 	extraDimensionShaderCacheSize = 2
+
+	# Option that makes some modded effects render like their vanilla counterpart with Euphoria Patches.
+	# Some mods draw stuff with their own shader, which shaderpacks can't see, so the effect shows up wrong or not at all.
+	# This is hardcoded per mod.
+	# The modded effect's own look is lost, disable this if an effect looks wrong or disappears. Only has an effect on Iris and Oculus.
+	# Default = true
+	doTransformCustomShaders = true
 
 	# Option that enables or disables automatic merging of the fragmented block.properties files into the main block.properties file.
 	# The properties files inside "Euphoria Patches/shaders/properties/" will be merged into a single block.properties file at the specified interval if any of them have changed.

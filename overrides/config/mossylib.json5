@@ -1,0 +1,13 @@
+{
+  "mossy": false,
+  "developer_mode": false,
+  "seen_announcements": [
+    "inventory_particles:4.0.0/cache_regeneration",
+    "inventory_particles:4.0.0/particles_editor"
+  ],
+  "dev": {
+    "announcements_mode": "always",
+    "unlock_instantly": false,
+    "announcements": {}
+  }
+}

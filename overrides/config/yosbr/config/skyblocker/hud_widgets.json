@@ -1,6 +1,17 @@
 {
   "configs": {
-    "rift": {
+    "combat_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "garden": {
       "hud": {
         "widgets": {}
       },
@@ -51,116 +62,6 @@
         "widgets": {}
       }
     },
-    "crimson_isle": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "fishing_1": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "foraging_1": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "mining_1": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "foraging_3": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "dynamic": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "combat_1": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "lotus_atoll": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "farming_1": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "mining_2": {
-      "hud": {
-        "widgets": {}
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
     "foraging_2": {
       "hud": {
         "widgets": {}
@@ -172,7 +73,7 @@
         "widgets": {}
       }
     },
-    "garden": {
+    "foraging_1": {
       "hud": {
         "widgets": {}
       },
@@ -205,6 +106,72 @@
         "widgets": {}
       }
     },
+    "lotus_atoll": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "mining_3": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "mining_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "rift": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "farming_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "dynamic": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
     "dungeon": {
       "hud": {
         "widgets": {}
@@ -227,6 +194,39 @@
         "widgets": {}
       }
     },
+    "crimson_isle": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "fishing_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "mining_2": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
     "combat_3": {
       "hud": {
         "widgets": {}
@@ -238,7 +238,7 @@
         "widgets": {}
       }
     },
-    "mining_3": {
+    "foraging_3": {
       "hud": {
         "widgets": {}
       },

@@ -2,7 +2,12 @@
   "effects": [],
   "resetVersion": "0.1.3",
   "changelogVersion": "1.0.0",
+  "settingsVersion": "0.8.0",
+  "settingsPreviousVersion": "0.7.2-beta.3",
+  "whatsNewOpenedVersion": "0.8.0",
+  "whatsNewChatVersion": "0.8.0",
   "downloadMsg": false,
+  "trackersSealed": true,
   "mobsSinceInq": 20,
   "inqsSinceChim": 4,
   "minotaursSinceStick": 172,
@@ -11,6 +16,7 @@
   "highestChimMagicFind": 0,
   "highestStickMagicFind": 461,
   "highestFoodMagicFind": 458,
+  "highestLootingMagicFind": 0,
   "highestWoolMagicFind": 0,
   "highestCoreMagicFind": 0,
   "highestStingerMagicFind": 0,
@@ -31,6 +37,8 @@
     "ENCHANTED_ANCIENT_CLAW",
     "KING_MINOS_SHARD"
   ],
+  "collapsedOverlays": [],
+  "trackerOrder": {},
   "suppressedMessages": [
     "§6[SBO] §cLow render distance detected (8)! §eThis will negatively affect the Diana solvers. Please set your Render Distance to at least 10 from the vanilla options menu."
   ],
@@ -69,6 +77,10 @@
   "b2bFood": false,
   "sphinxSinceLsFood": 21,
   "b2bFoodLs": false,
+  "sphinxSinceLooting": 0,
+  "b2bLooting": false,
+  "sphinxSinceLsLooting": 0,
+  "b2bLootingLs": false,
   "lastStatsProfile": "Pear",
   "cloudSync": {
     "2c3c97d72b1c4355b856dae991ddf5db": {
@@ -81,7 +93,22 @@
   "eventsChartView": "value",
   "eventsHiddenLines": [],
   "pfOnboardingSeen": false,
-  "badgesAboveHeads": true,
-  "badgesInTab": true,
-  "badgeAccess": {}
+  "trackerLookAnswered": false,
+  "customizerInTab": true,
+  "customizerInChat": true,
+  "customizerOwnInF5": true,
+  "customizerNamesInChat": "off",
+  "customizerNamesTag": true,
+  "customizerReplaceEverywhere": false,
+  "customizerAnimationsOfOthers": true,
+  "customizerMotionOfOthers": true,
+  "customizerAnimationsInTab": true,
+  "customizerAnimationsInChat": "own",
+  "customizerLooksOfOthers": true,
+  "customizerSizesOfOthers": true,
+  "customizerLineSize": 1.0,
+  "customizerNameSize": 1.0,
+  "customizerAccess": {},
+  "collapsedSettings": [],
+  "currentCoaUuid": ""
 }

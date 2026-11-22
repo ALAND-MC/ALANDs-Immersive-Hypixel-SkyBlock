@@ -1,4 +1,5 @@
 {
+  "enableMod": true,
   "allowTelemetry": false,
   "allowProfanityFilter": false
 }

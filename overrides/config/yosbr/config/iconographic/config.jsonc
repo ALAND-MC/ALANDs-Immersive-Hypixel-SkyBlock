@@ -1,6 +1,6 @@
 {
     // The version of the config file. Do not change this unless you know what you are doing.
-    "rconfig:version": 2,
+    "rconfig:version": 3,
     "enabled": true,
     "onlyInSkyblock": true,
     "hideVanillaTooltipData": true,
@@ -11,8 +11,12 @@
         "vanillaBackground": false,
         "forceDefaultVanillaBackground": false,
         "skyBlockColor": true,
+        "replaceNoRarityColor": false,
+        // [Color Format: RGB]
+        "customNoRarityColor": 16777215,
         "shinyHolographic": true,
         "alignedStats": false,
+        "colorStatName": false,
         // Valid Values: NORMAL, HIDE, SIDE, SIDE_SHIFT
         "extraStatsDisplay": "NORMAL"
     },
@@ -31,6 +35,10 @@
         "petAbilities": true,
         "petHeldItem": true,
         "petLevel": true,
+        // Valid Values: SHORTENED, DECIMALS, INTEGER
+        "experienceFormat": "INTEGER",
+        // Valid Values: SHORTENED, DECIMALS, INTEGER
+        "maxExperienceFormat": "SHORTENED",
         "petFavourite": true
     },
     "mining": {
@@ -41,9 +49,20 @@
     "fishing": {
         "rodParts": true
     },
+    "foraging": {
+        "boosters": true
+    },
     "misc": {
-        "itemAbility": false,
+        "alignedItemAbility": false,
+        // Valid Values: OFF, INLINE, REPLACE
+        "clickIcons": "REPLACE",
         "enchantedBookNames": true,
-        "skillLevelBar": true
+        "skillLevelBar": true,
+        "itemEnchants": false,
+        "romanEnchant": true,
+        "smallEnchantText": true,
+        "enchantNameBackground": false,
+        "centerEnchantments": true,
+        "stackingProgress": true
     }
 }

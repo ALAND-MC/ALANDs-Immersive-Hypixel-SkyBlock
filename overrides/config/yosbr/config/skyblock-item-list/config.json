@@ -5,6 +5,7 @@
     "nonPixelatedItemScale": true,
     "maxWidth": 1.0,
     "listSide": "RIGHT",
+    "scrollToNavigate": true,
     "leftClickAction": "OPEN_RECIPE",
     "middleClickAction": "NOTHING",
     "rightClickAction": "OPEN_INDEPENDENT_WIKI",
