@@ -3,17 +3,11 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "MITHRIL": {
-          "current": 13825460,
-          "total": 24887303
-        },
-        "GEMSTONE": {
-          "current": 21216326,
-          "total": 47763148
-        },
-        "GLACITE": {
-          "current": 5627666,
-          "total": 29693168
+        "loadouts": [],
+        "total": {
+          "MITHRIL": 27658040,
+          "GEMSTONE": 42442926,
+          "GLACITE": 11512014
         }
       }
     }

@@ -307,6 +307,6 @@
 			#Multiplier for the strength of all camera shake
 			# Default: 1.0
 			# Range: 0.0 ~ 3.0
-			shakeIntensity = 1.0
+			shakeIntensity = 0.0
 			#Sounds that shake the camera. Format: "soundId|intensity|durationTicks|radius". Example: "minecraft:entity.generic.explode|0.8|12|16"
 			shakeSounds = ["minecraft:entity.warden.roar|0.6|70|24", "minecraft:entity.warden.sonic_boom|1.0|15|24", "minecraft:entity.ravager.roar|0.5|25|12", "minecraft:entity.ender_dragon.growl|0.4|40|48", "minecraft:entity.generic.explode|0.8|12|16", "minecraft:entity.dragon_fireball.explode|0.5|12|16"]
